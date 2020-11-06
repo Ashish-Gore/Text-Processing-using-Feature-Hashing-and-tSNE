@@ -1,0 +1,991 @@
+BRA,Summary
+No,XML check output window does not updated until user clicks in it
+No,filtering doen't work in element value completion.
+No,ejb-jar.xml locks
+No,Cannot create Javadocs for WSDLModel
+No,DnD for a group of elements can't be started in the usual way
+No,Schema Based code completion should provide completion values for attributes of type enumeration
+No,NPE in DocumentModelModificationTransaction.access
+No,"InvalidClassException : org.netbeans.modules.xml.text.indent.DTDIndentEngine; local class incompatible: stream classdesc serialVersionUID = 3106188490786412631, local class serialVersionUID = 81774022"
+No,Problem with DTD parsing
+No,'Target Folder Is Read Only' on attempting to create new XML Schema
+No,undo/redo support does not work in visual editor
+No,RuntimeException at AttrImpl.getFirstChild:121
+No,Message in log: A loop in SyntaxElement-s detected around offset 1062 when scanning the document.
+No,Specifing newline before brace causes Warning
+No,Generating XML parsing code from dtd files.
+No,Inconsistent sequence of documents in XML category in New File Wizard
+No,Missing bundle key for text/xml-external-parsed-entity
+No,Schema based code completion using catalog bug
+No,'Schema' view should work correctly
+No,The comparison of the expected output and the actual output seems incorrect
+No,xml error popup on start
+No,I18N - : is used to separate key-element
+No,Incosistent behaviour of the popup menu actions in WSDL navigator
+No,NPE at ExplorerManager.findExplorerActionsImpl(ExplorerManager.java:829)
+No,Using web services in web projects creates very deep directory structures that gives trouble with CVS/Mercurial
+No,Collapse Icons Not Present
+No,Action class without human readable action name
+No,[65cat] IllegalStateException: [Winsys] TopComponent org.netbeans.core.multiview.MultiViewCloneableTopComponent throws runtime exception from its componentShowing() method. Please repair it! Probable cause is
+No,[65cat] AssertionError: Scene.validate was not called after last change. Widget is not validated. See first Q/A at http://graph.netbeans.org/faq.html page.
+No,[65cat] AssertionError: Duplicate setViewShowing: false
+No,Too many extra pages printed for XML design view
+No,NetBeans completely ignores XML template
+No,Unable to install plugin(NBM file)
+No,NullPointerException at org.netbeans.modules.xml.schema.multiview.SchemaABEViewMultiViewElement.emptyUI
+No,NullPointerException at org.netbeans.modules.xml.schema.ui.nodes.categorized.customizer.SimpleTypeCustomizer.determineValidity
+No,Hibernate XML Schema Bug
+No,OutOfMemoryError: Java heap space
+No,XMLKit class problem
+No,Editing XML tags has issues with auto complete
+No,AssertionError at org.netbeans.modules.xml.schema.model.impl.resolver.ImportResolver.findInIncludedImportsDown
+No,NullPointerException at org.netbeans.modules.xml.axi.impl.Util.updateAXIDocument
+No,IllegalStateException: The model is not initialized or is broken.
+No,NullPointerException at org.netbeans.modules.xml.schema.multiview.SchemaColumnViewMultiViewElement.getToolbarRepresentation
+No,Do not override DataEditorSupport.Env.findCloneableOpenSupport
+No,completion error for layer.xml
+No,[68cat] Cannot view XML for configuration files
+No,"[68cat] ""All XML Actions"" entry in XML editor context menu"
+No,[68cat] IllegalStateException: Warning: multiple instances of shared class org.netbeans.modules.xml.actions.CollectDTDAction created.
+No,NullPointerException at org.netbeans.modules.xml.multiview.XmlMultiViewElement.componentShowing
+No,XSD design view is missing.
+No,Can't validate WSDL
+No,[69cat] Ant script code completion doesn't replace already typed characters
+No,"[69cat] XML editor doesn't show ""code folding"" markers for elements"
+No,NetBeans hangs for some time after modification of XML Schema
+No,AbstractDocumentComponent.getQName throws undocumented ISE
+No,"[69cat] org.openide.filesystems.FileStateInvalidException: MasterFileObject[/var/folders/cs/csITBEzdE-ub1k0X1Vp0FU+++TI/-Tmp-/vcs-1277192814707/faces-config.xml@118c7cce:3f7a7834,valid=false]"
+No,AssertionError at org.netbeans.modules.xml.xam.AbstractModelFactory.getModel
+No,NullPointerException at org.netbeans.modules.xml.multiview.XmlMultiViewEditorSupport$7.run
+No,AssertionError: Root element position should be greater than 0
+No,IllegalStateException: Too many org.netbeans.modules.xml.multiview.ui.SectionInnerPanel$2 (1) in shared RequestProcessor; create your own
+No,[70cat] JAX-B Project dependencies not honored.  XJCTask cannot be found.
+No,No documentation support for XML attribute or value completion
+No,Double clicking project.xml does not open it
+No,Versions in completion of <version> in pom.xml should be in descending order
+No,"Navigator window says ""Document"" for Design View"
+No,name in XML Schema wizard is case-insensitive
+No,NullPointerException at org.netbeans.modules.xml.catalogsupport.DefaultProjectCatalogSupport.resolveProjectProtocol
+No,Opening non-existing XML -> java.lang.IllegalArgumentException
+No,Badly reported errors from JAXP transformation
+No,Applying an XSL Tranformation crashes Netbeans
+No,NullPointerException at org.netbeans.modules.xml.retriever.catalog.impl.CatalogModelImpl.extractRealURI
+No,AssertionError at org.netbeans.modules.xml.schema.model.impl.GlobalComponentsIndexSupport.findByNameAndType
+No,Does not parse UTF-8 XML with UTF-8 marker byte
+No,org.openide.filesystems.FSException: Folder XML already exists in C:\Users\Lokesh\AppData\Roaming\NetBeans\7.3\config (C:\Users\Lokesh\AppData\Roaming\NetBeans\7.3\config\Loaders\text\XML).
+No,[41cat] Xml syntax coloring doesn't work after import from 4.0
+No,Refresh all files doesn't re-read DTD
+No,[DevRev] Consider using javax.swing.text.Element for document elements
+No,[50cat] Schema catalogs are not imported
+No,CSS file is not loaded
+No,IllegalArgumentException: ancestor == descendant!!!
+No,Potential Leak in SyntaxQueryHelper
+No,testModelLocking test fails randomly
+No,NPE from DocumentModel:450
+No,XMLDocumentModel unit test fails
+No,AssertionError at org.netbeans.modules.editor.structure.api.DocumentModel$DocumentModelModificationTransaction.addDocumentElement
+No,relative paths in entity declarations give a parse error
+No,SAX Wizard uses java.util.ResourceBundle.
+No,Inappropriate exception from SyntaxElement.getPrevious/Next
+No,DocBook XML module causes parse error
+No,XML Schemas do not map through catalog
+No,Remove obsolete compatibility stuff
+No,Allow branding of colors in XMLSettingsInitializer
+No,"Don't use ""multi-dot"" names in xml layers"
+No,"XML Schema file: ""Validate XML"" bug in ""choice"" block"
+No,NullPointerException got using TAB for navigation
+No,Retriever does not handle HTTP redirect
+No,NullPointerException at org.netbeans.modules.xml.multiview.XmlMultiViewEditorSupport$5.run
+No,Split JAXB library module to API part and implementation part
+No,NullPointerException at org.netbeans.modules.xml.wsdl.model.extensions.soap.validation.SOAPComponentValidator.visit
+No,Always create model instance in AbstractModelFactory
+No,Deadlock after removing EJB when ejb-jar.xml r/o
+No,IDE Freeze on update catalog.xml
+No,Changes on #attdef-decl: nodes aren't propagated from the Text Editor into Properties and Customizer
+No,[40cat] CSS highlight odd behaivor when using @media
+No,Allow to brand css editor color settings
+No,More inteligent XML completion
+No,SAX Document Handler created empty files
+No,Extend org.netbeans.modules.xml.multiview.ui.SimpleDialogPanel.DialogDescriptor to support labels with &X mnemonics
+No,NullPointerException at org.netbeans.modules.wsdlextensions.jdbc.wizards.JDBCWizardOptionsPanel.isValid
+No,NullPointerException at org.netbeans.modules.wsdlextensions.jdbc.validator.JDBCComponentValidator.visit
+No,Cannot validate a WSDL with sun jdbc extension
+No,I18N localization of element/attribute name and documentation of binding nodes in property sheet
+No,Remove unused xml/catalog/compat sources
+No,Exception on opening file without access permissions
+No,[a11y] Mnemonics handling issue
+No,Remove code handling 3.x projects
+No,Multiply change of definition property doesn't work
+No,BPEL Autocompletion works wrong for Web Service activities
+No,Slow WSDL/XSD import
+No,"After adding element to element, that element is not expanded"
+No,XML Automcompletion does not work for BPEL correlation tag
+No,XmlCompletionProvider calls hideCompletion under certain cases
+No,Transformation on OTA in salami slice pattern takes a long time
+No,Too many Timer threads spawned during runtime
+No,unnecessary creation of catalog.xml file
+No,Big overhead during editing of an element name in a big xml file
+No,Remove dependency on org.openide.options
+No,Reformat code: 2 tags stay on a single row
+No,XML navigator retains memory
+No,LocalElement is treated as ElementReference when a Schema model is loaded by an ant task
+No,rename in Design View shows old item
+No,Ouput - XML check window doesn't scroll properly
+No,Wrong threading in o.n.m.xml.schema.abe
+No,Two MIME resolvers for text/x-css
+No,java.lang.AssertionError when working with svg
+No,BaseDocument should be created rather for mimeType or EditorKit instance than for kitClass
+No,Terrible performance editting an ant script
+No,Mac : Esc doen't cancel editing in Design View
+No,XML code completion blocks Shift-Tab keybinding
+No,InvalidClassException after changing indentation options
+No,WSDL component property setting API doesn't take care of namespace
+No,Delay of schema elements appearance in Navigator panel
+No,FSException: Cannot get shared access to
+No,"When I type the /> at the end of an XML element, the code completion is still open"
+No,Need to cleanup duplicates in trunk
+No,[60cat] IAE getParent() called for DE at modifying XML document
+No,NullPointerException at org.openide.filesystems.FileUtil.toFile
+No,CC not working when offline for DTDs provided by a catalog
+No,Tiles2 DTD causes NPE
+No,XML validation for both DTD and schema
+No,Build.xml formatting is broken
+No,org.xml.sax.SAXException occurred
+No,NullPointerException at org.netbeans.modules.xml.dtd.grammar.ContentModel$MultiplicityGroup.eat
+No,6.0b2: Unable to auto-complete new XML files (catalog error)
+No,right click on a DTD to generate SAX parsing does not work any more on version 6.0 ?
+No,[60cat] context.xml not properly reformatted
+No,[60cat] To small popup code-completation in .xml files -> make larger and resizable
+No,code completion in xml
+No,autocomplete changes the case of closing tags
+No,Failure to validate large xml files
+No,some jsf tags not highlighted
+No,SAX Document Handler Wizard
+No,"""Save As"" does not assign new file name to the currently open file you are saving"
+No,NullPointerException at org.netbeans.modules.xml.schema.ui.nodes.categorized.customizer.ComplexTypeCustomizer.saveContentType
+No,Switch to graph view and back in Delete preview works strange.
+No,schema aware CC: CompletionContext does not populate the pathFromRoot
+No,search field goes blank
+No,AssertionError at org.netbeans.modules.xml.retriever.catalog.Utilities._getDocument
+No,NullPointerException at org.netbeans.modules.xml.schema.abe.nodes.ABEAbstractNode.setNameByRefactoring
+No,Incorrect show/hide attributes icon after Delete/Undo in Design view
+No,incorrect caret position when completing elements with required attributes
+No,Code Completion not working with local schema in User Catalog
+No,Finding unused elemens takes much time and CPU
+No,NPE in getting value from AttrImpl
+No,Memory leak with Open Schema View action
+No,dynamically recognize documents
+No,Incorrect document updation when using schema based code completion
+No,Friend access for Struts2 support
+No,XML editor for own xml file type throws Exception/Assertion
+No,SAX Document Handler Wizard failed due to internal errors.
+No,Exception when adding new line to SVG XML file
+No,NullPointerException at org.netbeans.modules.xml.axi.impl.AXIModelBuilderQuery.checkComponent
+No,Root elements from a referenced schema should be available for XML generation
+No,Elements with optional attributes aren't generated
+No,java.util.ConcurrentModificationException at java.util.AbstractList$Itr.checkForComodification
+No,DataObject.find() does not work for own xml file type
+No,"""Format"" action (Ctrl-Shift-F) in XML files ignores text selection"
+No,Extra namespace definition that is not being used should be filtered out when comparing XMLs.
+No,XML schema code completion does not offer for enumerated attribute values
+No,IDE doesn't respond until Navigator is updated
+No,select root element drop down blank for generating xml from schema with no target namespace
+No,Suspicious atomicLock on document in Tag.java
+No,IllegalStateException: [Winsys] TopComponent org.netbeans.modules.xml.text.TextEditorComponent throws runtime exception from its componentActivated() method. Please repair it! Probable cause is at org
+No,completition not working in XML files
+No,CompletionModelProvider gets wrong CompletionContext
+No,Adding event listener shows warning message box
+No,"""Re-indent current line or selection"" does not work in XML documents"
+No,XML formatting error
+No,XML Autoformat adds/removes linebreaks
+No,NullPointerException at org.netbeans.modules.xml.text.navigator.TapPanel.paintBorder
+No,& missed by the code completion for attribute values
+No,NullPointerException at org.netbeans.modules.xml.xam.ui.multiview.ActivatedNodesMediator.updateExplorerManager
+No,javax.swing.text.StateInvariantError: Bad caret position
+No,java.util.ConcurrentModificationException: Caller uses obsolete token sequence which is no longer valid. Underlying token hierarchy has been modified: modCount=14 != upToDateModCount=15 Please report
+No,remove dependency from xml.text module
+No,Two different syntax highlighting styles and mime types for the same document type
+No,The included schemas with empty target namespace looks wrong in the tree
+No,Attribute value completion inserts wrong values disregarding typed prefix
+No,NullPointerException at org.netbeans.modules.xml.schema.completion.util.CompletionUtil.getAttributeValues
+No,"Design view font size increases after each rename, undo or redo."
+No,formatting moves cursor
+No,"[65cat] [editor] Saving a WSDL file following a ""Malformed WSDL"" message generates an AssertionError"
+No,"[65cat] [editor] Cut and Paste WSDL, then Rewinding operation generates IllegalStateException"
+No,"[65cat] [editor] Cut and Paste WSDL, then move generates AssertionError"
+No,Code completion stoped working
+No,Code Completion suggestions remain displayed
+No,Tooltip suggested files are in System Filesystem
+No,Cannot get XML document to use catalog
+No,DTD documentation generation needs title
+No,NullPointerException at org.netbeans.modules.xml.schema.abe.nodes.ABEAbstractNode.getActions
+No,XML editor throws NPE
+No,Unlimited recursion on Sample XML generation
+No,Attribute value completion items are shown at wrong locations
+No,[65cat] NullPointerException at org.netbeans.modules.xml.xdm.xam.XDMAccess.getPathFromRoot
+No,org.apache.xerces.parsers.XML11Configuration not found
+No,Schema based attribute value code completion inserts wrong value
+No,NullPointerException at org.netbeans.modules.xml.axi.Compositor.setType
+No,NullPointerException at org.netbeans.modules.xml.schema.abe.nodes.ABENodeFactory.createRootNode
+No,"insert code template in xml, cursor jumps to begin doc"
+No,[65cat] StringIndexOutOfBoundsException: String index out of range: -10
+No,[65cat] StringIndexOutOfBoundsException: String index out of range: -10
+No,NullPointerException at org.netbeans.api.project.ProjectUtils.getSources
+No,[65cat] NullPointerException at org.netbeans.modules.xml.xam.ui.customizer.ExternalReferenceCreator.createRootNode
+No,NullPointerException at org.netbeans.modules.xml.xam.ui.customizer.ExternalReferenceCreator.createRootNode
+No,StringIndexOutOfBoundsException: String index out of range: -1
+No,"Comma-separated values, each record separated by LF&CR"
+No,IllegalArgumentException: old node must be in the tree
+No,[65cat] NullPointerException at org.netbeans.modules.xml.wizard.XMLGeneratorVisitor.generateXML
+No,"I18N : ""Please Wait..."" message is hardcoded in xml.text"
+No,"xsd:include with backslash in the schemaLocation result in ""Broken reference"""
+No,NullPointerException at org.netbeans.modules.xml.xam.dom.AbstractDocumentComponent.getAttribute
+No,[65cat] NullPointerException at org.netbeans.modules.xml.retriever.catalog.Utilities._getDocument
+No,[65cat] ClassCastException: org.netbeans.modules.xml.xdm.nodes.Comment cannot be cast to org.netbeans.modules.xml.xdm.nodes.Element
+No,[65cat] IllegalStateException: Current thread has already started a transaction
+No,[65cat] AssertionError at org.netbeans.modules.xml.retriever.catalog.impl.CatalogModelFactoryImpl.getCatalogWriteModelForProject
+No,[65cat] javax.swing.undo.CannotRedoException at javax.swing.undo.AbstractUndoableEdit.redo
+No,[65cat] javax.swing.undo.CannotUndoException at javax.swing.undo.AbstractUndoableEdit.undo
+No,NullPointerException at org.netbeans.modules.xml.schema.abe.nodes.SchemaModelFlushWrapper.setValue
+No,code completion is case insentive in xml
+No,IllegalStateException at org.netbeans.modules.xml.dtd.grammar.ContentModel.parseContentModel
+No,IllegalArgumentException: setSelectedIndex: 0 out of bounds
+No,File is present twice in the look up
+No,"IllegalArgumentException: getParent() called for DE (21281982)[""action"" (tag) <0-0> ''] which is not in the elements list!"
+No,NullPointerException at org.netbeans.modules.xml.schema.abe.InplaceEditableLabel.hideEditor
+No,NullPointerException at org.netbeans.modules.xslt.tmap.model.api.completion.TMapCompletionModelProvider.isTMapFile
+No,IllegalArgumentException: component to be deleted is not a child
+No,IllegalArgumentException: C:/Documents and Settings/Luis Brenen/My Documents/NetbeansProjects/Nueva carpeta/DSSAlbaliaWebClient/nbproject/private/cache/retriever/www.w3.org/TR/xmldsig-core/xmldsig-cor
+No,xml lexer treats multiline block comments as different tokens
+No,[67cat] AssertionError when opening an empty XML file
+No,[67cat] No XML auto completion with external schemas
+No,NullPointerException: Passed null to FileOwnerQuery.getOwner(FileObject)
+No,"file ""jumps"" up sometimes"
+No,Degenerate Element implementation in HintContext
+No,Show close tag items in CC + put them before open tags
+No,XSL Transformation button is sometimes disabled
+No,Stop using deprecated EnhancedCustomPropertyEditor
+No,Unused TextEditorSupportFactory in XML modules
+No,DV: elements do not expand automatically
+No,Editor left in modified state after undo to last save point
+No,Referenced Schema -- properties -- changing target namespace?
+No,Well-formed error message has invalid position
+No,Selecting/unselecting usages in XML refactoring preview window sometimes does not work
+No,Goto from Schema View to Design View doesn't work for first time
+No,Missing package label in Add Import
+No,Enter doesn't close the window
+No,Check for well-formed is ambiguous
+No,XML Schema support unit test is failing
+No,possible to makeTransformation without XSLT script
+No,getElementsByTagName does not work
+No,Schema-based CC ignores element order restrictions
+No,Double-click in projects view switches editor's view
+No,Unable to Delete XML Element first time
+No,Drag and Drop Is allowed when it shouldn't be
+No,Move Refactor dialog does not allow default location
+No,Popup menu in preview pane should be disabled
+No,Code completion is slow at the end of OTA schema
+No,Subprojects Projects greyed out for move refactoring
+No,Exception after refreshing preview refactoring window
+No,Properties window does needs special attention to reflect changes
+No,Properties Customizer does not show proper Online Help
+No,Restore Default value on schema target namespace throws AssertionError
+No,[60cat] null in Pattern property in WSDL editor
+No,Save is enabled after Undo in Schema View
+No,Unnecessary nodes in Element's Definition dialog
+No,Element Definition works wrong
+No,OK button isn't default in Find Derivations dialog
+No,Schema rename in properties should be treated as refactoring
+No,Printing design view creates redundant empty pages
+No,Right arrow is enabled for complex type in Schema View
+No,"After apply design pattern, DV nodes do not expand on first click"
+No,Preview not available
+No,Source menu is enabled for schema view
+No,I18N - bpel module has resize issue in project properties dlg
+No,Rename of an element requires ENTER
+No,Derivations diagram has redundant items
+No,Move Refactor undo then redo leaves behind file
+No,FileAlreadyLockedException after refactoring
+No,Confusing design of Delete Preview.
+No,catalog.xml entry gets overwritten when external wsdl is retrieved to multiple folders in the project
+No,Can't move .xsd file to another directory
+No,Generate Sample XML title needs an ellipsis at the end
+No,Incorrect refactoring of binding input/output
+No,WSDL Refactor rename dialog populates the wrong name for operation input/output rename
+No,Focus issues in Column View
+No,Confusing info message when editing read-only schema
+No,Missing optional attributes for code completion in XSD editor
+No,DV refactoring undo undoes more than last change
+No,JAXB Bindings has wrong node icon
+No,Time to first time open Apply Design Pattern wizard exceeds threshold
+No,Refactoring takes too much time for large schemas
+No,gpx files which are valid xml are not handled as such
+No,jaxbwiz.endorsed.dirs java.lang.NoClassDefFoundError
+No,setModified does not work in XMLMV
+No,Design doesn't show refered element
+No,usability issues in new xml wizard w.r.t schema
+No,Properties window cannot unset substitution group
+No,refactoring-rename performs formatting of XML files
+No,Design view corrupted after changing structure a second time
+No,"""generate sample xml"" with recursive element enters in loop"
+No,multiple instances of GrammarQuery created.
+No,NullPointerException at org.netbeans.modules.xml.refactoring.ui.MoveFilePanel.initValues
+No,Missing for -- comments in DTD
+No,NB XML Validation and Open Content Model
+No,"""Generate Sample Xml"" creates unrequested qualifications"
+No,100% cpu when deleting big part in big xml file
+No,NullPointerException at org.netbeans.modules.xml.retriever.catalog.Utilities._getDocument
+No,Code Completion for tag moves text to the right and does not replace it
+No,IllegalArgumentException: org.openide.loaders.DataObjectNotFoundException: C:\Documents and Settings\jshomphe\My Documents\NetBeansProjects\HelloXSLTBridge
+No,Wrong default shortcut for paste. By default CTRL+V for single xsd file is associated with refactor copy
+No,Netbean XML schema validation doesn't recognize <!DOCTYPE schema/>
+No,Generating test XML from schemas causes infinite loop
+No,taglib editor: closing quotation mark is not overwritten
+No,After finished some tag in Tag Library Desc. is a bug in CC
+No,Should Allow User to Proceed When ‘Use Catalog File’ Is Selected Without Selecting Valid File
+No,[65cat] IllegalArgumentException: C:/Users/Sunbon/Documents/NetBeansProjects/StockQuoteService1/StockQuoteService1/nbproject/private/cache/retriever/localhost_8080/StockQuoteService/StockService.xsd_1.xsd is
+No,No easy way to cancel XML document creation.
+No,Generate Sample XML for .xsl files does not indent properly
+No,Generate Sample XML for .xsl files does not have deep recursion
+No,[65cat] RuntimeException at org.netbeans.modules.xml.refactoring.XMLRefactoringTransaction.rollback
+No,code folding not working for application/xml files
+No,IllegalArgumentException: Could not find parent component
+No,[65cat] reflect.UndeclaredThrowableException at $Proxy18.actionPerformed
+No,"[65cat] IndexOutOfBoundsException: Index: -1, Size: 18"
+No,code completion works wrong in ibatis sqlmap xml
+No,reflect.UndeclaredThrowableException at $Proxy33.actionPerformed
+No,IllegalArgumentException: setSelectedIndex: 0 out of bounds
+No,XML code completion sometimes doesn't show elements in default namespace.
+No,IllegalArgumentException: setSelectedIndex: 0 out of bounds
+No,"IllegalArgumentException: getParent() called for DE (21281982)[""action"" (tag) <0-0> ''] which is not in the elements list!"
+No,Code completion in pom.xml doesn't type closing bracket
+No,Japanese popup help in xsd design is invalid.
+No,Register XmlFileEncodingQueryImpl in the MimeLookup
+No,NullPointerException: The file parameter cannot be null
+No,Preserve code folds when cutting & pasting
+No,"XML reformat is very slow, blocks EQ"
+No,NullPointerException at org.netbeans.modules.xml.xam.ui.customizer.ExternalReferenceCreator.createRootNode
+No,XML Editor - formatter - comments do not line up with indented code
+No,IllegalStateException: Referencing component is not part of model.
+No,IllegalArgumentException: URI has an authority component
+No,NullPointerException at org.netbeans.modules.xml.retriever.catalog.Utilities._getDocument
+No,Error During Transformation
+No,xml.schema.ui.basic should declare test dependencies in project.xml
+No,[65cat] java.util.MissingResourceException: No such bundle org.netbeans.modules.xml.actions.Bundle
+No,Xml code completion does not work for online xsd files
+No,IllegalArgumentException: Model source is read-only.
+No,XMLDataLoader registered for content/unknown mime type
+No,NullPointerException at org.netbeans.modules.xslt.tmap.nodes.DecoratedOperation.getTooltip
+No,NullPointerException at org.netbeans.modules.xslt.mapper.model.nodes.TreeNode.getTreePath
+No,User added library not found after adding JAXB binding
+No,NullPointerException at org.netbeans.modules.xml.xam.dom.AbstractDocumentComponent.getAttributeMap
+No,Netbeans freezes for XSL Transformation when trying to write to a new file
+No,bracket matching works strange
+No,taglib code completion doesn't offer end end tags
+No,Problems with XML Format with tabs
+No,Copy and paste XSD does not work correctly
+No,AssertionError at org.netbeans.modules.editor.structure.api.DocumentModel$DocumentModelModificationTransaction.addDocumentElement
+No,NullPointerException at org.netbeans.modules.xml.xdm.nodes.XMLSyntaxParser.parse
+No,IllegalArgumentException: Model source is read-only.
+No,"IllegalStateException: Problem in some module which uses Window System: Window System API is required to be called from AWT thread only, see http://core.netbeans.org/proposals/threading/"
+No,NullPointerException at org.netbeans.modules.xml.refactoring.ui.CopyPanel.initValues
+No,IllegalArgumentException: Cannot have null root context.
+No,IllegalStateException: attempted model write without invoking startTransaction
+No,NullPointerException at org.netbeans.api.xml.cookies.CookieMessage.<init>
+No,CatalogEntryNode is not serializable
+No,NullPointerException at org.netbeans.modules.xml.schema.model.impl.SchemaComponentImpl.populateChildren
+No,Create empty xsd file and paste contents results in deadlock
+No,XML Validation exception with schemaLocation attribute
+No,[67cat] NullPointerException at org.netbeans.modules.xml.jaxb.model.JAXBWizProjectOpenedHookImpl.projectOpened
+No,XSL Validation import loop
+No,Randomly appeared NPE in XDMModel.prepareSync while deleting wsdl or xsd files
+No,NullPointerException at org.netbeans.modules.xml.schema.ui.nodes.schema.LocalSimpleTypeNode.getSuperDefinition
+No,[67cat] java.lang.NullPointerException in sax document handler wizard
+No,NullPointerException at org.netbeans.modules.xml.text.navigator.NavigatorContent$NavigatorContentPanel$2.actionPerformed
+No,[67cat] AssertionError at org.netbeans.modules.xml.retriever.catalog.impl.CatalogModelFactoryImpl.getCatalogWriteModelForProject
+No,Failed to Resolve Component with multiple References
+No,Tab->Enter does not work for WSDL Wizard button except default
+No,XML validation fails on import schemas
+No,"No XML Schema support in NB 6.7 ""Java"" install"
+No,NullPointerException at org.netbeans.modules.xml.schema.abe.nodes.ElementNode.initialize
+No,IllegalStateException: attempted model write without invoking startTransaction
+No,"IllegalArgumentException: getParent() called for DE (18073761)[""..."" (content) <3122-3122> ''] which is not in the elements list!"
+No,IllegalArgumentException: Users/pintux/PhD/teaching/ComputazRete-0809/netbeans/AccountRegistrationBPEL/build/META-INF/src/localhost_8080/PasswordGenerator/passwordGeneratorService.xsd_1.xsd is not in
+No,IllegalStateException: The model is not initialized or is broken.
+No,NullPointerException at org.netbeans.modules.xml.schema.completion.util.CompletionUtil.populateItemsForAny
+No,NullPointerException at org.netbeans.modules.xml.refactoring.ui.MoveFilePanel.initValues
+No,IllegalArgumentException: old node must be in the tree
+No,IllegalStateException: The data object C:\Arquivos de programas\Zend\Apache2\htdocs\tiss\application\modules\default\schema\tissV2_02_01.xsd is invalid; you may not call getNodeDelegate on it any more
+No,IllegalStateException: Referencing component is not part of model.
+No,IllegalArgumentException: URI is not hierarchical
+No,XML/HTML indentation discrepancies
+No,Codecompletion drop down to narrow in pom.xml (cropped content)
+No,XML tag completion for closing tag should still offer completion after I press forward slash
+No,NullPointerException at org.netbeans.modules.xml.wizard.impl.XMLWizardIterator.addChangeListener
+No,UI hang in MediaTracker
+No,NullPointerException at org.netbeans.modules.xml.schema.ui.nodes.schema.LocalSimpleTypeNode.getSuperDefinition
+No,XML Schema code completion not working in editor
+No,Incorrect tag highlight
+No,Show orange lines
+No,[67cat] AWT thread blocked for 7343 ms.
+No,NullPointerException at org.netbeans.modules.xslt.tmap.util.Util.getTMapFo
+No,Editing XML tags has issues with auto complete
+No,NullPointerException at org.netbeans.modules.xml.schema.model.impl.resolver.ResolveSession.checkAllDependingModelsLoaded
+No,xml.text.navigator.NavigatorContent.navigate calls openDocument
+No,every line in edit schema with error underline
+No,[68cat] Navigator still binds to closed source
+No,Refactor move of wsdl doesn't update import in wsdl
+No,"Inconsistent ""Edit"" action on XML files"
+No,AWT thread blocked for 50923 ms.
+No,"XML completion with schema says ""no documentation ..."""
+No,[69cat] XML autocomplete doesn't override highlighted text
+No,AWT thread blocked for 91526 ms.
+No,[68cat] Code completion popup for dependency version is truncated
+No,Find type resets after switching between views.
+No,StackOverflowError at java.lang.AbstractStringBuilder.append
+No,invalid error message when adding xmlns to ui:composition tag
+No,[68cat] Suspicius renaming of an xml-resource file
+No,[68cat] Undo after using alt-insert to add dependency to pom deletes content to end of file
+No,[68cat] IllegalStateException: Should not acquire Children.MUTEX while holding ProjectManager.mutex()
+No,Switch from design to xml view yields empty editor
+No,AssertionError: Null file object.
+No,NullPointerException at org.netbeans.modules.xml.multiview.XmlMultiViewElement.componentClosed
+No,Exception during opening svg file
+No,No syntax highlighting for xjb files
+No,xam.AbstractModel.endTransaction throws undocumented ISE when XML file r/o
+No,[68cat] NullPointerException at org.netbeans.modules.xml.multiview.XmlMultiViewElement.componentClosed
+No,References to the local project resources have to use original project name but not internal netbeans alias
+No,Source --> Format slow: (AWT thread blocked for 63138 ms).
+No,AWT thread blocked for 33959 ms.
+No,AWT thread blocked for 12546 ms.
+No,pom.xml editor view expands all folds after edit
+No,ArrayIndexOutOfBoundsException: 4
+No,[69cat][68cat] AWT thread blocked for 3172 ms.
+No,IllegalStateException: attempted model write without invoking startTransaction
+No,AWT thread blocked for 28513 ms.
+No,AWT thread blocked for 136456 ms.
+No,Netbeans doesn't format XML file
+No,Deadlock between maven.model.pom.impl.ProjectImpl and XDMModel
+No,IllegalArgumentException: bad position: 1288
+No,[68cat] LowPerformance took 4443 ms.
+No,FNFE on http://xml.apache.org/xslt editing schema document
+No,[68cat] java.io.FileNotFoundException: https://genesis.dev.java.net/nonav/ns/master_build.xml
+No,java.net.UnknownHostException: www.springframework.org
+No,NullPointerException at org.netbeans.modules.xml.retriever.catalog.impl.CatalogModelImpl.getModelSource
+No,NullPointerException at java.net.URI$Parser.parse
+No,java.util.ConcurrentModificationException: Caller uses obsolete token sequence which is no longer valid. Underlying token hierarchy has been modified: modCount=114 != upToDateModCount=115 Please repor
+No,IllegalStateException: attempted model write without invoking startTransaction
+No,IllegalStateException: attempted model write without invoking startTransaction
+No,NullPointerException when editing XML in appliaction based on NB 6.8
+No,[69cat] StackOverflowError at org.netbeans.modules.xml.axi.impl.ElementProxy.getName
+No,IllegalArgumentException: protocol = http host = null
+No,[69cat] IllegalStateException: Too many org.netbeans.modules.xml.schema.SchemaEditorSupport$4 (3) in shared RequestProcessor; create your own
+No,[69cat] [69cat] IllegalStateException: Timer already cancelled.
+No,JAXB Binding wizard fails on Web Application project
+No,java.io.FileNotFoundException: http://maven.apache.org/POM/4.0.0
+No,[69cat] [69cat] IllegalStateException: Too many org.netbeans.modules.xml.text.navigator.NavigatorContent$1 (3) in shared RequestProcessor; create your own
+No,[69cat] java.util.MissingResourceException: No such bundle org.netbeans.modules.xml.text.navigator.base.Bundle
+No,Deadlock when generating JUnit tests for Maven-based NBM project
+No,IllegalStateException: The model is not initialized or is broken.
+No,AWT thread blocked for 23490 ms.
+No,java.util.ConcurrentModificationException at java.util.AbstractList$Itr.checkForComodification
+No,xml errors do not show up on numberline
+No,After closing tag autocomplete cursor is set after closing tag.
+No,AssertionError at org.netbeans.modules.xml.xam.AbstractModelFactory.getModel
+No,AssertionError at org.netbeans.modules.xml.xam.AbstractModelFactory.getModel
+No,XMLModel.removeChildNodes does not fix up whitespace
+No,NPE from CompletionContextImpl.initContext
+No,"Changing of ""XML Editor"" position."
+No,XML formatting locks up Netbeans IDE
+No,XML editor auto-complete popup appears after pasting text
+No,[69cat] IllegalStateException: The model is not initialized or is broken.
+No,XML-related Template Categories should target all project types
+No,OutOfMemoryError: GC overhead limit exceeded
+No,AWT Thread dead locks with Maven related stuff
+No,Deadlock when undoing some changes
+No,auto complete problem when editing XML attributes
+No,[69cat] IllegalArgumentException: Model source is read-only.
+No,New XML Document ignores template engine
+No,For an added OASIS XML catalog system entries do not appear in DTD and XML schemas view
+No,[70cat] IllegalStateException: Too many org.netbeans.modules.xml.tools.actions.ValidateAction$RunAction (3) in shared RequestProcessor; create your own
+No,Pasting in XML causes auto complete hints immediately
+No,[70cat] Formating a XML file take a really long time
+No,LowPerformance took 21094 ms.
+No,Unchecked NPE in org.netbeans.modules.xml.dtd.grammar.DTDParser.parse
+No,java.io.IOException: Invalid token found in document: Please use the text editor to resolve the issues...
+No,Format and process as xml files with non-xml extension
+No,java.io.IOException: Invalid lock [org.openide.filesystems.FileLock@955676]. Expected [org.openide.filesystems.FileLock@5f5e4d].
+No,6s openfile.DefaultOpenFileImpl.open() and 3s inxml.text.TextEditorSupport.edit()
+No,IllegalStateException: Timer already cancelled.
+No,java.util.NoSuchElementException at java.util.LinkedList.remove
+No,ArrayIndexOutOfBoundsException: 3
+No,[70cat][completions] Completions for XML/XSD fire even when value has already been completely typed.
+No,[70cat][xml] Code Completion for XML requires <ESC> to bypass if it appears and you don't use it for enumeration value
+No,[70cat][xml] Code completion for XML enumerations does not add trailing double quotation marks.
+No,[70cat][xml] Adding a double quote to a value completion immediately following the equals does not add the closing double quote.
+No,"[70cat][xml] When creating an XSD file in the text editor, the XSD parser/validator should identify fields (like value) which will cause compilation failure."
+No,[70cat][xml] JAXB-ENDORSED library missing components.
+No,'build.plugins.plugin.version' missing from jaxb plugin
+No,"[70cat][xml][text-edit] When editing an xml file, cursor is misplaced when adding newline between tags."
+No,Schema text editor hangs IDE when using copy/paste operations
+No,[70cat] IllegalArgumentException: Could not find parent component
+No,AssertionError at org.netbeans.modules.xml.schema.model.impl.resolver.ImportResolver.findInIncludedImportsDown
+No,Incorrect validation of Facelets tag
+No,[70cat][xml] Namespace information from new XML File Wizard is ignored.
+No,[70cat][xml]New File Wizard Schema Options doesn't update without Primary selected
+No,Spring XML editor does not offer enums in autocompletion when entering map key type
+No,"Creating ""EJB Module from existing sources"" creates broken project.properties"
+No,ArrayIndexOutOfBoundsException: 6
+No,IllegalStateException: Too many org.netbeans.modules.xml.multiview.ui.SectionInnerPanel$2 (3) in shared RequestProcessor; create your own
+No,XML completion doesn't suggest descendant elements of an abstract element
+No,Unable to create JAXB binding in Maven Project using schema from url
+No,JAXB support should disable compile on save for project or implement JR
+No,XMLDataObject.lookup.lookupAll(EditorCookie) returns its TextEditorSupport twice
+No,LowPerformance took 28436 ms.
+No,[70cat] IllegalStateException: The model is not initialized or is broken.
+No,netbeans deadlock while xml shema editing
+No,[70cat] Source Format of XML doesn't re-indent comments
+No,Closing XML Tags are not automatically outdented to appropriate indentation level when on a new line
+No,[70cat] Code completion dialog should not pop-up immediately following a cut/copy/paste operation.
+No,LowPerformance took 38607 ms.
+No,Code-completion popup appears too often for pom.xml
+No,NullPointerException at org.netbeans.modules.xml.catalog.CatalogRootNode$RootChildren.addNotify
+No,Maven pom.xml Artifact intellisense version list truncated
+No,code completion isn't offered in the beginning of completed tag
+No,TransformServlet.getServletURL() method is always throwing NPE
+No,LinkageError: org/apache/xml/resolver/Catalog
+No,Insertion point in wrong place after carriage return
+No,LowPerformance took 4406 ms.
+No,[70cat] NullPointerException at org.netbeans.modules.xml.sync.DataObjectSyncSupport.addRepresentation
+No,code folding of XML document disapear as soon as document is modified
+No,Editor does not allow Save As for file type of XSL
+No,XSL editor code completion does not work
+No,Cursor ends up in the wrong place after end-tag auto completion in pom.xml
+No,Autoformatting an already formatted web.xml makes the XML unsaved
+No,XSLT Auto-Complete doesn't work
+No,[70cat] LowPerformance took 7231 ms.
+No,NullPointerException at java.util.Hashtable.put
+No,I can not get the web.xml in my jsp web application project
+No,[70cat] java.util.ConcurrentModificationException at java.util.Vector$Itr.checkForComodification
+No,Hyperlinks do not work in GrammarResult.getDescription HTML text
+No,NPE from CompletionContextImpl.initContext
+No,OutOfMemoryError: Java heap space
+No,catalog.xml dumped in Maven project root dir
+No,"WriteableLayer: Resolution timeout ""filesystem-1_2.dtd"""
+No,Netbeans deadlocks when editing XML schemas
+No,IDE hang when saving a Maven project
+No,[71cat] java.util.ConcurrentModificationException at java.util.Vector$Itr.checkForComodification
+No,Using the XML editor verses a Style sheet will hang up netbeans when adding a new variable.  This also can happen when maintaining a large spring configuration.
+No,NullPointerException: Passed null to FileOwnerQuery.getOwner(FileObject)
+No,CodeCompletion took 2308 ms.
+No,Schema-aware code completion SPI JavaDoc is very sparse
+No,xsl.transform.TransformPerformer$AbstractPerformer IOExc
+No,Multiple XML validation fails for large XML documents
+No,NPE at CompletionContextImpl.initContext
+No,IllegalStateException: The model is not initialized or is broken.
+No,java.lang.IllegalStateException: The model is not initialized or is broken.
+No,CodeCompletion took 4301 ms.
+No,Schema-aware code completion makes duplicate suggestions
+No,[71cat] LowPerformance took 3394 ms.
+No,LowPerformance took 60282 ms.
+No,No icon is showing in fxml editor window
+No,IllegalArgumentException: Not supported: indent-number
+No,Memory leak in DefaultModelProvider.context
+No,javax.xml.parsers.FactoryConfigurationError: Provider org.apache.xerces.jaxp.SAXParserFactoryImpl not found
+No,[71cat] IllegalStateException: The model is not initialized or is broken.
+No,NB is not using XML Schema added to the User Catalog
+No,Some classes use deprecated interfaces.
+No,New Category XML does not have XML Schema under File Types.
+No,java.util.MissingResourceException: No such bundle org.netbeans.modules.xml.tools.actions.Bundle
+No,NullPointerException at org.netbeans.api.project.ProjectUtils.getSources
+No,CodeCompletion took 6029 ms.
+No,NullPointerException at org.netbeans.modules.xml.jaxb.ui.JAXBBindingSupportFileNode$1.fileDeleted
+No,[71cat] org.netbeans.editor.GuardedException: Modification prohibited
+No,"IllegalArgumentException: getParent() called for DE (2144736584)[""connection"" (empty_tag) <0-0> ''] which is not in the elements list!"
+No,Premature end of file.
+No,NullPointerException at org.netbeans.modules.xml.text.folding.XmlFoldManager.unsetDirty
+No,ClassCastException: org.netbeans.modules.html.editor.xhtml.XhtmlElTokenId cannot be cast to org.netbeans.api.xml.lexer.XMLTokenId
+No,Problem accessing Web Service through HTTPS
+No,100% of 1 cpu; just clicked on large xml file to check filesize.
+No,IllegalStateException: The model is not initialized or is broken.
+No,Cannot inject actions in XML multiview textual view and Patch
+No,NullPointerException at java.util.HashSet.<init>
+No,LowPerformance took 23538 ms.
+No,Could not add JAXB override: Project
+No,"The IDE opens just a small, empty windows"
+No,XML-Formatting is incorrect when the same element is used inside
+No,Code completion does not respect nesting
+No,XML Wizard downloads schema in AWT thread
+No,Editing anywhere in an XML document (e.g. FXML) causes all collapsed elements to expand
+No,CodeCompletion took 9486 ms.
+No,NullPointerException at java.io.StringReader.<init>
+No,IllegalStateException: Current thread has already started a transaction
+No,XML text formatting broken on lines with whitespaces
+No,NullPointerException at org.netbeans.modules.xml.schema.model.visitor.FindSubstitutions.collectReferencedSchemas
+No,"IllegalStateException: Token at 5154 cannot be located! Inspected range:[0, 462596]."
+No,AssertionError at org.netbeans.modules.gsf.testrunner.api.TestsuiteNode.displayReport
+No,CodeCompletion took 3859 ms.
+No,AssertionError at org.netbeans.modules.xml.xam.AbstractModelFactory.getModel
+No,XSD editor does not auto complete schema file if the imports are not downloaded
+No,XML retriever does not cancel when demanded to
+No,IndexOutOfBoundsException: Index: 0
+No,java.util.ConcurrentModificationException at java.util.Vector$Itr.checkForComodification
+No,XML Comments are not colored correctly after undo in XML Editing
+No,java.util.ConcurrentModificationException at java.util.AbstractList$Itr.checkForComodification
+No,Slow XML completion
+No,XML data object should not read file content in the method getNodeDelegate()
+No,NullPointerException at org.netbeans.modules.xml.jaxb.util.ProjectHelper$1.run
+No,IllegalStateException: The model is not initialized or is broken.
+No,NullPointerException at org.netbeans.modules.xml.multiview.ui.ErrorPanel$1.mousePressed
+No,java.util.ConcurrentModificationException at java.util.AbstractList$Itr.checkForComodification
+No,NullPointerException at org.netbeans.modules.xml.text.TextEditorSupport.checkCharsetConversion
+No,LinkageError: org/apache/xml/resolver/Catalog
+No,com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 1 of 1-byte UTF-8 sequence.
+No,Pressing <return> while editing an XML file does not indent new line
+No,NetBeans helper files created under project root
+No,NullPointerException at org.netbeans.modules.xml.schema.ui.nodes.categorized.customizer.ComplexTypeCustomizer.initialize
+No,NoClassDefFoundError: Could not initialize class org.apache.xerces.impl.xs.traversers.XSAttributeChecker
+No,JAXB schema resource import is run in AWT thread
+No,The editor highligts valid end-tags as unmatched braces
+No,AssertionError: Token length=0 <= 0
+No,AssertionError at org.netbeans.modules.xml.xam.AbstractModelFactory.getModel
+No,Missing license header in xml.text
+No,xml.xdm missing license header
+No,Missing license header in xml
+No,NullPointerException at org.netbeans.modules.xml.wizard.XMLGeneratorVisitor.generateXML
+No,Bizarre indenting when inserting line breaks in mixed content
+No,Code completion - two ending tags
+No,java.io.IOException: Parsing MultiFileObject@16b0b29[Windows2Local/Components/breakpointsView.settings]: Invalid byte 2 of 2-byte UTF-8 sequence.
+No,AssertionError: Token length=0 <= 0
+No,Formatting of XML fails when using a CDATA block
+No,NullPointerException at org.netbeans.modules.xml.multiview.XmlMultiViewEditorSupport$5.run
+No,"XML completion at element with enum type in Schema definition - approved item causes itemText+"">"" to appear at caret position."
+No,IllegalArgumentException: indent=-2 < 0
+No,"Code completion adds bogus namespace - e.g. ""ns3:"""
+No,IllegalArgumentException: indent=-4 < 0
+No,LowPerformance took 105891 ms.
+No,utf8 character corrupt
+No,InterruptedException at java.lang.Object.wait during lookup call from XmlMultiViewEditorSupport
+No,org.openide.filesystems.FileAlreadyLockedException: File is already locked by [org.openide.filesystems.FileLock@cc4b16].
+No,xml comments formatting problem. when tab and space mixed.
+No,NullPointerException at org.netbeans.modules.xml.schema.completion.util.CompletionUtil.findAXIElementAtContext
+No,XDM loads document line by line
+No,Extension detection in retrieved resources is slow
+No,Improve addNSAwareCompletionItem
+No,XML schema completion waits for Retriever too long
+No,Netbeans fails saving xml file without tag <?xml version='1.0' encoding='some_encoding'?>
+No,XmlMultiviewDataSynchronizer anonymous listener causes XmlMultiviewEditorsupport to stay in memory
+No,IllegalArgumentException: indent=-4 < 0
+No,16 new NPE warnings
+No,xml.jaxb sources contains generated classes
+No,java.nio.charset.IllegalCharsetNameException: ${project.encoding}
+No,Certificate validation window does not provide certificate hashes required to verify the certificate
+No,Slow initialization of Apache XML Catalog for project
+No,IllegalArgumentException: indent=-4 < 0
+No,javax.swing.text.StateInvariantError: document lock failure
+No,java.lang.IllegalArgumentException while editing xml..
+No,XML Parser doesn't correctly handle single character tag content.
+No,Documentation popup for tags in hibernate mappings file no helpful documentation
+No,RuntimeException: javax.swing.text.BadLocationException: Invalid (offset=0 + length=320)=320 > (docLen+1)=292
+No,Code-complete window too small to show results
+No,[73cat] CodeCompletion took 9780 ms.
+No,IDE consumes cpu after xml file was closed
+No,Find disabled in orm.xml file
+No,[73cat] Excluding a dependency using POM Graph tab generates code that does not respect formatting settings
+No,Optimize state of XML lexer
+No,org.netbeans.modules.xml.text.navigator.TreeNodeAdapter.getText: LowPerformance took 36346 ms.
+No,Problem with default shortcuts
+No,Please remove editor.structure dependency from xml.text
+No,Autocomplete suggests closing xml element after openening a comment
+No,XML Navigator is slow
+No,org.netbeans.lib.xml.lexer.XMLLexer.nextToken: LowPerformance took 596562 ms.
+No,AssertionError at org.netbeans.modules.xml.xam.AbstractModelFactory.getModel
+No,Deadlock in IDE after changing project name in pom.xml
+No,Choosing plugin and dependency versions does not replace old value
+No,org.netbeans.modules.xml.text.navigator.NavigatorContent$NavigatorContentPanel.<init>: LowPerformance took 20556 ms.
+No,Navigator nodes has no focus when opened for a XML file
+No,AssertionError: CloneableEditorSupport.getOpenedPanes() must be called from AWT thread only
+No,"Too much time to open the file ""persistence.xml"""
+No,AssertionError: CloneableEditorSupport.getOpenedPanes() must be called from AWT thread only
+No,"IllegalStateException: Problem in some module which uses Window System: Window System API is required to be called from AWT thread only, see http://core.netbeans.org/proposals/threading/"
+No,Placeholder auto complete in POM overwrites whole element text
+No,Maven «dep» the maven dependency code template does not work anymore
+No,Please stabilize a little bit xml.axi.SchemaGeneratorTest.* tests
+No,IllegalStateException: attempted model write without invoking startTransaction
+No,java.io.IOException: Invalid lock [org.openide.filesystems.FileLock@39559208]. Expected [null].
+No,org.netbeans.modules.xml.multiview.XmlMultiViewElement.getToolbarRepresentation: LowPerformance took 34543 ms.
+No,ClassNotFoundException: org.apache.xerces.xni.XNIException
+No,[Dark theme] White background if cannot navigate a file
+No,org.netbeans.modules.xml.xdm.visitor.FindNamespaceVisitor.visitNode: LowPerformance took 26505 ms.
+No,ClassNotFoundException: org.apache.xerces.xni.XNIException
+No,java.util.MissingResourceException: No such bundle org.netbeans.libs.xerces.Bundle
+No,ClassNotFoundException: org.apache.xerces.xni.XNIException
+No,ClassNotFoundException: org.apache.xerces.xni.XNIException
+No,referenced schema could not be loaded from https site
+No,NoClassDefFoundError: org/netbeans/tax/io/XNIBuilder$XMLBuilder
+No,ClassCastException: org.netbeans.editor.ext.ExtSyntaxSupport cannot be cast to org.netbeans.modules.xml.text.syntax.XMLSyntaxSupport
+No,Provide sources of the JAXB library
+No,NullPointerException at org.netbeans.modules.xml.multiview.XmlMultiViewEditorSupport$6.run
+No,AssertionError: Data object /Users/whaverhals/Library/Caches/NetBeans/7.4beta/xml.retriever/www.centurylink.com/Pages/Errors/404Error.jsp has no editor cookies.
+No,XML format error unable to identify idref tag
+No,"IndexOutOfBoundsException: Index: -1, Size: 52"
+No,"pom code completion, wrong closing tag"
+No,IllegalStateException: Referencing component is not part of model.
+No,Memory leak in xml.text.navigator.XMLNavigatorPanel
+No,XML document with lots of comments doesn't get formatted by Source -> Format
+No,Code completion moves closing </dependency> tag up after <artifactID>
+No,deploy?path=C:\Documents and Settings\Administrator\My Documents\NetBeansProjects\IFPWAFCAD\build\web&name=IFPWAFCAD&force=true failed on GlassFish v3 Domain C:\Documents and Settings\Administrator\My Documents\NetBeansProjects\IFPWAFCAD\nbproject\build-i
+No,"Navigator stuck on ""Please wait..."" when switching from XML file to properties file"
+No,"SAX Document Handler Wizard fails ""Action failed due to internal error"""
+No,Old XML lexer is slow during reformat
+No,NullPointerException at org.netbeans.modules.xml.wizard.XMLGeneratorVisitor.generateXML
+No,References to non existing jaxb binding still occurs in editor
+No,XML Navigator try to show content of other file.
+No,org.netbeans.modules.editor.structure.api.DocumentElement.fireDocumentElementEvent: LowPerformance took 33154 ms.
+No,Error linking xml schema in JBoss 7.x specific descriptors
+No,Leaking xml document
+No,OutOfMemoryError: unable to create new native thread
+No,[xml reformat] Doesn't reformat all elements at first time
+No,OutOfMemoryError: GC overhead limit exceeded
+No,AssertionError at org.netbeans.modules.xml.xdm.diff.MergeDiff.applyAttrTokenChange
+No,horizontal scrollbar moves to beginning after pasting text
+No,NullPointerException at org.netbeans.modules.xml.schema.completion.util.CompletionContextImpl.populateNamespaces
+No,[80cat]Editing XML : Invoking code completion pulls next line at current caret position.
+No,[80cat]Editing XML:  XML Closing Tag Code completion is incorrect
+No,NullPointerException at org.netbeans.api.project.ProjectUtils.getSources
+No,"IllegalStateException: Token at 82498 cannot be located! Previous token: '>', tokenID=tag, tcp=|<XMLDefaultTokenContext>|, offset=123"
+No,ClassFormatError: Illegal UTF8 string in constant pool in class file org/openide/util/MapFormat
+No,xsd any breaks xml code completion
+No,schema based code completion does not list enumeration from other namespace
+No,circular dependency through xml catalog causes infinite loop at code completion
+No,IllegalStateException at org.netbeans.modules.xml.dtd.grammar.ContentModel.parseContentModel
+No,XML Multiview Exception
+No,"IllegalArgumentException: getParent() called for DE (-2021340643)[""..."" (content) <0-0> ''] which is not in the elements list!"
+No,IllegalArgumentException: ancestor == descendant!!!
+No,XML Formatting Doesn't Work At All After Upgrade To Mavericks
+No,"trouble attaching schemaLocation=""eclipselink_orm_2_1.xsd"""
+No,NullPointerException at org.netbeans.modules.xml.wizard.XMLGeneratorVisitor.generateXML
+No,NullPointerException: The folder parameter cannot be null
+No,IllegalStateException: The model is not initialized or is broken.
+No,XML Editor highlight wrong tag
+No,XMLEditor suggest end-tag when enterin text in a property value
+No,Ant variables completion works wrong
+No,LineBreakHook.insert throws Null Pointer
+No,StackOverflowError at org.netbeans.modules.xml.axi.impl.ElementProxy.getName
+No,NullPointerException at org.netbeans.api.xml.cookies.CookieMessage.<init>
+No,Netbeans hangs after updates to 8.0.2 - XML editing
+No,JAXB Binding failure with valid schema
+No,NullPointerException at org.netbeans.modules.xml.wizard.impl.XMLWizardIterator.prepareParameters
+No,NullPointerException at org.netbeans.modules.xml.text.navigator.NavigatorContent.selectCurrentNode
+No,AssertionError: CloneableEditorSupport.getOpenedPanes() must be called from AWT thread only
+No,StringIndexOutOfBoundsException: String index out of range: -1
+No,NullPointerException at org.netbeans.modules.xml.text.navigator.NavigatorContent.selectCurrentNode
+No,ClassNotFoundException: org.netbeans.modules.editor.breadcrumbs.spi.BreadcrumbsElement
+No,org.netbeans.api.project.ProjectManager.findProject: LowPerformance took 22306 ms.
+No,NullPointerException at com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl.nextMatchingElementAfter
+No,XML Values completion (code completition)
+No,NullPointerException at org.netbeans.modules.xml.text.navigator.NavigatorContent.selectCurrentNode
+No,NullPointerException at org.netbeans.modules.xml.text.navigator.NavigatorContent.selectCurrentNode
+No,AssertionError: CloneableEditorSupport.getOpenedPanes() must be called from AWT thread only
+No,AssertionError: CloneableEditorSupport.getOpenedPanes() must be called from AWT thread only
+No,NullPointerException at org.netbeans.modules.xml.text.navigator.NavigatorContent.selectCurrentNode
+No,XML Error not detecting!
+No,XML formatter only works on small pieces of XML in OS X
+No,NullPointerException at org.netbeans.modules.xml.jaxb.ui.JAXBBindingSupportFileNode$1.fileDeleted
+No,IDE freeze up and must be killed when opening xml file
+No,XML formatting doesn't work due to comments with blank lines
+No,Exception while completing artifactId in POM editor
+No,can't change xml document name when creating from project explorer
+No,Missing license notices
+No,Wrong use of nbres: URLs in MF layer
+No,I18N - some bundles use the 2 key solution for mnemonics; the '&' solution is needed instead
+No,Create New Port/Operation dialogs -- disabled message parts tables are misleading
+No,"Scalability: With big WSDL file, new port type creation does not define matching partnerlink type"
+No,Various suspicious patterns in xml/wsdl/api
+No,wsdl wizard is slow in response at first launch and intermittently.
+No,Nodes are truncated when browsing in XML View mode
+No,Partner View: Can specify invalid Partner link type or role name in properties
+No,No WSDL mode while browsing WSDL
+No,User should not have to scroll up in Select Element or Type dialog box
+No,Partner View: Add Message and Add Partner Link buttons are too far to the right
+No,"validation fails on import even when machine is connected to network. Only way to fix is ""populate catalog"""
+No,inline schema targetnamespace need to be referenced when defined after message creation
+No,java.lang.NullPointerException
+No,Need an option on operation to add binding for that operation
+No,WSDL validation output: can't see entire error message
+No,IllegalStateException when adding comment to wsdl file
+No,editor is not marked as file saved.
+No,Inconsistent state in New WSDL Document wizard generation
+No,can't refactor WSDL operations
+No,Find action modifies WSDL file
+No,Cannot create WSDL with Document Literal
+No,Incosistent behaviour of the popup menu actions in WSDL navigator
+No,NullPointerException at org.netbeans.modules.xml.wsdl.ui.view.treeeditor.WSDLElementNode.<init>
+No,a11y: Create New Port Type dialog Alt-A mnemonics don't work properly
+No,wsdl import - It does not allow to import another document with the same name space
+No,NullPointerException at org.netbeans.modules.xml.wsdl.ui.actions.WSDLViewOpenAction.performAction
+No,NullPointerException at javax.swing.AbstractButton$ButtonActionPropertyChangeListener.propertyChange
+No,"[65cat] [editor] Error Dialog for ""The WSDL is not well formed"" doesn't identify the WSDL"
+No,Netbeans asked to save unexisted file
+No,NullPointerException at org.netbeans.modules.xml.wsdl.ui.view.treeeditor.WSDLElementNode.<init>
+No,[65cat] NullPointerException at org.netbeans.modules.xml.wsdl.ui.view.treeeditor.WSDLElementNode.<init>
+No,[65cat] [editor] WSDL Editor Highlighting incorrectly
+No,[65cat][xml][wsdl] IllegalStateException when entering WSDL Source Editor
+No,NetBeans 6.5 Beta MultiView Editor Bug
+No,NullPointerException: Cannot create a dialog for a null component. Offending property editor class:org.netbeans.modules.xml.wsdl.ui.api.property.ElementOrTypePropertyEditor
+No,I18N - 'Please Wait' message in Navigator dlg coming not from pseudo localized bundle file
+No,New Port Type dialog: new fault part causes error message without enough information
+No,Add New WSDL Document 1st run regression since 6.1
+No,[65cat] AssertionError at org.netbeans.modules.xml.retriever.catalog.impl.CatalogModelFactoryImpl.getCatalogWriteModelForProject
+No,[65cat] IllegalStateException: attempted model write without invoking startTransaction
+No,[65cat] IllegalArgumentException: bad position: 2523
+No,[65cat]java.lang.AssertionError: the text content under schema couldnt be found in the wsdl document
+No,NPE in New WSDL Wizard
+No,"The wrong validation error is shown in dialog ""Create New Binding""."
+No,"Duplicated mnemonics in ""Create New Binding"" dialog"
+No,Delete Action is disabled in WSDL Navigator
+No,NullPointerException at org.netbeans.modules.xml.wsdl.ui.completion.WSDLCompletionModelProvider.getModels
+No,[65cat] java.util.ConcurrentModificationException at java.util.AbstractList$Itr.checkForComodification
+No,I18N - Element_OR_Type value contains Latin chars with missing lower parts
+No,[65cat] IllegalArgumentException: pathToRoot does not contain element
+No,[65cat] StringIndexOutOfBoundsException: String index out of range: -3477
+No,[65cat] AssertionError at org.netbeans.modules.xml.xdm.XDMModel.mutate
+No,[65cat] IllegalArgumentException: bad position: 1667
+No,[65cat] IllegalArgumentException: old node must be in the tree
+No,[65cat] NullPointerException at org.netbeans.api.visual.widget.Widget.addChild
+No,[65cat] IllegalArgumentException: Prefix string too short
+No,[65cat] reflect.UndeclaredThrowableException at $Proxy22.actionPerformed
+No,[65cat] IllegalArgumentException: Wrong parent for 'input'
+No,[65cat] IllegalArgumentException: Wrong parent for 'input'
+No,NullPointerException at org.netbeans.modules.xml.refactoring.spi.SharedUtils.getFileObject
+No,"After some use, jax-ws webservices fail to access wsdl"
+No,xml.wsdl.refactoring should declare test dependencies in project.xml
+No,xml.wsdl.extensions should declare test dependencies in project.xml
+No,Move Up/Move Down is missing in the WSDL editor
+No,WSDL editor collapses the whole tree while find for usages (Alt+F7
+No,IllegalStateException: attempted model write without invoking startTransaction
+No,[67cat] AssertionError: CloneableEditorSupport.getOpenedPanes() must be called from AWT thread only
+No,NullPointerException at org.netbeans.modules.xml.wsdl.ui.view.treeeditor.NodesFactory.createSchemaNode
+No,StringIndexOutOfBoundsException: String index out of range: -640
+No,AssertionError: CloneableEditorSupport.getOpenedPanes() must be called from AWT thread only
+No,NullPointerException at org.netbeans.modules.xml.wsdl.ui.api.property.CatalogHelper.getFromProject
+No,Create WSDL wizard does not offer schema import as per help documentation
+No,external schema import from file system failing in WSDL
+No,New WSDL wizard doesn't store abstract configuration step values
+No,"In ""WSDL"" view printing prints wsdl source but not the current view"
+No,NullPointerException at org.netbeans.modules.xml.wsdl.ui.netbeans.module.WSDLTreeViewMultiViewElement.getToolbarRepresentation
+No,"New WSDL wizard inside EJB project doesn't ""see"" schema files in the default package."
+No,NullPointerException at java.util.StringTokenizer.<init>
+No,WSDL wizard abstract wizard doesn't create wsdl -- NPE
+No,AssertionError: CloneableEditorSupport.getOpenedPanes() must be called from AWT thread only
+No,NullPointerException at org.netbeans.api.project.ProjectUtils.getSources
+No,ClassNotFoundException: org.netbeans.modules.wsdlextensions.exec.impl.BindingFactory
+No,[68cat] Problems with w3c primer's wsdl
+No,Redundant WSDL editor reloading (WSDL tab only)
+No,Some WSDL components have no labels associated with it
+No,Drop-down menu behaviour not consistent on two different dialog boxes
+No,IllegalArgumentException: No enum const class org.netbeans.modules.xml.wsdl.model.extensions.http.HTTPBinding$Verb.DELETE
+No,[68cat] AssertionError at org.netbeans.modules.xml.wsdl.model.WSDLModelFactory.getModel
+No,The XML Schema import capability is very slow.
+No,"NB 6.7.1, WSDL creation and XML Schema problem"
+No,Error in manually editing a bpel
+No,[65cat] Creating WSDL From Database wizard pages should be validated
+No,Very slow update of schema view when making big change
+No,XML palette doesn't exist in Palette Manager menu
+No,Delete large number of complex types slow.
+No,Refactor-rename preview shows incorrect information first time.
+No,I18N - duplicate key with different values in same bundle file
+No,reporting null pointer exception in org.netbeans.modules.xml.text.navigator.XMLNavigatorPanel
+No,"In Find Usages Graph, click does nothing"
+No,Move refactoring can't be undone
+No,XML Schema editor doesn't show all complexTypes
+Yes,[68cat] Behavioral inconsistency and accessibility of output pane tabs
+Yes,[a11y] Commit dialog has poor accessibility
+Yes,Properties Window needs accessibility work (let user configure colors)
+Yes,NullPointerException at org.accessibility.windows.GeneralPanel.loadEngineVoices
+Yes,"Bad accessibility in ""Pin Tab"" window"
+Yes,jaws installation accessibility issue
+Yes,A11Y: Plugins form should conform to accessibility/JLF requirements
+Yes,accessibility issues in CVS import dialog
+Yes,a11y: accessibility problems in the `WAR Contents` dialog
+Yes,FTP WSDL wizard for FTP configurations shows accessibility issues
+Yes,[A11Y] No accessibility descriptions in NBPM|Harness panel
+Yes,Run Ant Target dialog's accessibility improvement needed
+Yes,"Bad accessibility in ""Introduce Function"" window"
+Yes,[encapsulate field] wrong accessibility evaluation
+Yes,"Minor accessibility problems in ""Name and Location"" panel of New Project wizard"
+Yes,Minor accessibility problems in Message dialog
+Yes,"Minor accessibility problems in ""Name and Location"" panel of new Mvn NB Platform App wizard"
+Yes,"Minor accessibility problems in ""Add Repository"" dialog"
+Yes,Minor accessibility problem in Add Library dialog
+Yes,[GUI Forms/Template Forms] should conform to accessibility/JLF requirements
+Yes,accessibility issues in the dialog Contents
+Yes,No KB accessibility in Fix Imports resolution dialog
+Yes,Add method window accessibility issues
+Yes,Find dialog (Date) accessibility issues
+Yes,[a11y] missing mnemonics and accessibility name/description
+Yes,[a11y] Inspector window doesn't implement all requirements for accessibility
+Yes,NB FXD composer is missing accessibility
+Yes,NoSuchMethodError: javax.accessibility.AccessibleContext.setAccessibleParent(Ljavax/accessibility/Accessible;)V
+Yes,Profiler throws exceptions when using accessibility bridge/screen readers
+Yes,A11Y: accessibility to select page in PFE does not work
+Yes,Autocomment window accessibility issues
+Yes,Javadoc Index Search view accessibility review
+Yes,[A11Y] Downloaded tab: minor accessibility problems
+Yes,[A11Y] Settings tab: minor accessibility problems
+Yes,A11Y - View Artifact Details window accessibility issues
+Yes,[A11Y] New Entity Bean wizard accessibility issues
+Yes,"It's not possible to define accessibility description containing commas, in the input descriptor."
+Yes,Missing accessibility names and descs in new project wizard
+Yes,KB accessibility lost for navigator
+Yes,Mnemonic conflict in FTP Poll Request wizard screen(accessibility issue)
+Yes,[Introduce parameter] Check for parameter accessibility
+Yes,[A11Y] Updates tab: minor accessibility problems
+Yes,Property window missing accessibility issues
+Yes,Still more color accessibility work needed
+Yes,accessibility issues in Todo window
+Yes,verifier color use may have accessibility issues...
+Yes,"Minor accessibility problems in ""Maven Archetype"" panel of New Project wizard"
+Yes,Javadoc comment dialog accessibility issues
+Yes,[push down method] introduces behavioral change: enables overloading + accessibility
+Yes,[pull up method] introduces behavioral change: change accessibility
+Yes,[pull up method] introduces behavioral change: change accessibility + super
+Yes,[A11Y] 'Web Project Properties > Frameworks' panel accessibility issues
+Yes,[Change Method Parameters] Change accessibility - Cannot reduce the visibility of the inherited method from [T] (compilation error)
+Yes,KB accessibility of suggestion lists?
+Yes,[A11Y] WS Designer accessibility missing
+Yes,New Tag dialog accessibility issues
+Yes,Javadoc index search accessibility issues
+Yes,Javadoc Analyzer view accessibility problems
+Yes,Javadoc View accessibility problems
+Yes,Members dialog accessibility report
+Yes,A11Y: minor accessibility problem of module manager window
+Yes,A11Y - Warning dialog - missing accessibility features
+Yes,[A11Y] 'Set Database Location' dialog accessibility issues
+Yes,[A11Y] 'Create Derby Database' dialog accessibility issues
+Yes,A11Y - no keyboard accessibility within Welcome windows
+Yes,a11y: accessibility problems in the `Auto Comment Tool` window
+Yes,a11y: accessibility problems in the `Add New Tag` dialog
+Yes,a11y: accessibility problems in the `Tag Library Customizer [newTaglib]` dialog
+Yes,A11Y: Background Color dialog has accessibility issues
+Yes,WSDL first page of wizard shows accessibility problems
+Yes,[A11Y] Create Derby Database dialog accessibility issue
+Yes,a11y: accessibility issues in the panel Specify Jar Contents
+Yes,Choose URL dialog accessibility issues
+Yes,[a11y] ACTIONS: Action editor doesn't implement all requirements for accessibility
+Yes,[a11y] ACTIONS: Application Action Editor doesn't implement all requirements for accessibility
+Yes,[a11y] Code customizer doesn't implement all requirements for accessibility
+Yes,[a11y] wizard for JDA - card Name and Location doesn't implement all requirements for accessibility
+Yes,[a11y] Table customizer dialog doesn't implement all requirements for accessibility
+Yes,[a11y] Binding dialog doesn't implement all requirements for accessibility
+Yes,[a11y] Editor for jSpinner model doesn't implement all requirements for accessibility
+Yes,[a11y] ACTIONS: Action editor doesn't implement all requirements for accessibility
+Yes,[a11y] Table customizer dialog doesn't implement all requirements for accessibility
+Yes,[a11y] wizard for JDA - Master Table doesn't implement all requirements for accessibility
+Yes,[a11y] Editor for formatted factory doesn't implement all requirements for accessibility
+Yes,[a11y] model editor for JTable doesn't implement full accessibility
+Yes,Missing accessibility information for Profiler and Snapshots windows
+Yes,A11Y: accessibility problem of Change Visible Columns dialog
+Yes,"A11Y: accessibility problems of ""Uninstalling module"" dialog"
+Yes,[a11y] jUnit dialogs accessibility issues
+Yes,a11y: New Binding dialog is missing accessibility info

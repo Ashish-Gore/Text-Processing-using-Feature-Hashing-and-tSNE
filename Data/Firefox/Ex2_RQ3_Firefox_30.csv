@@ -1,0 +1,331 @@
+BRA,Summary
+No,"Papercut: The URL bar says ""Go to a web site"", but it is capable of search now too, and should probably say something like ""Search or go to a web site""."
+No,Firefox rewrites Wiktionary URL's server to wilt.wiktionary
+No,autocomplete tab-switching misuses browser.urlbar.default.behavior
+No,about:newtab briefly shown in location bar of new tab
+No,"""Warning: function onKeyPress does not always return a value"" for autocomplete.xml"
+No,Ctrl+shift+x should switch directions in location bar in RTL mode
+No,Inline autocomplete drops https and completes without protocol/www.
+No,some code expects urlbar to always exist
+No,Location bar's placeholder in an RTL chrome should be aligned on the right
+No,search autofill test leaks into later tests
+No,"using Shift to bypass ""switch to tab"" doesn't work anymore (loads www.domain.com.net)"
+No,Can't open popup notifications with the keyboard (focus gets stuck at the identity icon)
+No,Location bar tooltip shows shortened URL when full location bar address is not visible
+No,www prefix is added to URL that loads after accepting inline-autocomplete suggestion
+No,"(Australis) UX branch: Intermittent failure in browser_URLBarSetURI.js | Test timed out, followed by ""Found a browser window after previous test timed out"""
+No,Improve the visual style of location bar results
+No,browser_bug422590.js shouldn't use chrome-privileged window.open with toolbar=no
+No,"Update identity-icons-brand(@2x).png for unofficial, Nightly, and Aurora"
+No,"Intermittent browser_locationBarCommand.js | Content window should be focused - Got [object XrayWrapper [object Window @ 0x2edd060 (native @ 0x4abd4d0)]], expected [object XrayWrapper [object Window @ 0x5ff9990 (native @ 0x47333e0)]] and a bunch more"
+No,Regression: Keyword search's title and search param are split up
+No,De-emphasize plugin icon in the Address Bar when it doesn't need to catch the user's attention
+No,ASCII control characters stripped from address bar
+No,Don't work arrow key on location bar when using autocomplete address
+No,Site identity popup should link to explanation/support
+No,URLs auto-completed in address bar might unexpectedly use ftp:// instead of http://
+No,Paste & Go should only appear when the clipboard is a URL
+No,"Prefixing text in the location bar with ""?"" includes that in the search"
+No,Paste-and-go should appear when the clipboard's contents might reasonably be construed to be a URL
+No,Paste & Go and Paste & Search should always replace the entire contents of the textbox
+No,"Don't distinguish an url or not for ""Paste & Go"""
+No,"Hovering links shows ""moz-action:switchtab"" text and hides ""Switch to tab:"" label in URL bar when it contains a switch-to-tab URL"
+No,Identity doorhangers should anchor off of the identity icon
+No,"Forward button takes up space even when it's hidden, perhaps with australis customization"
+No,Use currently selected search engine in search bar for searches in the location bar
+No,domain highlighting doesn't work with IPv6 literals
+No,location bar input should not be dependent on how long it takes the user to press enter
+No,domain highlighting lightens and de-emphasizes the rest of URL too much
+No,Weird highlighting when adding text to an existing address
+No,"""aBrowser is null"" in _setPluginNotificationIcon"
+No,Lock icon doesn't appear in location bar when surfing a secure site
+No,Switching tabs from a Nightly/UX tab to a Nightly/UX tab and then changing the URL maintains the Nightly/UX icon.
+No,Australis: Small windows lose the reload button
+No,completion in urlbar is copied to X primary selection
+No,Remove obsolete star-button element
+No,tresize talos regression on January 28th team seen on fx-team
+No,Create design spec for Search Prompt in awesomebar results
+No,Interaction design for search query callout
+No,[Australis] urlbar with EV SSL overlaps searchbar in narrow window
+No,"[Australis] Remove the ""Open Location"" dialog (openLocation.xul)"
+No,'h' entered as first letter in location bar is overwritten with 'w' when browser.urlbar.autoFill is true
+No,browser/base/content/test/general/browser_urlbar_search_healthreport.js attempts to connect to www.google.com
+No,Visual design for search terms in the search query callout
+No,[UX] - Styling updates for the Awesome Bar auto-complete
+No,[UX] - The top auto-complete should reflect the intended action
+No,getShortcutOrURIAndPostData should have a synchronous callback behavior
+No,Location bar shouldn't strip whitespace when pasting
+No,Pasting data URIs to the location bar doesn't work after Bug 1018154
+No,Clicking the green text on the EV indicator a second time doesn't dismiss the EV information
+No,URL spoofing with credentials info of URL & 204
+No,[UX] Design Spike: Awesomebar explorations
+No,Switch to tab magic URL leakage
+No,Enhance previous searches in awesomebar dropdown by removing URL
+No,"[CAL-2012-0001]Spoof after a URL is dragged to location bar, by canceling the load"
+No,Ctrl+Shift+X does not work in URL bar in RTL locales
+No,Search terms with multiple spaces are displayed with plus signs in the location bar
+No,autoFill should obey history-only or bookmarks-only autocomplete options
+No,"entering square brackets in location bar crashes [@ nsDefaultURIFixup::KeywordURIFixup(nsACString_internal const&, nsDefaultURIFixupInfo*, nsIInputStream**) ]"
+No,Intermittent browser_urlbarSearchSingleWordNotification.js | Test timed out | Found a browser window after previous test timed out
+No,Prepend http:// to URL on drag and drop operations from the location bar
+No,Use a chrome icon for chrome URLs in the location bar
+No,Holding Alt/Shift on the address for a few seconds will override Switch to tab even after you release the button.
+No,Add a way to specify that nsDefaultURIFixup should obey the domain whitelist when not using keyword searches
+No,disable unified autocomplete for Firefox 34
+No,Shift + Switch to Tab no longer respected
+No,[UX] Handle bookmarked past searches
+No,Location bar loads address including >> instead of just the replaced address
+No,Address Bar not working
+No,"Add ""(engine) Search"" label for past search results in the location bar"
+No,Wrong search terms are highlighted on Google
+No,[UX] Visual design for Awesome Bar layout cleanup
+No,Breakdown: Show the action that will be triggered when pressing enter in a pre-selected dropdown entry
+No,"Wrong URL loads after autofill of a hostname that matches a search engine, e.g. https://twitter.com/search-home"
+No,Unified Autocomplete: Strange border between globe icon and search term
+No,Autocomplete results for aliased search engines should use the search engine icon
+No,Accessing IPv6 URLs without typing the protocol and the first bracket throws a JS error in the Browser Console
+No,Disable UnifiedComplete for Firefox 35
+No,opening a new Private Browsing Window doesn't focus the location bar
+No,localhost URLs with spaces are redirected to search when opened from history drop-down
+No,Improve display of entries without a title in the Awesomebar
+No,Intermittent browser_urlbarSearchSingleWordNotification.js | A promise chain failed to handle a rejection: - at tabbrowser.xml:5330 - TypeError: gBrowser._cancelTabSwitch is not a function
+No,"Selecting a moz-action: result then typing more can result in ""Search X for moz-action:..."" item"
+No,"Awesome Bar: Firefox suggests ""[keyword] – Search with [default search engine]"" when entering ""[keyword][space]"", but loads the search engine related to the keyword"
+No,Private Windows shouldn't disable switch-to-tab by disabling all autocomplete actions
+No,Can't arrow back into location bar once the autocomplete popup has been shown by arrowing down
+No,"location bar should use search for lat/long or expressions that contain a decimal, instead of ""server not found"""
+No,Move FHR reporting of keyword searches out of nsDefaultURIFixup.getFixupURIInfo()
+No,Origin spoofing when URL is copied to the URL bar
+No,Remove the star for non-bookmark behavior (followup from bug 530209)
+No,"With RTL UI, click and drag in the address bar moves the window instead of selecting text"
+No,Can't copy URL by right click it the first time
+No,Firefox should show better indicators for RC4 sites
+No,[UX] Design Spike: Visual improvements of the awesomebar
+No,[e10s] Re-enable browser_urlbarRevert.js
+No,e10s - fix browser_wyciwyg_urlbarCopying.js
+No,e10s - fix browser_url* tests to run under e10s
+No,[OSX] Pocket panel for ru locale build has misaligned elements
+No,"tests using check_autocomplete should check what the ""selected"" item is."
+No,unified autocomplete broke my most frequently autocompleted items
+No,"No favicon for ""host"" autocomplete entries"
+No,Disable Search Provider Top Suggestion feature
+No,Entering 127.0.0.1/1 and the like performs a search instead of loading the site
+No,Flickering in URLBar while entering URL bar that is the current top match
+No,Deleting a character needs pressing [DELETE] key more than twice in Location Bar
+No,Add unit tests for search suggestions in awesomebar
+No,Add restrictSearchesToken to allow to use the locationbar as the search bar
+No,Work around bug 924069 in the Firefox front-end code
+No,Investigate a better frecency mix for search suggestions
+No,The awesomebar shows a search as first suggestion for typed IPv6 URLs
+No,this.editor is null (line 161 in browser/omni.jar!/chrome/browser/content/browser/urlbarBindings.xml)
+No,urlbar binding has two focus handlers
+No,"Focusing an element inside the location bar (e.g. notification icons, identity icon) removes domain highlighting"
+No,Address bar will not load an autocompleted URL if you edit it
+No,"location bar shows ""search with Google"" as the default action even when keyword.enabled is false"
+No,"Frequently triggers ""TypeError: this._searchSuggestionController is null"""
+No,All mixed content states are visible on any page in control center
+No,Action row doesn't always update correctly with unified autocomplete
+No,[e10s] Location bar retains invisible selection and does not permit text drop
+No,browser_urlbar_autoFill_backspaced.js is going to permafail when Gecko 42 merges to Aurora
+No,Revert part of Bug 1176205 once search suggestions hit Aurora
+No,Make dragging external URI onto newtab grid work in e10s
+No,Race condition in browser.urlbar.suggest. preferences handlers
+No,Add Search suggestion toggle to location bar preferences
+No,Hide search settings footer until it is complete
+No,"Intermittent browser_urlbarDelete.js | ""xample.com/"" == ""xam"" - JS frame :: chrome://mochitests/content/browser/browser/base/content/test/general/browser_urlbarDelete.js :: testDelete :: line 47 etc..."
+No,Prompt to opt-in/out search suggestions still shown after answered in another window
+No,"Location bar search suggestion include things that look like URLs (e.g. ""bankofamerica.com"") which surprisingly take you to a search results page instead of to the URL"
+No,Autocomplete dropdown should animate when resizing
+No,Disallow javascript: and data: URLs entered into the location bar from inheriting the principal of the currently-loaded page
+No,"I cannot choose ""Would you like to improve your search experience with suggestions?"" [No][Yes] with keyboard"
+No,Focus urlbar when search suggestions opt-in is dismissed only after pressing an opt-in accesskey
+No,Focus is immediately grabbed by the AutoComplete/tags or bookmarks suggestion list when you start typing in the awesome bar
+No,formatValue ends up forwarding uriFixup exceptions to callers when it shouldn't
+No,urlbar a11y still broken by search suggestions opt-in prompt/notification
+No,URL spoofing by repeatedly navigating (and cancelling) the location
+No,"Inline urlbar buttons (identity block, go/stop/reload, reading list, ...) and autocomplete dropdown arrow should have proper label"
+No,"Remove the location bar's ""title"" attribute"
+No,Rephrase the history dropdown's aria-label and use it as the tooltip too
+No,completion in urlbar is copied to X primary selection
+No,Dragging selection into location bar doesn't set GO button immediately
+No,long EV cert owner string obscures URL in location bar
+No,Back button on location bar looks wonky
+No,Address bar reverts to previous page's URL when entering an invalid URI with keyword.enabled=false
+No,Location bar should be kept focus after selected the Search suggestions prompt by keyboard access key
+No,"Searches initiated by search suggestions in the locationbar don't increment the ""search"" / ""urlbar"" telemetry countable"
+No,Allow unified complete to consume matches asynchronously
+No,FX_URLBAR_SELECTED_RESULT_TYPE and FX_URLBAR_SELECTED_RESULT_INDEX are expired already
+No,Clear identity block when typing a different URL into location bar
+No,Search engine results in the location bar hurt awesomebar's usability for finding visited pages
+No,Let unified autocomplete ride the trains
+No,"Can't see visible action when I click ""Change Search Settings"" if about:preferences#search is already opened"
+No,"browser_urlbarSearchTelemetry.js,browser_urlbarSearchSuggestions.js,browser_urlbarSearchSuggestionsNotification.js,browser_urlbarSearchSingleWordNotification.js leak until shutdown on mozilla-aurora 45"
+No,"Searches initiated by clicking the action row in the locationbar don't increment the ""search"" / ""urlbar"" telemetry countable"
+No,Cannot remove first entry from awesome bar
+No,location bar suggestions disappear if mouse moves
+No,Location bar should encode parentheses on copy
+No,Change the default favicon from an empty dashed-box to a globe.
+No,URL bar highlighting treats URLs with hyphenated schemes (e.g. view-source) as scheme-less
+No,Telemetry experiment for unified urlbar-searchbar with one-off search buttons
+No,e10s - fix browser_autocomplete_a11y_label.js to not time out when run with other tests
+No,Stops working open a new tab from a search suggestion in locationbar(with Ctrl+click or with wheel mouse button)
+No,Intermittent browser_action_keyword.js | Uncaught exception - at :0 - Error: operation not possible on dead CPOW
+No,Temporarily disable Unified Complete due to regressions
+No,Fix issue with sending of Content:LoadURIResult
+No,prepend http:// to URL copy selection if URL has been selected (but not loaded) from location bar
+No,"After entering http:// or https:// in Location Bar , the Location Bar will no longer function."
+No,Typing fast in address bar and pressing enter leads to missing end characters
+No,Excessively cropped results in new Awesome Bar style
+No,The location bar should displays 10 autocomplete suggestions without scrollbar instead of 6
+No,Use the 'right' HTML input type attributes for the location bar and search bar to get a better on-screen keyboard for them on Windows
+No,Urlbar incorrectly highlights domain name if there's whitespace at the end
+No,address bar pull down delete deletes wrong entry
+No,Intermittent browser_bug304198.js | Found an unexpected tab at the end of test run: http://example.org/browser/browser/base/content/test/general/dummy_page.html -
+No,Intermittent browser_urlbarSearchSuggestions.js | The search results page should have loaded - false == true - JS frame :: browser_urlbarSearchSuggestions.js :: clickSuggestion :: line
+No,"Copying ""normal"" URL from location bar when in reader mode broke (now includes ""about:reader?url="" and escapes the real URL)"
+No,Don't use margin-left on PopupAutoCompleteRichResult with RTL locales
+No,Awesomebar popup truncates text incorrectly in RTL
+No,Em dash separator between title and URL/action is incorrectly placed for URLs in RTL in the awesomebar popup
+No,"Urlbar inconsistently sets either icon in identity block, or url"
+No,We lost the sync/tabs-from-other-devices tab icon in the awesomebar popup redesign
+No,Identity block hover background color is jarring on the dark Dev Edition theme
+No,Identity block doesn't keep background color when control center is open
+No,Rewrite existing tests using the old TP/MCB shield
+No,Identity block should change background color on hover and always be separated from page address
+No,[userstory]  CC: Site Permissions subpanel
+No,Group the existing site identity URL bar icon with the tracking protection shield when TP is enabled
+No,Investigate - TP shield shows up incorrectly when pressing back while loading a page with tracking elements
+No,Add sections and sorting for permissions in subpanel to match designs
+No,The grouped identity block is overlapping with the separator icon in osx 10.10 when the url bar isn't focused
+No,Simplify gIdentityHandler and show connection type in the fullscreen notification
+No,Identity block background bleeds over URL bar border when the window is inactive
+No,Anchor the Control Center to the middle of the icons in the identity block
+No,Re-enable inline autocomplete once its blockers are fixed
+No,"Em dash separator in awesomebar popup has incorrect spacing/padding on Windows, Linux in RTL"
+No,"Locationbar uses grey text on grey background for tags, that is barely readable"
+No,my awesomebar is running out of ink
+No,New awesomebar design: Come up with better text emphasis/highlight solution for Windows non-default system themes and Linux
+No,Visual design for search prompt in awesomebar results.
+No,User typed value is lost in e10s when the load produces an error page without keyword.enabled
+No,Support the .com button on the virtual keyboard
+No,Move urlbar-related tests into the urlbar directory (out of general)
+No,Remove leftover references to unifiedComplete pref
+No,"When browser.urlbar.unifiedcomplete is False, every first time typing something to location bar there is no drop down menu"
+No,location bar continues displaying wyciwyg URI and resource URI if user tries to navigate to it manually
+No,Autocomplete popup displays wrong message when typing only a search keyword
+No,First suggestion isn't selected (e.g. can't see the search engine) when I open suggestions via Down key
+No,Url stays in location bar when I open homepage
+No,Typed text on url bar is lost with unified complete
+No,"With UnMHT add-on, after switching to another tab, the another tab still shows url of a previous tab."
+No,Location bar displays many duplicates in suggestions when I delete items
+No,Escape key cancels page loading if I try to cancel typed string (does 2 actions at the same time)
+No,"Urlbar ignores protocol which results in wrong suggestions (e.g. for keywords). https://, http://, ftp:// are affected"
+No,Urlbar doesn't highlight search terms in suggestions (behavior is illogical)
+No,"Identity popup sometimes doesn't display EV/DV site identity above ""Secure connection"" label"
+No,Enter/return key opens entries from drop down menu without pressing arrow keys first on FF 31+
+No,Awesomebar-results-pane repeatedly opening up when typing a visited domain
+No,First urlbar suggestion doesn't show favicons for visited sites when I type url
+No,Urlbar sometimes show different suggestions for the same input string displayed in the urlbar
+No,Separator em dash is incorrectly shown for bookmark keyword searches
+No,Adjust the vertical padding of the identity box across platforms
+No,Can't Ctrl+Tab away after typing something in the location bar
+No,"Useless one free space between dropmarker and separator in address bar - round 2, fight"
+No,Pressing tab key in address bar selects one-off search buttons instead of the entries in the history dropdown list
+No,Awesomebar result providers should be able to use different heights per item
+No,Emphasize search terms in awesomebar results using bold face
+No,Awesomebar search buttons show auto completed text not user input
+No,Autocomplete suggestions just don't go away after Win+Down
+No,"When I switch back to the first suggestion, new urlbar: [1] changes original input (converts to lower case; adds/removes http:// and /)   [2] does that inconsistently"
+No,Suggestions twitch when I edit string in location bar
+No,"Autocomplete popup displays ""moz-action:searchengine,..."" for keyword searches while pressing Shift"
+No,"Unified autocompletion ""Visit"" feature doesn't use https for https-only websites"
+No,System font setting respected by location bar but ignored by location bar's autocomplete drop-down list
+No,"Issues with duplicating ""http://"" when copying from the location bar with trimURLs enabled (the default) and the http URL has its protocol displayed anyway to avoid it triggering searches"
+No,browser.fixup.dns_first_for_single_words prevents location bar search suggestions even when there's more than one token and/or the first token is not a single word
+No,Awesomebar suggestions are very slow with a lot of tags
+No,"Location bar search for a numeric division (e.g. 123/2) with no internal spaces suggests navigating to an IP address (e.g. ""0.0.0.123"")"
+No,Make formatValue more resilient to spoofing attacks
+No,"Permaorange Aurora browser-chrome tests failing with browser_autocomplete_autoselect.js | Expected one-off button should be selected - Got -1, expected 0"
+No,"perceptible pause before navigating when pasting a link and quickly hitting ""enter"""
+No,Update the heuristic result contents for canonize url
+No,Improve location bar delayed Enter behavior
+No,"In some cases Enter key doesn't work in Urlbar, and random pages load during typing (100% str)"
+No,"Sees hexdecimal code as URL and asks me to go there, nothing happens."
+No,Entering URL without hitting Enter in location bar then tearing the tab deletes the entered URL
+No,"When the one-off search settings button is selected, clicking a urlbar result opens the search settings/preferences"
+No,Keyword search is always performed in lowercase
+No,JSON fragments visible when typing double quotes into location bar
+No,"enter in location bar (URL bar) for bookmark keyword immediately followed by opening new tab sometimes loads url in new tab instead of old, particularly under high load"
+No,Entering URL into Address Bar Initiates Connection
+No,"Intermittent browser/base/content/test/urlbar/browser_urlbarCopying.js | loaded expected URL - Got about:blank, expected http://example.com/"
+No,results left offset doesn't take <toolbaritem> nodes into account
+No,"Intermittent browser/base/content/test/urlbar/browser_urlbarTrimURLs.js | expected page should have loaded - Got about:blank, expected http://example.com/"
+No,Remove leftover chrome://browser/skin/actionicon-tab*.png files
+No,Security: Partial Address Bar Spoofing in Firefox V51.0(Nightly)
+No,"""Paste and Go"" does not work if CRLF exists at the end of clipboard url."
+No,"location bar autocompletes bookmarked sites when ""suggest bookmarks"" is unchecked"
+No,Move nsBrowserGlue.js _handleURLBarTelemetry() into BrowserUsageTelemetry
+No,Some fields have been converted to properties and won't reset anymore when the binding is recreated
+No,"Location bar search for a number suggests navigating to an IP address (e.g. 123 and ""0.0.0.123"")"
+No,Private tab clears location bar when finishes loading even if I already typed something (especially noticeable in e10s)
+No,Bad a11y when pressing Left and Right while the urlbar autocomplete popup is focused
+No,"Leftarrow/rightarrow (and ctrl+rightarrow) jumps to the end of URL, if Unified Autocomplete dropdown has just appeared"
+No,[e10s] URL bar hash not updated after navigating to about:debugging or other parent process page from a content process page (e.g. website)
+No,chrome://browser/skin/places/autocomplete-star@2x.png is packaged but not used on Mac
+No,URI spoof when opening page in a new tab with a moz-action URI
+No,HTTP(S) URL spoof in location bar
+No,"Intermittent browser/base/content/test/urlbar/browser_locationBarCommand.js | New URL is loaded in new window - Got , expected example.com"
+No,Round brackets are escaped when copy-and-pasted from the location box.
+No,cannot drop selected text on Location Bar from content area
+No,manually added URLs with REDIRECT are falsely preferred to redirect target
+No,"Always present a 'search' option when the location bar search is ""fixed"" to an URL"
+No,Search a string looking like a URL using a one-off button doesn't open the search results
+No,The new location bar autocomplete drop down menu starting from 48 has serious performance issue and often blocks user's <Enter> input
+No,The awesomebar dances up and down with each character typed when the text entered looks like a URL
+No,URLBar shouldn't be handling keyword searches itself when UnifiedComplete is enabled
+No,history dropmarker keep place and cover the content of urlbar while it has disappeared
+No,Consider whether to revert the URL bar straight after 'paste and go' usage
+No,Urlbar doesn't properly unescape ASCII url
+No,Autofill in urlbar doesn't follow normal text selection behavior
+No,Urlbar deletes all typed text when page finishes loading (and suggestions are irrelevant to the string in urlbar)
+No,Store list of pre-seed top web sites for autocompletion in a file.
+No,Fix unit test  for storing prefill sites in a file
+No,"X primary selection clobbered with ""about:home"" when focusing the location bar of a new window"
+No,Zoom indicator (urlbar-zoom-button) is gone when moved to new window
+No,Awesomebar result providers should be able to add document fragments or iframes
+No,[unifiedcomplete] First suggestions shows originally typed word instead of selected suggestion and brings confusion (sometimes)
+No,"[unifiedcomplete] The first suggestion randomly displays autofilled text, so Enter doesn't apply to text in location bar"
+No,using ctrl / shift + enter seems to save the URL to a hidden clipboard that populates when hitting enter (hard to describe).
+No,"Address bar uses most recently entered URL, not URL in bar, after using CTRL+ENTER"
+No,Firefox adds http:// and / when browser.urlbar.trimURLs = false and keyword.enabled=false
+No,Consider making FX_URLBAR_SELECTED_RESULT_TYPE opt-out
+Yes,Inconsistencies with visual cue used for remote controlled browser session
+Yes,Users can be tricked into thinking sites are encrypted with new visual cues added by bug 417844
+Yes,Metro firefox needs a visual cue when a URI is loading
+Yes,no visual cue on how to exit customization mode in UX builds
+Yes,[Linux] No visual cue as to what item is selected via keyboard navigation in in-content preferences
+Yes,Most visited tab displays the URL of IDN in Punycode transcription.
+Yes,Text referencing Talkback in about:license should be removed
+Yes,Talkback installer percent should be set back to 20% for final-ish releases.
+Yes,Installer Does not close Mozilla gracefully; Talkback pops up
+Yes,Crash; Talkback window has no buttons
+Yes,Talkback is unable to connect to report crashes
+Yes,Talkback server needs to be functional for final 1.5 release
+Yes,Talkback is not installed with the installer
+Yes,"Talkback ""not compatible"" with 1.6a1"
+Yes,crash (see Talkback event TB11273741W)
+Yes,Talkback is not triggered on Firefox crashing
+Yes,Talkback fails to remember settings
+Yes,"Firefox crashes on startup, Talkback does not trigger."
+Yes,Crash on startup with Talkback enabled using XP x64 SP1 [@ msvcrt.dll + 0x48cc3 (0x77be8cc3)]
+Yes,FireFox sometimes crashes (opens Talkback) when closing while applet running [@ IM_get_input_context]
+Yes,DOM inspector and Talkback not installed in trunk
+Yes,Firefox not starting with the Talkback extension enabled
+Yes,"FireFox crashing on this site, Talkback agent *does not* catch this crash"
+Yes,Quality Feedback agent (Talkback) does not come up when Firefox freezes
+Yes,Talkback no longer working
+Yes,Javascript popups crashes Firefox when Talkback add-on is enabled
+Yes,shut down Firefox by data execution prevention no Talkback
+Yes,Talkback network error -- processing failed
+Yes,Set Talkback random percent to 100% for nightly builds
+Yes,Installer chokes on Talkback : -214 DOES_NOT_EXIST

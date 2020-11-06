@@ -1,0 +1,771 @@
+BRA,Summary
+No,<video> causes SharedMemory leak
+No,Videos only load if cursor will moved
+No,Missing (transparent) frames with video tag
+No,Crash due to fatal assert in winmm: cubeb_refill_stream/winmm_refill_stream
+No,Xperia Tipo - MP4 playback with green artifacts
+No,[Sora][music player]music player crashed while playing this song
+No,[Tarako]: Camera is not stable.
+No,Unsupported mime & file type in 32 bit Firefox
+No,Intermittent test_videocontrols_audio_direction.html | Test timed out | [SimpleTest.finish()] this test already called finish! | called finish() multiple times | application timed out after 330 seconds with no output
+No,Some WebM videos are viewed with the wrong aspect ratio
+No,regression in windows 7 xperf mainthread bytes read during test run
+No,Short HTML5 audios doesn't stops playing when using audio.stop() function
+No,Linux:  Audio's canPlayType() fails for MP3 if codec is supplied
+No,"[B2G][Browser]Dragging youtube slider can cause video to skip to end, any subsequent slider adjustments auto snap to end of video"
+No,SoundCloud media resource could not be decoded on Linux
+No,Crappy decoding of h264 codec
+No,"Endless errors in the Error Console enabling <video>'s Statistics while using preload=""none"""
+No,Hard reset when i watch any MP4 video
+No,WebM videos stutter on playback
+No,no audio while watching html5 video
+No,Intermittent test_played.html | Test timed out.
+No,"Intermittent content/media/test/test_seek.html | Test timed out., followed by timeouts in test_seek_out_of_range.html, test_timeupdate_small_files.html & test_too_many_elements.html"
+No,"[test disabled] TEST-UNEXPECTED-FAIL | test_videoDocumentTitle.html | Doc title incorrect - got ""320x240.ogv"", expected ""bug461281.ogg"""
+No,No sound with OSS4 in HTML5 videos
+No,Soundcloud player is broken post 29
+No,"[OSX] 24.6.0-ESR: cannot click on player controls (Flash, Silverlight)"
+No,Old versions of ffmpeg/avconv produce invalid WebM files with negative block timestamps
+No,Fix intermittent B2G timeouts during test_autoplay_contentEditable.html and re-enable it
+No,"Intermittent test_bug726904.html | clientWidth should be 400 - got 0, expected 400 | clientHeight should be 400 - got 0, expected 400"
+No,Intermittent test_metadata.html | Test timed out.
+No,"Intermittent TEST-UNEXPECTED-FAIL | test_getUserMedia_constraints.html,test_getUserMedia_exceptions.html,test_getUserMedia_gumWithinGum.html | Assertion count 123 is greater than expected range 0-0 assertions. | ABORT: ActorDestroy by IPC channel failure"
+No,Intermittent content/media/test/test_media_selection.html | Test timed out.
+No,Crash during shutdown CC with <video><track>
+No,"Intermittent e10s mochitest-1 Shutdown | application terminated with exit code 6 after ""firefox: pthread_mutex_lock.c:62: __pthread_mutex_lock: Assertion `mutex->__data.__owner == 0' failed."""
+No,audio not stopping at correct time when using some Audio Sprites
+No,LSan-detected leaks with GeckoMediaPluginService::GetGMPVideoEncoder() in Mochitest-3
+No,Cannot play video uploaded in google drive
+No,"Intermittent test_bug495145.html | Assertion count 1 is greater than expected range | leakcheck | 156 bytes leaked (Mutex, ReentrantMonitor, nsRunnable, nsTArray_base, nsThread) from ""Non-empty event queue being destroyed; events being leaked"""
+No,"Intermittent Windows mochitest-1 leakcheck | 7843 bytes leaked (BaseMediaResource, CondVar, FileBlockCache, Image, ImageContainer, ...) with leaked URLs: http://mochi.test:8888/tests/content/media/test/320x240.ogv"
+No,"Intermittent OSX leakcheck | 5664 bytes leaked (AudioData, BaseMediaResource, CondVar, FileBlockCache, MediaCache, ...)"
+No,"Intermittent bug686957-ref.html | load failed: timed out waiting for reftest-wait to be removed and leaks | leakcheck | 14960 bytes leaked (BaseMediaResource, CompositableChild, CompositableClient, CompositableHost, CompositableParent, ...)"
+No,"Intermittent leakcheck | 643963 bytes leaked (AsyncLatencyLogger, AtomImpl, AudioChannelService, CacheObserver, ChannelMediaResource::Listener, ...)"
+No,"Intermittent TEST-UNEXPECTED-FAIL | /tests/content/media/test/test_preload_actions.html | (19) preload is initially auto - got false, expected true"
+No,Intermittent TEST-UNEXPECTED-FAIL | /tests/content/media/test/test_source_media.html | application timed out after 330 seconds with no output
+No,Intermittent test_played.html | application timed out after 330 seconds with no output
+No,Intermittent test_playback.html | application terminated with exit code 256 | application crashed [@ CoreAudio + 0xa38b]
+No,Intermittent test_readyState.html | Test timed out.
+No,Intermittent TEST-UNEXPECTED-FAIL | /tests/content/html/content/test/test_track_disabled.html | application timed out after 330 seconds with no output
+No,"TEST-UNEXPECTED-FAIL | leakcheck | 72 bytes leaked (ReentrantMonitor, WMFSourceReaderCallback)"
+No,Intermittent TEST-UNEXPECTED-FAIL | /tests/content/html/content/test/test_track.html | application timed out after 330 seconds with no output
+No,Intermittent Linux timeout in content/media/test/test_playback_rate.html
+No,Intermittent PROCESS-CRASH | /tests/content/media/test/test_seek.html | application crashed [@ CoreAudio + 0xdfd0]
+No,Intermittent test_streams_element_capture.html on linux64; test case gizmo.mp4 | uncaught exception - NS_ERROR_NOT_AVAILABLE: Component is not available at http://mochi.test:8888/tests/content/media/test/test_streams_element_capture.html:19
+No,Intermittent content/media/test/test_played.html | application crashed [@ jemalloc_crash]
+No,"Intermittent test_playback.html, 481921.html, 358679-1.xhtml | Assertion count 1 is greater than expected range (RECURSION_LEVEL(table_) > 0: 'RECURSION_LEVEL(table) > 0')"
+No,"Intermittent media-element-source-seek-1.html | Exited with code -11 during test run | after WARNING: Failed to unlock the wakelock.: '!rv.Failed()', file HTMLMediaElement.cpp, line 2265"
+No,Intermittent test_play_events_2.html | application timed out after 330 seconds with no output | PROCESS-CRASH | application crashed [@ nsBlockFrame::DrainPushedFloats(nsBlockReflowState&)]
+No,Intermittent TEST-UNEXPECTED-FAIL | /tests/content/media/test/test_texttrackregion.html | application timed out after 330 seconds with no output
+No,Intermittent Linux content/media/test/test_bug465498.html on linux64; test case gizmo.mp4 | Test timed out. (followed by Shutdown timeout)
+No,Intermittent ASAN TEST-UNEXPECTED-FAIL | /tests/content/media/test/test_video_to_canvas.html | Shouldn't throw exception while drawing to canvas from video for gizmo.mp4
+No,Intermittent content/media/test/test_closing_connections.html | application crashed [@ libc.so + 0xc030]
+No,"Intermittent test_play_events.html | Check expected event got canplaythrough at canplay for vp9.webm uneval(event.type)=""canplaythrough"" typeof(event.type)=string uneval(v._state)=""canplay"" typeof(v._state)=string tokens[canplay]=playing ..."
+No,Intermittent test_playback.html | bug495129.ogv duration (3.691972) should be around 2.41 etc.
+No,"Intermittent test_play_events_2.html | Last event should be canplaythrough for http://mochi.test:8888/tests/content/media/test/gizmo.mp4 - got playing, expected canplaythrough"
+No,Intermittent TEST-UNEXPECTED-FAIL | /tests/content/media/test/test_replay_metadata.html | CurrentTime (0) should be around 0.266664 for 320x240.ogv
+No,Intermittent test_trackevent.html | application timed out after 330 seconds with no output
+No,Intermittent Win8/Win7 content/media/test/test_bug465498.html | Test timed out.
+No,"Add MOZ_COUNT_CTOR,DTOR for GMPProcessParent"
+No,100% cpu after html5 video ends
+No,Intermittent test_info_leak.html | application crashed [@ 0x0][@ libxul.so!mozilla::BaseAutoLock<mozilla::Mutex>::~BaseAutoLock()]
+No,"Intermittent test_progress.html | This test left crash dumps behind, but we weren't expecting it to! | test_streams_element_capture.html | application crashed [@ oc_dec_residual_tokens_unpack]"
+No,Intermittent 500328-1.html | application timed out after 330 seconds with no output in HTMLMediaElement::ShutdownDecoder
+No,"Intermittent test_play_events.html | application crashed [@ js::gc::MarkString(JSTracer*, js::BarrieredPtr<JSAtom, unsigned int>*, char const*) + 0x1a]"
+No,Intermittent test_load.html | Exited with code -1073741819 during test run | application crashed [@ mf.dll + 0xd1261]
+No,Intermittent test_volume.html | Test timed out.
+No,No video shown when mp4 is played using Quicktime on Firefox 4/5 for Mac
+No,Intermittent test_bug495145.html | application timed out after 330 seconds with no output
+No,"Failure in test_load.html occurs after SimpleTest.finish(), and thus is hidden in TBPL"
+No,MOZ_GMP_PATH should be detected once after startup or some delay
+No,Minor Media Source Extension spec updates
+No,"No ""load"" or ""readystatechange"" event on <track> node"
+No,HTML Video Tag in Firefox causes blue screen on 64bit Windows 7
+No,MediaSource - Crash while seeking video
+No,[Sora][Monitor][Message][Input Method]Click sound function sudden  invalid when use keyboard
+No,Video tag control clipping with CSS border-radius and no focus outline
+No,mp4/h.264 playback on Mavericks results in blank video output
+No,Apple PDM media mochitest timeouts
+No,Youtube html5 video player doesn't work with captions on
+No,Media Source API doesn't allow changing cursor position on an incomplete video
+No,"Buffering issues on Youtube MediaSource, resulting in crash when seeking."
+No,libcubeb: no sound with alsa-plugins-oss
+No,Hang at shutdown in MediaDecoderStateMachine::StopDecodeThread
+No,Intermittent TEST-UNEXPECTED-FAIL | /tests/content/media/webspeech/recognition/test/test_success_without_recognition_service.html | unexpected event: error -- No speech detected (timeout)
+No,"crash in mozilla::WebMContainerParser::IsInitSegmentPresent(unsigned char const*, unsigned int)"
+No,HTML5 YouTube player stops video with only audio still playing if setting media.mediasource.enabled=true
+No,no hardware acceleration support for WebM on HD4000 causes high power use
+No,audio file skips to end
+No,ogg video won't play with some audio configurations
+No,crash in linker@0x2b5e
+No,Video on second screen gets displayed on first screen in fullscreen mode
+No,Intermittent media/test/test_progress.html | Test timed out.
+No,"Intermittent test_playback.html | This test left crash dumps behind, but we weren't expecting it to! [@ silk_NLSF_unpack]"
+No,"Intermittent test_seek-2.html,test_seek-5.html | application crashed [@ mozilla::AudioSink::Drain()]  (""Assertion failure: mPlaying && !mAudioStream->IsPaused(), at AudioSink.cpp:211"")"
+No,MP4 doesn't work in MediaSource Extensions
+No,No audio from any videos
+No,MSE appendBuffer only plays first data appended in test case
+No,Seeking in Dash player demo fails to complete
+No,Potential racing condition in MediaDecoderStateMachine when multiple seeks are made
+No,MSE: Spinner doesn't show when buffering after YouTube seek
+No,Audio vanishes from youtube videos with MSE enabled
+No,"MediaSource: ""ASSERTION: Must have state machine to start state machine thread"""
+No,MediaSource decoder creation ignores codec prefs such as media.webm.enabled
+No,[B2G][Flame] Volume adjustment isn't linear and cuts off abruptly when sliding all the way to the minimum
+No,"Intermittent test_chaining.html | [finished chained-audio-video.ogg-7] Length of array should match number of running tests - got 0, expected 1 | [finished variable-preskip.opus-8] Length of array should match number of running tests - got -1, expected 0"
+No,Investigate randomly failing test_FrameSelection when Intel WebM decoder is enabled on Windows
+No,Crash in mozilla::MediaDecoderReader::RequestVideoData
+No,Assert that MediaDecoderReader::Shutdown has been called in MediaDecoderReader's destructor
+No,HTML5 loses audio/video sync when pausing/replaying/skipping
+No,[E10S] Firefox crashed after watching a video with e10s
+No,Video/audio doesn't stop when a tab is closed
+No,FB Paper website maxes out CPU
+No,Deal with timecode error episilon when handling time ranges
+No,MSE WebM playback on youtube stops intermittently after 9-15 seconds
+No,Poor playback on YouTube 60fps video
+No,content/media/WebVTTLoadListener.cpp:196: missing break ?
+No,Autoplay start delay on certain youtube if media.mediasource.enabled = true
+No,libstagefright video decoding renders frame with gray borders
+No,"crash in mozilla::MediaDecoderReader::DecodeToFirstAudioData @ libstagefright.so@0x7... on Samsung Galaxy SII, SIII, Note 10.1 or Note II with smdk4x12 and smdk4210 hw running JB"
+No,HTML5 video not firing playing event first time
+No,these mp4 videos don't play in Firefox on my Nexus 4
+No,crash in mp4_demuxer::Moof::~Moof()
+No,Video on the Edward Snowden wired post doesn't render when being played
+No,Youtube videos are jittery and/or pause frequently.
+No,Vines Playing Audio Only (No Video) on HTC One (M7)
+No,This video froze and sputtered and had problems the first time I played it this morning
+No,"crash in nsTArray_base<nsTArrayInfallibleAllocator, nsTArray_CopyWithMemutils>::IncrementLength(unsigned int) | mp4_demuxer::Moof::Moof(mp4_demuxer::Moof const&)"
+No,Certain mp4 video flicker while playback
+No,MSE: Crash following call to MediaSourceReader::BreakCycle
+No,Video playback really chunky with MSE
+No,Intermittent 40929-1.html | load failed: null | application timed out after 330 seconds with no output
+No,Building SeaMonkey with ac_add_options --disable-eme fails
+No,Unable to disable internal MP4 player in firefox 35
+No,Update DOM APIs for EME
+No,Full screen video looks as random-colored dots or black screen
+No,Video and sound quickly go out of sync. Sound at good speed but video shoots ahead
+No,mochitest-plain: intermittent 'test_media_selection.html | Test timed out.'
+No,MediaCodecReader 720p plackback performance issue.
+No,Firefox crash in mp4_demuxer::MP4Demuxer::DemuxAudioSample()
+No,MSE does not recover from source decoder EOF
+No,"[e10s] ""BART to OAK"" YouTube video playback is very janky with e10s and media.mediasource.enabled"
+No,Changing playbackRate on a video element causes the image to freeze
+No,Playback hangs with HTML5 video/audio on YouTube in Nightly
+No,Memory keeps increasing during video playback with developer-pref set
+No,Videos intermittently stop playing when machine comes out of sleep mode
+No,Some HTML5 videos (incl. YouTube) play in slow motion since 2015-01-20
+No,[e10s] HTML5 seek strange behavior on YouTube
+No,Firefox 29.0b* (64-bit for Linux) Crashing After Gstreamer Packages Update
+No,A bunch of threads spinning during YouTube playback
+No,LG Optimus 4X HD (LG-P880) No h.264 playback on any media
+No,Youtube video goes silent intermittently
+No,YouTube html5 video no playback
+No,Playback of H.264 on Mac drops many frames on slower system
+No,High CPU usage with h.264 video
+No,Intermittent  TEST-UNEXPECTED-FAIL | /tests/content/media/test/test_loop.html | application terminated with exit code 4 | application crashed [@ UnmarkGrayChildren]
+No,Nightly 38.0a1 youtube video plays slower than audio
+No,Can't load an HTML Youtube video on Linux
+No,Youtube video doesn't play when reloading it with MP4+MSE enabled
+No,Youtube videos not working on Nightly
+No,sound disappears when playing html after some time (since FF34)
+No,[EME] GMPStorage needs be open records exclusively with multiple same-origin Firefox instances
+No,Bug 1045209 regressed loading GMPs from MOZ_GMP_PATH
+No,[EME] Crash in MediaKeySession::SetSessionId() on mse-clearkey in today's Nightly
+No,[EME] GMP shutdown hang
+No,"Under some unknown circumstances, MP4Reader can be created with a null decoder"
+No,Intermittent test_WaitingOnMissingData.html | application crashed [@ mozilla::`anonymous namespace'::RunWatchdog(void *)]
+No,[Youtube] Clicking Next/Previous in HTML5 Full screen will sometimes NOT auto play the video
+No,[e10s] HTML5 audio uses lots of CPU
+No,"Intermittent test_chaining.html | [finished chained-audio-video.ogg-7,variable-preskip.opus-8] Length of array should match number of running tests - got 0, expected 1 (or -1, 1) (or -2, 0)"
+No,Frame drops during end-to-end playback
+No,"Intermittent WITH NO ASSERT leakcheck | 156 bytes leaked (Mutex, ReentrantMonitor, nsRunnable, nsTArray_base, nsThread)"
+No,[Youtube HTML5 video] No sound playback in some videos
+No,Intermittent test_paused_after_ended.html | Test timed out.
+No,[FFOS] MP4 sometimes cannot be played at the first time with PDM pref enabled
+No,[RTSP] Seek function does not work for 3GP Video RTSP streams
+No,"FX OS crash in android::OmxDecoder::NotifyDataArrived(char const*, unsigned int, long long)"
+No,"[tarako][dolphin][flame][music]when music app plays some .mp3 musics, the progress bar can not change with time"
+No,"Firefox crash in OOM | unknown | mozalloc_abort(char const* const) | mozalloc_handle_oom(unsigned int) | moz_xmalloc | mozilla::WMFAudioMFTManager::Output(__int64, nsRefPtr<mozilla::MediaData>&)"
+No,Crash in test_peerConnection_twoAudioVideoStreams.html when applying the patch from bug 1137963
+No,Video for HTML5 Player for Youtube Cuts to Black
+No,Intermittent test_seek-1.html | owl.mp3 seek test 1: Video currentTime should be around 1.645: 0.600806 (seeking) (and two more)
+No,Intermittent test_BufferingWait.html | Test timed out or Should not spend an inordinate amount of time buffering
+No,Intermittent test_dynamicsCompressorNode.html | application crashed [@ quant_all_bands]
+No,Ringtones settings crashes with multiple selections
+No,YouTube HTML5 videos are choppy in Windows 10
+No,Crash while randomly selecting ringtones
+No,Intermittent webspeech/synth/test/test_speech_queue.html | application timed out after 330 seconds with no output
+No,Intermittent TEST-UNEXPECTED-FAIL | test_seek.html | Assertion count N is greater than expected range 0-5 assertions.
+No,"Intermittent webspeech/recognition/test/test_abort.html | Assertion count 1 is greater than expected range 0-0 from ""ASSERTION: Non-empty event queue being destroyed; events being leaked"""
+No,"Intermittent Android test_new_audio.html,test_paused_after_ended.html,test_play_events.html,test_play_events_2.html | Test timed out | 4 test timeouts, giving up | Skipping remaining tests"
+No,Intermittent test_MediaSource.html | Test timed out.
+No,[e10s] Playing 6-hour Chrome Dev Summit YouTube video from certain time point hangs browser after 1 minute
+No,Segfault on shutdown
+No,Flicker of new target frame while seeking before reverting to old frame
+No,bitdash MPEG-DASH MSE demo videos' playback progress bar is too short
+No,Video becomes black and stops when I move seek-bar repeatedly
+No,[EME] Uplift Gecko EME changesets to Firefox 37 beta
+No,Intermittent test_streams_element_capture.html | application crashed [@ libc.so + 0x11e78]
+No,"Videos (Youtube) do not play if about:config media.mediasource.enabled is ""true"" (FF37.0.1)"
+No,Never closes locally opened audio files.
+No,Intermittent content/media/test/test_VideoPlaybackQuality.html | Test timed out.
+No,Playback video only shows keyframes.
+No,"Intermittent test_bug448534.html | application crashed [@ CoreAudio + 0x1c7fe] after 2x ABORT: Aborting on channel error.: file MessageChannel.cpp, line 1531"
+No,Firefox shows videos only 360p and 720p in YouTube HTML5
+No,Grooveshark.com doesn't play songs in HTML5 version
+No,Ogg video is muted/unmuted with delay
+No,2% Linux32|osx10.6 a11y session restore test on inbound (v.36) Nov 20th from push 405b0c00071f
+No,Intermittent test_seek.html | application crashed [@ mozilla::MediaDecoderStateMachine::DecodeSeek()] after Assertion failure: !audio || (audio->mTime <= seekTime && seekTime <= audio->mTime + audio->mDuration)
+No,Playback of a specific Vimeo video broken / janky
+No,Many HTML5 videos play only at original size
+No,Intermittent test_playback_rate.html | Assertion count 3 is greater than expected range 0-0 assertions. (from Clock should go forwards if the playback rate is > 0)
+No,Memory usage keeps growing in Firefox - GStreamer memory leak?
+No,Bioshock Ininite command video is distorted when setting quality to 1080p
+No,"netflix not working in new nightly: F7121-7702. ""Nightly is installing components needed to play the audio or video."""
+No,Crash @xul!mozilla::WMFVideoMFTManager::WMFVideoMFTManager+ed
+No,"Assertion failure: (video->mTime <= seekTime && seekTime <= video->GetEndTime()) || mReader->VideoQueue().IsFinished() (Seek target should lie inside the first frame after seek, unless it's the last frame.)"
+No,Assertion failure: startTime >= 0
+No,MSE - mochitest test for WebM on B2G failed due to MediaOmxReader::ReadMetadata run in wrong thread
+No,MSE Compliance Test: Fail test 18:  TimestampOffsetAudio
+No,MSE Compliance Test: Fail test 19: TimestampOffsetVideo
+No,MSE Compliance Test: Fail test  24: DurationAfterAppendVideo
+No,MSE Compliance Test: Fail test 27: MediaElementEvents
+No,MSE Compliance Test: Fail test  36: AppendAudioOffset
+No,MSE Compliance Test: Fail test 39: AppendMultipleInitVideo
+No,MSE Compliance Test: Fail test 43: AudioWithOverlap
+No,MSE Compliance Test: Fail test 44: AudioWithSmallGap
+No,MSE Compliance Test: Fail test 51: FrameGaps
+No,MSE Compliance Test: Fail test 52: FrameOverlaps
+No,MSE Compliance Test: Fail test 29: VideoBufferSize
+No,MSE Compliance Test: Fail test 48: BufUnbufSeek
+No,Intermittent content/media/test/test_fragment_noplay.html | Test timed out.
+No,H.264 support broken in 37.0 and 38.0a2 on Linux amd64
+No,Intermittent test_seek-2.html | application timed out after 330 seconds with no output
+No,mp4 video on www.crashplan.com generates graphics error dialog
+No,Browser hang when playing youtube video and seek
+No,"Assertion failure: aFailureHandling == DontAssertDispatchSuccess || ((bool)(__builtin_expect(!!(!NS_FAILED_impl(rv)), 1))), at dom/media/MediaTaskQueue.h:88"
+No,HTML5 video freezes for two seconds in the beginning of the playback.
+No,"Intermittent test_eme_canvas_blocked.html | application terminated with exit code -6 (Assertion failure: 0 == flags, at nsprpub/pr/src/pthreads/ptio.c:3317)"
+No,Intermittent test_load.html | application crashed [@ PR_WaitCondVar]
+No,Intermittent TEST-UNEXPECTED-TIMEOUT | /html/semantics/embedded-content/media-elements/interfaces/TextTrackCue/onenter.html | expected OK
+No,Intermittent test_SeekableAfterEndOfStream.html | application crashed [@ md_UnlockAndPostNotifies]
+No,"Intermittent application crashed [@ mozilla::detail::AtomicBaseIncDec<int, (mozilla::MemoryOrdering)2u>::operator--]"
+No,Intermittent test_eme_canvas_blocked.html | application crashed [@ AudioCodecs + 0xdf586]
+No,Intermittent automation.py | application crashed [@ `mozilla::MediaInputPort::Destroy'::`2'::Message::RunDuringShutdown]
+No,Intermittent 799419.html | application timed out after 330 seconds with no output
+No,Intermittent test_playback.html | application crashed [@ th_decode_packetin]
+No,Intermittent test_peerConnection_basicH264Video.html | Error in test execution: Error: timeout after 60s: onaddstream never fired timerGuard/<@http://mochi.test:8888/tests/dom/media/tests/mochitest/pc.js:192:13 ...
+No,"intermittent PROCESS-CRASH | dom/media/test/test_bug495145.html | application crashed, inside MessagePump::Release"
+No,"intermittent test_peerConnection_removeThenAddVideoTrackNoBundle.html ###!!! ABORT: Aborting on channel error and application crashed [@ base::WaitableEvent::WaitableEventKernel::Dequeue(base::WaitableEvent::Waiter*, void*)]"
+No,"Intermittent mediasource-config-change-mp4-av-framesize.html | Tests mp4 frame size changes in multiplexed content. - assert_equals: Event types match. expected ""resize"" but got ""ended"""
+No,"Intermittent test_playback.html | application crashed [@ mozilla::MediaTimer::ArmTimer(mozilla::TimeStamp const &,mozilla::TimeStamp const &)]"
+No,Intermittent mediasource-config-change-mp4-av-video-bitrate.html | Tests mp4 video bitrate changes in multiplexed content. - Test timed out
+No,Test # 3 (Stress Test) Video playback stutters when setting video resolution to max
+No,"Some videos wont play, videos only play in 360p on Windows XP"
+No,Intermittent mediasource-buffered.html | Get buffered range when only init segment is appended. - Test timed out
+No,Intermittent mediasource-remove.html | Test remove with a start at the duration. - assert_less_than: expected a number less than 10 but got NaN
+No,"Intermittent test_playback.html | application crashed [@ mozilla::net::HttpChannelChild::DoOnStatus] | Assertion failure: status == NS_NET_STATUS_RECEIVING_FROM || status == NS_NET_STATUS_READING, at ../../../../gecko/netwerk/protocol/http/HttpChannelChil"
+No,"Intermittent test_eme_obs_notification.html | gizmo-frag-cencinit.mp4-2: session.generateRequest failed; InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable - expected PASS"
+No,Intermittent test_eme_obs_notification.html | application crashed [@ mozilla::dom::SpeechGrammarList::Release()]
+No,"Intermittent test_eme_stream_capture_blocked.html | gizmo-frag-cencinit.mp4-2_case2: session.generateRequest failed; InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable - expected PASS"
+No,Intermittent test_eme_stream_capture_blocked.html | short-cenc.mp4-0_case2 got error event; [object Event] - expected PASS
+No,"Intermittent test_eme_obs_notification.html | This test left crash dumps behind, but we weren't expecting it to! after ""ABORT: __delete__()d actor: file ./PGMPDecryptor.cpp, line 28"""
+No,Intermittent media-src-7_1.html | In-policy async video source element - expected PASS
+No,"Intermittent ""Assertion failure: ((bool)(__builtin_expect(!!(!NS_FAILED_impl(rv)), 1))), at ../../dist/include/MediaPromise.h:653"" with various crash stacks associated"
+No,Intermittent test_reset_src.html | application timed out after 450.0 seconds with no output
+No,Intermittent test_eme_persistent_sessions.html | application crashed [@ mozilla::MediaSourceReader::WaitForData(mozilla::MediaData::Type)]
+No,Intermittent test_eme_persistent_sessions.html | application crashed [None]
+No,Intermittent test_playback.html | application timed out after 450.0 seconds with no output
+No,Intermittent 799419.html | load failed: timed out waiting for reftest-wait to be removed
+No,Intermittent test_play_events.html | application crashed [@ libmedia.so + 0x33e36]
+No,Intermittent test_referer.html | application timed out after 450.0 seconds with no output
+No,html5 youtube video stoped
+No,[Vista] Video very jittery when playing in FF 36 Beta 1
+No,Crash on Steam Broadcast [@ nsCOMPtr_base::~nsCOMPtr_base() | msmpeg2vdec.dll@0x125a59 ]
+No,"Intermittent test_eme_stream_capture_blocked.html | uncaught exception - InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable at http://mochi.test:8888/tests/dom/media/test/eme.js:101"
+No,Problems resuming video playback on youtube without Flash
+No,Application Error/Hang while playing Youtube video
+No,Intermittent test_bug1113600.html | application crashed [@ CoreAudio + 0x1c7fe]
+No,Intermittent test_eme_non_mse_fails.html | application crashed [@ base::WaitableEvent::Signal()]
+No,"Intermittent test_eme_persistent_sessions.html | bipbop-cenc-videoinit.mp4-1 rejected, reason=InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable after Assertion failure: aKey.size() == ((size_t)16)"
+No,[FFOS] some video file keeps video app loading and will not stop
+No,video.buffered TimeRanges Object returns negative Start and End Values for webm
+No,Video (presumably accelerated) causes a large increase in TDRs
+No,WebVTT use-after-free crash [@mozilla::dom::FragmentOrElement::Release]
+No,Debug mochitest-1 nearly perma-fail in media mochitests
+No,Intermittent TEST-UNEXPECTED-FAIL | /tests/content/canvas/test/crossorigin/test_video_crossorigin.html | application timed out after 330 seconds with no output
+No,Unplugging headphones freezes self view
+No,Intermittent test_WaitingOnMissingData_mp4.html | application terminated with exit code -11
+No,Intermittent test_bug1113600.html | Assertion count 1 is greater than expected range 0-0 assertions.  ASSERTION: Clock should go forwards.: 'GetMediaTime() <= clock_time || mPlaybackRate <= 0 || (mAudioCaptured && mState == DECODER_STATE_SEEKING)'
+No,Intermittent test_peerConnection_capturedVideo.html | Assertion count 72 is greater than expected range 0-0 assertions.
+No,crash in android_atomic_inc on MC
+No,CNN videos won't play as the file is corrupt
+No,CDM fails to play under some conditions
+No,Intermittent test_navigator_gamepads.html | application crashed [@ mozilla::MediaCacheStream::Close()]
+No,[EME] CDM crash in test_eme_playback.html
+No,Intermittent test_eme_obs_notification.html | Test timed out.
+No,Setting the audio element's currentTime to a same value as the audio element's duration corrupts it
+No,"crash in __aeabi_fcmpgt (cubeb_opensl.c, opensl_init)"
+No,"Intermittent  TEST-UNEXPECTED-FAIL | chrome://mochitests/content/a11y/accessible/tests/mochitest/actions/test_tree.xul | application terminated with exit code -6 | Assertion failed: (comp), function audiounit_stream_init, file ../../../../../media/libcube"
+No,Intermittent test_audio1.html | application timed out after 330 seconds with no output
+No,Intermittent TEST-UNEXPECTED-FAIL | /tests/content/media/webaudio/test/test_audioParamSetValueAtTime.html | Assertion count 1 is greater than expected range 0-0 assertions.
+No,Intermittent test_contentDuration5.html | application timed out after 330 seconds with no output
+No,Intermittent PROCESS-CRASH | /tests/content/media/test/test_play_events.html | application crashed [@ silk_stereo_quant_pred]
+No,"Intermittent TEST-UNEXPECTED-FAIL | test_texttrackcue.html | There should be 1 currently active cue(s). - got 2, expected 1"
+No,Intermittent TEST-UNEXPECTED-FAIL | /tests/content/media/test/test_autoplay_contentEditable.html | Exited with code 11 during test run | application crashed [@ nsCharSeparatedTokenizerTemplate<&(NS_IsAsciiWhitespace(unsigned short))>::nsCharSeparatedToken
+No,Intermittent TEST-UNEXPECTED-FAIL | test_load_candidates.html | Test timed out.
+No,Intermittent test_chaining.html | Assertion count 1 is greater than expected range (Must have timer scheduled: 'IsStateMachineScheduled()')
+No,Intermittent test_media_selection.html | uncaught exception - ReferenceError: MediaTestManager is not defined at http://mochi.test:8888/tests/content/media/test/test_media_selection.html:12
+No,Intermittent test_buffered.html | Assertion count 1 is greater than expected range 0-0 assertions from ASSERTION: Clock should go forwards if the playback rate is > 0.
+No,Intermittent test_seekable1.html | Test timed out.
+No,"Intermittent test_sanity | test failed with return code -6 after ""void test_stream_position(): Assertion `position <= total_frames_written' failed."""
+No,"Intermittent test_load.html | Test small-shot.m4a 4 - events received in order - got source_error, expected durationchange | Test timed out."
+No,Intermittent test_bug465498.html | Assertion count 1 is greater than expected range 0-0 assertions. after ASSERTION: Clock should go forwards if the playback rate is > 0.: 'mCurrentFrameTime <= clock_time || mPlaybackRate <= 0'
+No,"Intermittent test_paused_after_ended.html | [finished 320x240.ogv-4] Length of array should match number of running tests - got 0, expected 1 | followed by several similar failures for other media files"
+No,Intermittent TEST-UNEXPECTED-FAIL | /tests/image/test/mochitest/test_bug497665.html | application timed out after 330 seconds with no output
+No,Intermittent test_seekable2.html | [SimpleTest.finish()] this test already called finish! | called finish() multiple times
+No,Intermittent TEST-UNEXPECTED-FAIL | test_load_same_resource.html | {Clone} gizmo.mp4 duration: Infinity expected: 5.56
+No,Intermittent TEST-UNEXPECTED-FAIL | /tests/content/media/test/test_chaining.html | Test timed out.
+No,"Intermittent 459439-1.html | assertion count 1 is more than expected 0 assertions (Should have audio start time by now: 'audioStartTime != -1', file content/media/MediaDecoderStateMachine.cpp, line 1120)"
+No,Intermittent test_seekable3.html | Test timed out.
+No,Intermittent test_mozHasAudio.html | Test timed out.
+No,Intermittent TEST-UNEXPECTED-FAIL | file:///C:/slave/test/build/tests/reftest/tests/content/media/test/crashtests/795892-1.html | application timed out after 330 seconds with no output
+No,Intermittent test_bug726904.html | application crashed [@ PL_HashTableRawLookup]
+No,Intermittent test_standalone.html | application timed out after 330 seconds with no output
+No,"Intermittent test_loop.html,test_playback.html,test_seek-5.html | application crashed [@ mozilla::AudioClock::GetPositionUnlocked() const] after ""Assertion failure: frames >= mBaseOffset, at content/media/AudioStream.cpp:99"""
+No,"Intermittent test_bug495145.html,test_playback_rate_playpause.html | application crashed [@ mozilla::AudioSink::AudioLoop()]"
+No,Intermittent test_playback.html | application terminated with exit code -6 | application crashed [Unknown top frame]
+No,Intermittent test_streams_element_capture.html | application crashed [@ mozilla::MediaStreamGraphInitThreadRunnable::Run()]
+No,Intermittent test_bug448534.html | application timed out after 330 seconds with no output
+No,Intermittent test_bug495145.html | undefined assertion name - Result logged after SimpleTest.finish()
+No,Intermittent test_streams_element_capture.html | application crashed [@ mozilla::AudioMixer::FinishMixing()]
+No,"Intermittent test_can_play_type_webm.html | This test left crash dumps behind, but we weren't expecting it to!"
+No,"Intermittent test_playback_rate_playpause.html | application crashed [@ mozilla::gfx::ExtractAlpha_SIMD<__m128i>(mozilla::gfx::IntSizeTyped<mozilla::gfx::UnknownUnits> const &,unsigned char *,int,unsigned char *,int)]"
+No,"Intermittent test_playback_rate_playpause.html,test_bug866570.html | Assertion count 2 is greater than expected range 0-0 assertions. from ASSERTION: Don't play when paused and ASSERTION: Stream write in unexpected state."
+No,"Intermittent test_preload_actions.html | (19) 'loadedmetadata' shouldn't fire when preload is none | (19) no buffering has taken place - got 4, expected 0"
+No,Intermittent test_bug493187.html | uncaught exception - IndexSizeError: Index or size is negative or greater than the allowed amount at http://mochi.test:8888/tests/content/media/test/test_bug493187.html:33
+No,Intermittent test_seek-4.html | owl.mp3 seek test 4: Video currentTime should be around 1.645: 0.078366 | owl.mp3 seek test 4: Video currentTime should be around 0.8225: 0.078366 | owl.mp3 seek test 4: seek on target: 0.078366
+No,"Intermittent test_texttrackregion.html | Region should not be null. - didn't expect null, but got it"
+No,"Intermittent browser_audionode-actor-get-params-02.js | application crashed [Unknown top frame] | Assertion failure: mState != SHUTDOWN (No data callback after shutdown), at AudioStream.cpp:1037"
+No,Intermittent test_seek-5.html | owl.mp3 seek test 5: Video currentTime should be around 1.645: 1.3061
+No,Intermittent TEST-UNEXPECTED-FAIL | test/crashtests/795892-1.html | Exited with code -1073741819 during test run | application crashed [@ wdmaud.drv + 0x2029]
+No,Intermittent test_bug448534.html | application crashed [@ resampler_basic_interpolate_single]
+No,Intermittent test_webvtt_disabled.html | application timed out after 330 seconds with no output
+No,Intermittent B2G - TEST-UNEXPECTED-FAIL | /tests/content/media/test/test_new_audio.html | Test timed out.
+No,"Intermittent test_getUserMedia_basicAudio.html | application crashed [@ mozilla::AudioMixer::Mix(short*, unsigned int, unsigned int, unsigned int)] after ""Assertion failure: aSampleRate == mSampleRate, at dom/media/AudioMixer.h:88"""
+No,"Intermittent test_playback_rate.html | application crashed [@ soundtouch::FIRFilter::evaluateFilterMono(short*, short const*, unsigned int) const]"
+No,"Intermittent test_sanity.exe | timed out after 900 seconds after ""Assertion failed: r == 0, file media/libcubeb/tests/test_sanity.cpp, line 139"""
+No,"Intermittent test_streams_element_capture.html | small-shot.m4a checking readyState - got 1, expected 2"
+No,"Intermittent test_eme_canvas_blocked.html | Assertion count 1 is greater than expected (ASSERTION: Range should end after start!: 'mStart < mEnd', file ../../dist/include/MediaResource.h, line 136)"
+No,"Intermittent test_eme_stream_capture_blocked.html | application crashed [@ mp4_demuxer::Interval<__int64>::Intersection(nsTArray<mp4_demuxer::Interval<__int64> > const &,nsTArray<mp4_demuxer::Interval<__int64> > const &,nsTArray<mp4_demuxer::Interval<__in"
+No,Intermittent 874915.html | application hang [@ mozilla::dom::AudioBufferSourceNode::NotifyMainThreadStateChanged()]
+No,"Intermittent test_constants.html | application timed out after 330 seconds with no output after ""Error: Permission denied to access property 'wrappedJSObject' """
+No,Intermittent 420439.html | application crashed [@ mozilla::MediaStream::Release()]
+No,Intermittent testGetUserMedia | application crashed [None]
+No,Intermittent test_seek_out_of_range.html | Test timed out.
+No,Intermittent test_eme_canvas_blocked.html | application crashed [@ mp4_demuxer::Interval<__int64>::Intersection...] Assertion failure: IsNormalized(a0)
+No,Intermittent 752784-1.html | application crashed [@ libpthread-2.15.so + 0x59ae]
+No,Intermittent test_played.html | application crashed [@ mozilla::MediaDecoderStateMachine::HasLowUndecodedData(long long)]
+No,Intermittent test_delayNodeCycles.html | application ran for longer than allowed maximum time
+No,Intermittent test_contentDuration4.html | application timed out after 330 seconds with no output
+No,Intermittent test_encryptedMediaExtensions.html | Test timed out.
+No,Intermittent test_play_events_2.html | application crashed [@ silk_decode_core]
+No,"Intermittent test_bug726904.html | This test left crash dumps behind, but we weren't expecting it to!  | undefined assertion name - Result logged after SimpleTest.finish()"
+No,Intermittent media-source/mediasource-append-buffer.html | Test SourceBuffer.appendBuffer() triggering an 'ended' to 'open' transition. - assert_false: updating attribute is false expected false got true
+No,Intermittent TEST-UNEXPECTED-FAIL | /tests/content/media/test/test_bug874897.html | application timed out after 330 seconds with no output
+No,"Intermittent test_eme_canvas_blocked.html | application crashed [@ js::MapObject::clear(JSContext *,JS::Handle<JSObject *>)] after ""Assertion failure: MapObject::is(obj), at js\src\builtin/MapObject.cpp:1562"""
+No,Intermittent test_dataChannel_basicAudio.html | application crashed [@ libc-2.15.so + 0xe8403]
+No,Intermittent test_peerConnection_basicAudio.html | application crashed [@ NS_ABORT_OOM(unsigned long)] with MediaStreamGraph on the stack
+No,"Intermittent test_fragment_play.html | Assertion count 1 is greater than expected (Clock should go forwards if the playback rate is > 0.: 'mCurrentFrameTime <= clock_time || mPlaybackRate <= 0', file content/media/MediaDecoderStateMachine.cpp, line 2603)"
+No,Intermittent test_encryptedMediaExtensions.html | gizmo-frag-cencinit.mp4-1 Duration of video should be corrrect - expected PASS
+No,"Intermittent test_latency,test_sanity | test failed with return code -6 after ""Assertion `r == CUBEB_OK || r == CUBEB_ERROR_NOT_SUPPORTED' failed."""
+No,Intermittent mediasource-remove.html | Test remove transitioning readyState from 'ended' to 'open'. - A parameter or an operation is not supported by the underlying object(stack: @http://web-platform.test:8000/media-source/mediasource-remove.html:135:18
+No,Intermittent test_mediatrack_replay_from_end.html | application crashed [@ mozilla::layers::ImageContainer::GetCurrentSize()]
+No,"Intermittent test_eme_canvas_blocked.html,test_eme_playback.html | application crashed [@ mozilla::BlockingResourceBase::CheckAcquire()]"
+No,Intermittent 346281-1.xul | application crashed [@ 0xa5a5a55c][@ mozilla::MediaStreamGraphImpl::MarkStreamBlocking(mozilla::MediaStream*)]
+No,Intermittent test_media.html | application crashed [@ mozilla::AudioStream::GetPositionInFramesUnlocked()] due to Assertion failure: position >= mLastGoodPosition (cubeb position shouldn't go backward)
+No,Intermittent test_WaitingOnMissingData.html | Test timed out.
+No,"Intermittent Main app process exited normally | application crashed [@ ClearKeyUtils::DecryptAES(std::vector<unsigned char, std::allocator<unsigned char> > const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<unsigned char, std"
+No,"Intermittent test_eme_canvas_blocked.html | application crashed [@ mozilla::MediaSourceReader::OnNotDecoded(mozilla::MediaData::Type, mozilla::RequestSampleCallback::NotDecodedReason)]"
+No,Intermittent test_playback_rate_playpause.html | application crashed [@ __libc_android_abort] with AudioTrack::processAudioBuffer on the stack
+No,"Intermittent Android 2.3 test_mediaStreamAudioSourceNodeCrossOrigin.html,test_mediaStreamAudioSourceNodeResampling.html,test_oscillatorNode2.html | Test timed out"
+No,"I10t test_playback.html,test_reactivate.html,test_chaining.html,test_replay_metadata.html | Assertion count 1 is greater than expected range (Clock should go forwards if the playback rate is > 0.: 'mCurrentFrameTime <= clock_time || mPlaybackRate <= 0')"
+No,[webvtt] WebVTT reftests from web-platform-tests intermittently fail to load
+No,TEST-UNEXPECTED-FAIL | /tests/content/media/test/test_bug448534.html | Assertion count 1 is greater than expected range 0-0 assertions.
+No,Intermittent test_maxChannelCount.html | application timed out after 330.0 seconds with no output | application crashed [@ mozilla::MediaStreamGraphInitThreadRunnable::Run()]
+No,Intermittent test_eme_playback.html | short-cenc.mp4-0 got error event; [object Event] - expected PASS
+No,"Intermittent test_eme_obs_notification.html,test_eme_stream_capture_blocked.html | application terminated with exit code 3221225477 | application crashed [None]"
+No,"Intermittent SourceBuffer-abort-updating.html | SourceBuffer#abort() (video/webm; codecs=""vorbis,vp8"") : Check the algorithm when the updating attribute is true. - Test timed out"
+No,"Intermittent 412651-1.html | application crashed [@ mozilla::MediaStreamGraphImpl::AddBlockingRelatedStreamsToSet(nsTArray<mozilla::MediaStream*>*, mozilla::MediaStream*)]"
+No,"Intermittent test_autoplay_contentEditable.html,test_media_selection.html | Test timed out"
+No,Intermittent 752784-1.html | application timed out after 330 seconds with no output
+No,"intermittent B2G Emulator test_replay_metadata.html,test_reset_events_async.html,test_video_dimensions.html | application timed out after 450.0 seconds with no output"
+No,Intermittent test_eme_persistent_sessions.html | application timed out after 330 seconds with no output
+No,Intermittent test_streams_autoplay.html | Test timed out.
+No,"Intermittent test_load.html | Test gizmo.mp4 1 - events received in order - got source_error, expected durationchange | Test timed out"
+No,Intermittent test_playback_rate_playpause.html | Test timed out
+No,Intermittent test_streams_element_capture_createObjectURL.html | 320x240.ogv current time at end: 0.09999847412109375 should be: 0.266
+No,Intermittent test_eme_playback.html | [10:57:55.26] gizmo-frag-cencinit.mp4-1 Duration of video should be corrrect
+No,Intermittent mediasource-redundant-seek.html | Test redundant fully prebuffered seek - Test timed out
+No,Intermittent test_autoplay.html | application terminated with exit code 1
+No,Intermittent test_dataChannel_basicAudioVideo.html | Error in test execution: Error: timeout after 60s: failed to close data channel pair timerGuard/<@http://mochi.test:8888/tests/dom/media/tests/mochitest/pc.js:194:13 ...
+No,"Intermittent test_dataChannel_basicAudioVideo.html | This test left crash dumps behind, but we weren't expecting it to! | undefined assertion name - Result logged after SimpleTest.finish()"
+No,Intermittent test_WaitingOnMissingData_mp4.html | Test timed out
+No,"Intermittent test_setIdentityProviderWithErrors.html | application crashed [@ mozilla::MediaStreamGraphImpl::PlayAudio(mozilla::MediaStream*, long long, long long)] | after Assertion failure: track->IsEnded() (Not enough data, and track not ended.)"
+No,Intermittent dom/media/test/test_fragment_play.html | application timed out after 450.0 seconds with no output | application crashed [@ mozilla::OpenSLESProvider::RealizeEngine]
+No,dom/media/webspeech/recognition/test/ crashes when run by directory
+No,Weird buffering mode when changing video resolutions
+No,Unpref Media Source Extensions for MP4 on Firefox OS
+No,Enable MP4Reader on Firefox OS
+No,[META] MSE Support for Firefox OS
+No,Spec requires MP4 parser to ignore sidx box
+No,Crash playing MSE MP4 video when changing resolution
+No,Factor out mDecoder->GetResource() calls from MediaDecoderStateMachine
+No,error message at an embedded mp3 file
+No,WebRTC repo management and upstream/downstream merge design
+No,getUserMedia stream frozen if played before being inserted into the DOM
+No,Using JavaScript fullscreen API (mozRequestFullScreen) leaves part of the upper UI visible
+No,TrackBuffer::AppendData should check the validity of the data added
+No,e10s: Youtube player feels sluggish/unresponsive
+No,(MSE) Video seek and playback fail
+No,NotSupportedError in MSE  on MSE+ClearrKey demo on MacOSX
+No,Shutdown hang at MediaShutdownManager and cubeb::wasapi_stream_render_loop
+No,Air Mozilla recording plays choppily when mouse is over video; doesn't play when mouse is not over video
+No,"dash-player.com ""Live Stream DVR"" demo plays for a few seconds and then stalls, stuck rebuffering (syntax error?)"
+No,"Intermittent test_eme_playback.html | 400x300 audio&video tracks, each with its key-4 got error event; [object Event]"
+No,Huge memory consumption when viewing youtube video's in html5 player mode.
+No,Improve support for both video and audio in the same source buffer
+No,Firefox 40.0b6 Youtube video will not play
+No,Receive following error message: No video with supported format and MIME type found
+No,Firefox crashes when skipping through HTML5 video
+No,Intermittent media-source/mediasource-config-change-webm-av-audio-bitrate.html | Tests webm audio bitrate changes in multiplexed content. - assert_greater_than: duration expected a number greater than 2 but got NaN
+No,MSE Compliance Test: Fail test 47: Seek
+No,crash in mozalloc_abort(char const*) | __android_log_assert | android::ACodec::sendFormatChange(android::sp<T> const&)
+No,Very high memory usage (3GB+) Caused by HTML5 player on YouTube
+No,Video playback stalls when seeking
+No,"Intermittent test_reset_src.html | application crashed [@ mozilla::MediaPromise<bool,bool,1>::ThenValueBase::ResolveOrRejectRunnable::~ResolveOrRejectRunnable()]"
+No,Intermittent test_eme_playback.html | Assertion count 1 is greater than expected range 0-0 assertions. | Should have positive frame time: 'currentFrame->mTime >= mStartTime'
+No,Intermittent e10s test_dataChannel_basicVideo.html | application terminated with exit code -5
+No,"Intermittent test_played.html | application crashed [@ mozilla::MediaTaskQueue::BeginShutdown()] after !AbstractThread::GetCurrent()->TailDispatcher().HasTasksFor(this), MediaTaskQueue.cpp:165"
+No,Intermittent loading-the-media-resource/resource-selection-candidate-remove-addEventListener.html | application crashed [None]
+No,Intermittent test_timeupdate_small_files.html | Test timed out
+No,youtube videos all run at startup
+No,Webm video freezes
+No,"Intermittent test_texttrackcue.html | This test left crash dumps behind, but we weren't expecting it to! | test_timeupdate_small_files.html | application crashed [@ mozilla::MediaStreamGraphImpl::UpdateStreamOrderForStream(mozilla::LinkedList<mozilla::Med"
+No,Intermittent mediasource-append-buffer.html | Test abort in the middle of an initialization segment. - Test timed out
+No,Intermittent test_streams_element_capture_createObjectURL.html | application ran for longer than allowed maximum time
+No,Specific MP4 video causes GPU crash on Yosemite
+No,MSE Compliance Test: Fail test 58: CanPlayClearKey
+No,MSE Compliance Test: Fail test 61: ClearKeyAudio
+No,MSE Compliance Test: Fail test 62: ClearKeyVideo
+No,MSE Compliance Test: Fail test 63: DualKey
+No,MSE Compliance Test: Fail test 64: CKNeedKey
+No,MSE Compliance Test: Fail test 65: CKGenKeyRequest
+No,MSE Compliance Test: Fail test 66: CKKeyMessage
+No,MSE Compliance Test: Fail test  67: CKAddKey
+No,MSE Compliance Test: Fail test  68: CKAddKeyAsyncEvents
+No,MSE Compliance Test: Fail test 45: AudioWithLargeGap
+No,MSE & H.264: Steam Live Broadcasts  fails to load
+No,1080p 60 FPS HTML5 Youtube videos stutter extremely with HW acceleration on
+No,[HTML5] Some Youtube context menu options don't work in the new Controls UI
+No,Intermittent video corruption on Youtube
+No,GMP crash in mozilla::SharedDecoderCallback::AssertHaveActiveProxy()
+No,MP3 playback fails - Media resource could not be decoded
+No,Firefox crashes on youtube videos (Intel Mac OS X 10.10)
+No,crash in audioTrack_callBack_pullFromBuffQueue: calls __android_log_assert() in the stack with crash reason is SIGABRT
+No,Intermittent ERROR test_video_playback.py TestVideoPlaybackBase.test_playback_starts
+No,[Browser] Youtube video becomes corrupt if long press on home button is performed during playback.
+No,Viewing  HTML5 videos on YouTube makes auto scrolling and tab bar scrolling stutter
+No,MediaSource.SourceBuffer.remove() does nothing. Eviction never happens.
+No,Intermittent mediasource-config-change-mp4-v-bitrate.html | expected OK
+No,"no picture, only audio, when playing YouTube videos in 39.0, i went back to 38.0.1"
+No,YouTube video doesn't play
+No,Limit AMD Radeon Fallback by level
+No,YouTube embedded MSE/VP9 video choppy
+No,[B2G] You can't load a gif on http://m.9gag.com/ if some HTTP requests are still pending
+No,x86 Android is sent the OpenH264 plugin for ARM Android
+No,Video seeking fires a lot of small requests before starting to play again
+No,Watching a youtube embed messes up other tabs
+No,videos jumping in player
+No,Leaks in nestegg_read_packet called by WebMReader::NextPacket
+No,MSE & Webm VP9 Firefox only shows first video frame and doesn't start playing
+No,Intermittent TEST-UNEXPECTED-TIMEOUT | /media-source/mediasource-sourcebuffer-mode.html | expected OK
+No,Youtube HTML5 Playback issue - loads but doesn't play.
+No,Intermittent SourceBuffer-abort-removed.html | expected OK
+No,"Intermittent test_fragment_play.html,test_mediatrack_consuming_mediaresource.html,test_playback_rate.html,test_played.html | application crashed [@ mozilla::MediaDecoderStateMachine::AudioEndTime]"
+No,Intermittent content/media/test/test_video_to_canvas.html | Test timed out.
+No,Intermittent TEST-UNEXPECTED-FAIL | /tests/content/media/test/test_texttrackcue.html | application timed out after 330 seconds with no output
+No,Intermittent content/media/test/test_unseekable.html | Test timed out.
+No,events thrown by Video element not consistent with reality
+No,Intermittent test_eme_non_mse_fails.html | Test timed out
+No,DASH-IF test player can't load 4K video
+No,"Intermittent webm-video/object-aspect-ratio-1a.xhtml | assertion count 1 is more than expected 0 assertions from ""Overwriting an existing document channel!"""
+No,"crash in mozilla::MediaStreamGraphImpl::Process(long long, long long)"
+No,Firefox hangs when opening a video on web.telegram.org
+No,Intermittent test_mediatrack_events.html | Test timed out. - expected PASS
+No,"Intermittent test_dataChannel_basicAudio.html | application crashed [@ nsContentUtils::RunInStableState(already_AddRefed<nsIRunnable>,nsContentUtils::DispatchFailureHandling)] (aHandling == DispatchFailureHandling::IgnoreFailure)"
+No,"Intermittent  Automation Error: mozprocess timed out after 900 seconds running ['firefox-media-tests', '--binary', 'c:\\jenkins\\workspace\\mn-mse-youtube-basic-y-e10s-nightly-win7_32_64\\build\\application\\firefox\\firefox.exe', '--symbols-path', 'c:\\j"
+No,buid failure in content/media/webaudio ‘ChannelCountMode’ is not a class or namespace
+No,Memory Leaks occur when viewing videos on Youtube
+No,Regression: Youtube video play back as black
+No,load event delayed even after media element loadeddata event
+No,[10.10] Firefox crash in libsystem_platform.dylib@0x4caf
+No,High CPU usage when hitting end of MSE content where endOfStream wasn't called
+No,test_DurationUpdated.html can fail intermittently when sourceended gets fired before the second durationchange
+No,A/V sync off by one second
+No,High CPU usage on mynoise.net/NoiseMachines/whiteNoiseGenerator.php
+No,NULL deref in libxul.so!mozilla::layers::ImageContainer::CreateImage
+No,Fatal assert in GMPGetVideoDecoder when launching subprocess on Win 8
+No,Closing a tab with Youtube video in HTML5 mode doesn't stop the playback
+No,HTML5 video not loading
+No,Shutdown crash in CoreAudio [@ CAPThread::Entry]
+No,Max Youtube Video Resolution 720p
+No,Intermittent mediasource-timestamp-offset.html | expected OK
+No,Crash [@gklayout.dll!nsINodeInfo::GetDocument]
+No,crash (segfault) @ vorbis_book_init_decode when playing corrupted ogg vorbis file
+No,URL of Youtube video remains at the bottom of the screen
+No,MediaStreams aren't working on Gonk
+No,Audio failure and its affect on other tabs
+No,layout/base/crashtests/579655.html | Exited with code 1 during test run
+No,crash in mozilla::dom::TimeRanges::Add
+No,crash in mozilla::MediaStreamListener::Release
+No,[B2G][Tarako]Unexpected sound heard during device boot up after restart or power off and turning phone on
+No,[B2G][Tarako][Calendar]Audio Reminder for Calendar Event demonstrates subtle but noticeable tone stutter on device
+No,youtube probloms when ever i use youtube on fire fox the browser stops responding every 10sec i half to use chrome (by the way i dont like crome)
+No,"Only broken slaves incapable of playing audio hit content/media/test/test_can_play_type_mpeg.html | video/mp4='maybe' - got , expected maybe and a cascade of others"
+No,Muted tabs reset with terminal server
+No,Make YouTube 360° videos work well
+No,Application does not support in Windows 10
+No,Persistent loading spinner after loading ogg audio in onunload
+No,2.34% WinXP PGO Canvasmark regression on inbound (v.36) Nov 11th from push
+No,Right-clicking on an HTML5 video causes Firefox's right-click menu to appear overlayed over the HTML right-click menu.
+No,HTTP byte range requests for Ogg/Theora video streams make no sense
+No,"Viblast's HLS Video-on-Demand playlist demo plays audio in Firefox Win64, but not Win32 or OS X"
+No,Voice is not audible when switched into the voice plan
+No,"Intermittent test_bug448534.html | application terminated with exit code 1 after ""AddressSanitizer: heap-use-after-free media/libcubeb/src/cubeb_pulse.c:167 stream_request_callback"""
+No,[META] Tracking bug for YouTube MSE issues
+No,html5 downloads video but won't play it
+No,Anamorphic H.264 video not handled properly under Mac OS X
+No,gstreamer 1.0 with VAAPI support crashes Firefox
+No,4k DASH sample stalls
+No,Media (audio / video) control layout is broken
+No,Heap-use-after-free in mozilla::MediaStreamGraphImpl::FinishStream
+No,WebVTT use after free [mozilla::dom::FragmentOrElement::Release]
+No,WebVTT heap-buffer-overflow [@mozilla::dom::FragmentOrElement::CanSkipThis]
+No,test_info_leak fails on Win7 with Skype running
+No,Heap-use-after-free in mozilla::MediaInputPort::Disconnect
+No,Heap-use-after-free in MediaStream::Init
+No,Intermittent test_peerConnection_capturedVideo.html | application timed out after 330 seconds with no output after heap-buffer-overflow resample.c:941 moz_speex_resampler_process_float
+No,SEGV on unknown address 0x62d1025b74e7 at gst_flump3dec_get_type
+No,heap-buffer-overflow (read of size 100) when playing a mov (gstreamer)
+No,"HTML5 video full-screen mode hides OS X menu bar, but shows desktop instead of going full-screen"
+No,Add about:config prefs to tune media caching behavior
+No,No sound on Arch Linux
+No,crash [@ vorbis_dsp_clear] if !vi
+No,can't play facebook videos linux
+No,Crash in ldexp() called from float32_unpack()/book_unquantize() in vorbis decode
+No,"Intermittent Android timeout in test_fragment_play.html,test_framebuffer.html,test_load_source.html,test_loop.html"
+No,Intermittent dom/media/mediasource/test/test_AudioChange_mp4.html | Test timed out.
+No,lgpllibs!soundtouch::destroySoundTouchObj+d5a in c:\Program Files (x86)\Mozilla Firefox\lgpllibs.dll from Mozilla Foundation has caused an unknown exception (0x40000015) on thread 0
+No,Intermittent test_bug493187.html on all platforms; test case seek.webm | uncaught exception - TypeError: Floating-point value is not finite. at http://mochi.test:8888/tests/content/media/test/test_bug493187.html:23
+No,"Intermittent test_video_to_canvas.html,test_play_events.html | uncaught exception - TypeError: v.parentNode is null at http://mochi.test:8888/tests/content/media/test/test_video_to_canvas.html:37"
+No,"Intermittent test_eme_obs_notification.html,test_eme_canvas_blocked.html | short-cenc.mp4-0 got error event; [object Event]"
+No,"Intermittent TEST-UNEXPECTED-FAIL | 863929.html | assertion count 3 is more than expected 0 assertions | (from ASSERTION: Slice out of range: 'aStart >= 0 && aEnd <= aSource.mDuration', file ../../../content/media/MediaSegment.h, line 272)"
+No,"Intermittent Android test_playback.html | Test timed out. (test cases seek.webm, *.ogv)"
+No,"Intermittent leakcheck | 5332,5672 bytes leaked (AudioAvailableEventManager, BaseMediaResource, CondVar, FileBlockCache, Image, ...)"
+No,armv7l build fails with: multiple definition of `arm_cpu_caps'
+No,Mono audio file on Ubuntu doesn't play on Firefox browser
+No,Intermittent Tier 2 Android 8 dom/media/mediasource/test/test_DurationUpdated.html | Test timed out.
+No,Intermittent dom/media/mediasource/test/test_LiveSeekable.html | Test timed out.
+No,Intermittent dom/canvas/test/crossorigin/test_video_crossorigin.html | application crashed [@ mozilla::StaticRefPtr<nsIThread>::operator->() const]
+No,Intermittent dom/media/mediasource/test/test_MediaSource_memory_reporting.html | Test timed out.
+No,Intermittent dom/canvas/test/crossorigin/test_video_crossorigin.html | Load 'http://example.com/tests/dom/canvas/test/crossorigin/video.sjs?name=tests/dom/media/test/320x240.ogv&type=video/ogg&cors=anonymous' with crossOrigin='anonymous'
+No,"Intermittent GECKO(1495) | Assertion failure: false (AudioCallbackDriver took too long to shut down and we let shutdown continue - freezing and leaking), at /builds/worker/workspace/build/src/dom/media/MediaStreamGraph.cpp:1525"
+No,"Intermittent webm-video/poster-6.html == webm-video/poster-ref-black140x100.html | image comparison, max difference: 255, number of differing pixels: 14000"
+No,Intermittent dom/media/mediasource/test/test_FrameSelection_mp4.html | Test timed out.
+No,"Intermittent Tier 2 GECKO(9528) | Assertion failure: aTime >= 0.0 (Cannot seek to a negative value.), at z:/build/build/src/dom/media/MediaDecoder.cpp:591"
+No,"Intermittent Tier 2 Android 8 dom/media/test/test_buffered.html | java-exception Main thread (2) stack: getConfig(0xf51554c4:qcom.decoder.avc, ??(0x7f000062)) ERROR: UnsupportedSetting(0x80001019)"
+No,Intermittent <testname> | java-exception Main thread (2) stack:     org.mozilla.gecko.gfx.VsyncSource.nativeNotifyVsync(Native Method)
+No,"Intermittent LeakSanitizer | leak at MakeUnique, IProtocol, mozilla::dom::PBrowserParent::PBrowserParent, mozilla::dom::TabParent::TabParent"
+No,Intermittent Tier 2 Android 8 dom/media/test/test_play_promise_8.html | java-exception BrowserApp.onTabChanged: 0: MEDIA_PLAYING_CHANGE Main thread (2) stack:
+No,Intermittent TEST-UNEXPECTED-CRASH | /mediacapture-streams/MediaStream-removetrack.https.html | expected ERROR
+No,Intermittent TEST-UNEXPECTED-CRASH | /html/semantics/embedded-content/media-elements/track/track-element/track-change-event.html | expected OK
+No,Intermittent GECKO(1809) | ==1809==ERROR: AddressSanitizer: SEGV on unknown address 0x000000000001 (pc 0x7fd75aa019c9 bp 0x7fd729feddd0 sp 0x7fd729fedd20 T220)
+No,CNN native playback no longer works on Win 7
+No,Intermittent [TV] dom/media/test/test_webvtt_seeking.html | cue 0 [1:3] is active
+No,Intermittent Android 4.3 testDistribution | java-exception Main thread (1) stack:     android.os.MessageQueue.nativePollOnce(Native Method)
+No,Intermittent TEST-UNEXPECTED-PASS | /html/semantics/embedded-content/media-elements/track/track-element/track-active-cues.html | Ensure that no text track cues are active after the video is unloaded - expected TIMEOUT
+No,Intermittent TEST-UNEXPECTED-CRASH | /html/semantics/embedded-content/media-elements/event_order_loadedmetadata_loadeddata.html | expected OK
+No,Intermittent dom/media/mediasource/test/test_AbortAfterPartialMediaSegment.html | Test timed out.
+No,Intermittent dom/media/mediasource/test/test_AVC3_mp4.html | Test timed out.
+No,"Intermittent VideoFrameConverterTest.BlackOnDisable | Expected: (TimeStamp::Now()) > (now + TimeDuration::FromMilliseconds(1100)), actual: 24-byte object"
+No,"Intermittent /mediacapture-fromelement/idlharness.window.html | idl_test setup - promise_test: Unhandled rejection with value: object ""TypeError: NetworkError when attempting to fetch resource."""
+No,Intermittent /media-source/mediasource-getvideoplaybackquality.html | Test HTMLVideoElement.getVideoPlaybackQuality() with MediaSource API - assert_greater_than: creationTime increases monotonically expected a number greater than 7035 but got 7035
+No,Intermittent dom/media/test/test_streams_element_capture.html | Caught exception for flac-sample.mp4-70: Error: NS_ERROR_DOM_MEDIA_DECODE_ERR (0x806e0004) - virtual mozilla::MediaResult __thiscall mozilla::FFmpegAudioDecoder<46465650>::DoDecode(mozilla::M
+No,"Intermittent /audio-output/idlharness.https.window.html | Test IDL implementation of audio-output API - promise_test: Unhandled rejection with value: object ""TypeError: NetworkError when attempting to fetch resource."""
+No,Intermittent dom/media/mediasource/test/test_DrainOnMissingData_mp4.html | Test timed out.
+No,"Intermittent dom/media/mediasource/test/test_LoadedMetadataFired.html | unexpected-crash-dump-found - This test left crash dumps behind, but we weren't expecting it to!"
+No,Intermittent dom/media/mediasource/test/test_Threshold_mp4.html | Test timed out.
+No,Intermittent dom/media/mediasource/test/test_PlayEventsAutoPlaying.html | should not fire error event
+No,Firefox can't access to webcam when Chromium-based browser installed
+No,Crash in [@ AudioCodecs@0x204748]
+No,Android crash in mozilla::ipc::ByteBuf::operator=
+No,Intermittent dom/media/mediasource/test/test_Threshold_mp4.html | stopped at the gap properly: 2.856568 3.203333
+No,"Intermittent TEST-UNEXPECTED-FAIL | automation.py | application terminated with exit code 1 after asan_descriptions.cc:81 ""((0 && ""Address is not in memory and not in shadow?"")) != (0)"" (0x0, 0x0)"
+No,"Intermittent TEST-UNEXPECTED-TIMEOUT | /encrypted-media/encrypted-media-default-feature-policy.https.sub.html | Default ""encrypted-media"" feature policy [""self""] allows same-origin iframes. - Test timed out"
+No,Intermittent TEST-UNEXPECTED-CRASH | /webaudio/the-audio-api/the-audioworklet-interface/simple-input-output.https.html | expected ERROR
+No,Intermittent marionette-media MnM No checks run.
+No,Intermittent SUMMARY: AddressSanitizer: SEGV /builds/worker/workspace/build/src/dom/media/MediaCache.cpp:1571:12 in QueueUpdate
+No,"Intermittent dom/media/webspeech/synth/test/test_global_queue.html | unexpected-crash-dump-found - This test left crash dumps behind, but we weren't expecting it to!"
+No,Repeatable: No Sound after upgrading to 69.0.1
+No,"Intermittent GECKO(1664) | Assertion failure: NS_IsMainThread() && !ThreadRunning(), at /builds/worker/workspace/build/src/dom/media/GraphDriver.cpp:234"
+No,Perma /html/semantics/embedded-content/media-elements/track/track-element/track-cue-rendering-after-controls-removed.html | Testing http://web-platform.test:8000/html/semantics/embedded-content/media-elements/track/track-element/track-cue-rendering-after
+No,"Intermittent Assertion failure: mForceShutDown || LifecycleStateRef() < LIFECYCLE_WAITING_FOR_MAIN_THREAD_CLEANUP, at /builds/worker/workspace/build/src/dom/media/MediaStreamGraph.cpp:1690"
+No,Intermittent TEST-UNEXPECTED-CRASH | /mediacapture-streams/idlharness.https.window.html | expected OK
+No,"Intermittent GECKO(10484) | Assertion failure: NS_GetCurrentThread() == mThread, at z:/build/build/src/dom/media/ipc/RemoteDecoderChild.cpp:282"
+No,Intermittent TEST-UNEXPECTED-CRASH | /html/semantics/embedded-content/media-elements/track/track-element/track-cues-enter-exit.html | expected OK
+No,Intermittent tier 2 TV dom/media/test/test_load_source_empty_type.html | Test timed out.
+No,Intermittent TEST-UNEXPECTED-TIMEOUT | /mediacapture-record/MediaRecorder-disabled-tracks.https.html | audio-video - Test timed out
+No,Intermittent dom/media/mediacontrol/tests/browser_audio_focus_management.js | Test timed out -
+No,Intermittent SUMMARY: AddressSanitizer: access-violation z:\build\build\src\dom\media\MediaCache.cpp:2231 in mozilla::MediaCacheStream::CloseInternal
+No,Intermittent dom/media/test/test_seek-8.html | Test timed out!
+No,Intermittent dom/media/webspeech/recognition/test/test_success_without_recognition_service.html | Test timed out.
+No,"Intermittent PID 7537 | Assertion failure: false (Buffers not leaving scope except for reconfig, should never leak), at /builds/worker/workspace/build/src/dom/media/VideoFrameConverter.h:313"
+No,Intermittent dom/media/test/test_mediarecorder_onerror_pause.html | Got unexpected dataavailable event
+No,Intermittent dom/media/test/test_mediarecorder_onerror_pause.html | Unexpected error fired with: AbortError: The operation was aborted.
+No,Intermittent dom/media/test/test_mediarecorder_record_gum_video_timeslice.html | onstop unexpectedly fired before ondataavailable
+No,Add native MP3 decoding support
+No,[RTSP] Playing a 9 1/2 minute YouTube 3GP video via RTSP for about 5 minutes will stop streaming out of no where & kill the video
+No,[B2G][Browser][Video Streaming] Streaming of video content on youtube breaks approximately 10 minutes in[B2G].
+No,"Intermittent GECKO(4272) | Assertion failure: false (MOZ_ASSERT_UNREACHABLE: A consumer was not explicitly removed), at /builds/worker/workspace/build/src/dom/media/MediaStreamTrack.cpp:497"
+No,"Intermittent GECKO(2175) | Assertion failure: droppedFrames <= totalFrames, at /builds/worker/workspace/build/src/dom/media/mediacapabilities/DecoderBenchmark.cpp:19"
+No,"Intermittent VideoFrameConverterTest.Duplication | Expected: (frames[1].second() - now) > (TimeDuration::FromMilliseconds(1100)), actual: 1099.99 ms vs 1100 ms @ z:/build/build/src/dom/media/gtest/TestVideoFrameConverter.cpp:142"
+No,Fission: Slow Change Tab and Can't clip Youtube link iframe
+No,Intermittent dom/media/webspeech/recognition/test/test_success_without_recognition_service.html | application crashed [@ mozilla::DOMMediaStream::NotifyTrackRemoved(RefPtr<mozilla::dom::MediaStreamTrack> const&)]
+No,Crash in [@ libxul.so@0xc89a79 | libxul.so@0xc89a28 | libxul.so@0x3461e13 | libxul.so@0xc8ff5d | libxul.so@0x73af45b | libxul.so@0x73af45b | libxul.so@0x3462322 | libxul.so@0x3470f84 | libstdc++.so.6.0.21@0x70d78]
+No,Intermittent TEST-UNEXPECTED-CRASH | /media-source/mediasource-invalid-codec.html | expected OK
+No,Intermittent TEST-UNEXPECTED-CRASH | /html/semantics/embedded-content/media-elements/track/track-element/track-node-add-remove.html | expected OK
+No,"Intermittent leakcheck | default 3601013 bytes leaked (AbstractThread, AbstractWatcher, AnimationTimeline, AsyncFreeSnowWhite, AtomSet, ...)"
+No,"""Bullet screen"" just only show cut half word in Niconico"
+No,"Assertion failure: false (MOZ_ASSERT_UNREACHABLE: Unsupported source type), at dom/media/webrtc/MediaEngineDefault.cpp:598"
+No,Firefox crashes on any page that plays a video...
+No,Intermittent PROCESS-CRASH | Main app process exited normally | application crashed [@ mozilla::ContainerState::ProcessDisplayItems(class nsDisplayList *)]
+No,"Intermittent PROCESS-CRASH | Main app process exited normally | application crashed [@ mozilla::VideoFrameConverter::ProcessVideoFrame(const class RefPtr<mozilla::layers::Image> & const, class mozilla::TimeStamp, struct mozilla::gfx::IntSizeTyped<mozilla:"
+No,Intermittent PROCESS-CRASH | Main app process exited normally | application crashed [@ nsIEventTarget::IsOnCurrentThread()]
+No,Intermittent devtools/client/inspector/rules/test/browser_rules_grid-toggle_03.js | application crashed [@ mozalloc_abort] after application terminated with exit code 1
+No,"videos twinkle with a variable and random period, even in safe mode. linux mint. no problem with another browser."
+No,Browser freezes when multiple text tracks are used on a video
+No,Intermittent TestAudioCallbackDriver.StartStop | Value of: driver->ThreadRunning()
+No,"Intermittent leakcheck | tab 96 bytes leaked (Mutex, Runnable)"
+No,Intermittent TEST-UNEXPECTED-CRASH | /html/semantics/embedded-content/media-elements/playing-the-media-resource/pause-remove-from-document-different-load.html | expected OK
+No,No audio is played on any website
+No,captureStream is not working in Firefox.
+No,heap-use-after-free in [@ nsObserverList::NotifyObservers]
+No,GMPDecryptorParent::Shutdown() sends a message from the wrong thread
+No,AddressSanitizer: unknown-crash near [@mozilla::ThreadedDriver::WaitForNextIteration]
+No,"Intermittent GECKO(1108) | Assertion failure: guess != previousGuess (Guess should be different to previous), at z:/build/build/src/dom/media/ogg/OggDemuxer.cpp:1738"
+No,Intermittent dom/media/mediasource/test/test_WaitingOnMissingData.html | Test timed out.
+No,Almosl all Youtube videos except for streams do not play after FireFox 72 versions is installed.
+No,Intermittent TEST-UNEXPECTED-TIMEOUT | /webaudio/the-audio-api/the-audionode-interface/channel-mode-interp-basic.html | Executor hit external timeout (this may indicate a hang)
+No,Intermittent dom/media/mediasource/test/test_AbortAfterPartialMediaSegment.html | Test timed out.
+No,Intermittent dom/media/webspeech/recognition/test/test_recognition_service_error.html | application timed out after 370 seconds with no output
+No,"<video> tag with ogg consumes too much system resource, 99% CPU."
+No,"Intermittent PID 21546 | Assertion failure: !mIsRegisteredToService, at /builds/worker/workspace/build/src/dom/media/mediacontrol/MediaController.cpp:33"
+No,Intermittent dom/media/tests/mochitest/test_peerConnection_twoAudioVideoStreamsCombined.html | Error in test execution: Error: Timeout checking for stats for track {4767fbc2-cfcf-48dc-88a3-55ae032cee19} after at least30000ms waitForRtpFlow
+No,Intermittent dom/media/webspeech/recognition/test/test_timeout.html | Test timed out.
+No,"Intermittent leakcheck | plugin 172 bytes leaked (AudioSession, Mutex, nsStringBuffer)"
+No,Intermittent /mixed-content/gen/top.meta/opt-in/video-tag/same-https.no-redirect.https.html | Mixed-Content: Expects allowed for video-tag to same-https origin and no-redirect redirection from https context. - assert_equals:
+No,Intermittent tier 2 TCw TEST-UNEXPECTED-TIMEOUT | /webaudio/the-audio-api/the-audioworklet-interface/audioworkletprocessor-promises.https.html | Executor hit external timeout (this may indicate a hang)
+No,Intermittent TEST-UNEXPECTED-TIMEOUT | dom/media/mediasession/test/browser_active_mediasession_among_tabs.js | application timed out after 370 seconds with no output
+No,"Intermittent VideoFrameConverterTest.Duplication | Expected: (TimeStamp::Now() - now) > (TimeDuration::FromMilliseconds(1100)), actual: 1099.95 ms vs 1100 ms @ z:/build/build/src/dom/media/gtest/TestVideoFrameConverter.cpp:135"
+No,Intermittent dom/media/test/test_seek_duration.html | application timed out after 370 seconds with no output
+No,Intermittent dom/media/webspeech/recognition/test/test_recognition_service_error.html | Test timed out.
+No,Intermittent dom/media/webspeech/recognition/test/test_online_malformed_result_handling.html | Test timed out.
+No,Intermittent TEST-UNEXPECTED-TIMEOUT | dom/media/mediacontrol/tests/browser_audio_focus_management.js | application timed out after 370 seconds with no output
+No,Intermittent GECKO(3068) | SUMMARY: ThreadSanitizer: thread leak /builds/worker/workspace/build/src/ipc/chromium/src/base/platform_thread_posix.cc:123:14 in CreateThread
+No,Intermittent dom/media/webspeech/recognition/test/test_online_http_webkit.html | unexpected event: error -- No speech detected (timeout) | Test timed out.
+No,Intermittent dom/media/webaudio/test/test_AudioBuffer.html | Test timed out.
+No,Intermittent TEST-UNEXPECTED-TIMEOUT | /webaudio/the-audio-api/the-audionode-interface/audionode-connect-order.html | Executor hit external timeout (this may indicate a hang)
+No,Intermittent TEST-UNEXPECTED-TIMEOUT | dom/media/mediacontrol/tests/browser_media_control_keys_event.js | application timed out after 370 seconds with no output
+No,"Intermittent leakcheck | tab X bytes leaked (CondVar, IPC::Channel, Mutex, PVideoDecoderManagerChild, RefCountedMonitor, ...)"
+No,"Intermittent dom/media/mediacontrol/tests/browser_media_control_non_eligible_media.js | This test exceeded the timeout threshold. It should be rewritten or split up. If that's not possible, use requestLongerTimeout(N), but only as a last resort. -"
+No,AutoConfig allows running privileged code and subverts extension signing
+No,getPref does not aware Unicode string
+No,Unicode characters are unavailable in autoconfig aka MCD (regression)
+No,autoconfig should have the secure ldap support
+No,Stop using nonstandard JavaScript in AutoConfig files
+No,loading remote autoadmin.js from http://<server>/config/autoadmin.js loads nothing
+No,variable lock (lockPref) doesn't work
+No,Remove the obscuring of the autoconfig file.
+No,general.config.filename should be reported on telemetry
+No,Errors while reading the autoconfig file should not be fatal
+Yes,Provide visual cue for active tab on tab previews
+Yes,"Final text of SpeechRecognitionResult::transcript is ""ERROR"" if there is an error in recognition"
+Yes,Alerts are not announced by Talkback
+Yes,Accessibility: Android Talkback w/ Firefox 42.0.2 user unable to interact with input default value
+Yes,When a tobble button is activated the new state is not announced automatically by Talkback
+Yes,Talkback reports crash in nsDocShell::Destroy().
+Yes,Crash: Talkback ID TB36634075E [@ nsVoidArray::IndexOf ]
+Yes,Crashes in Talkback data [@ nsHttpsHandler::NewURI] Trunk
+Yes,when a select option is chosen Talkback does not announce the new state of the select
+Yes,"Loading page causes freeze, no Talkback, both WindowsXP & Linux"
+Yes,Firefox exits with frequent random crashes which Talkback doesn't notice [@ js_SetClassPrototype]
+Yes,"Firefox crashes on start after update, Talkback stack shows fullsoft.dll and iphlpapi"
+Yes,Crash without Talkback when page is loaded. Sites were fine before.
+Yes,4.2 and 4.4 Talkback does not work in dropdown html elements
+Yes,Should you be able to scroll when Talkback is enabled in FF for Android?
+Yes,Change descriptions for DOM Inspector and Talkback to match new NSIS descriptions
+Yes,Talkback crash stack dump
+Yes,Talkback: Third of Top Ten Incidents in M9
+Yes,Talkback: Second of Top Ten crashes in M9
+Yes,"[PP]1999-08-18-09-M10 build:Apprunner crashes on Win 95, Win NT and Win 98 - Talkback Incident #12572662"
+Yes,Talkback: Fourth of Top Ten incidents in M9
+Yes,Crash during find [Talkback ID Below]
+Yes,M099 Reproducible crash (with Talkback data) when using Bugzilla [@ nsHTMLInputElement::IsImage][@ nsHTMLInputElement::StringToAttribute]
+Yes,"Ebay browsing halts Mozilla, gives Talkback"
+Yes,"Talkback opens in menu bar everytime I open Firefox, then it's window opens and I can't get it off screen, have to Click ""Quit Talkback"" to get it off screen."
+Yes,Browser crash [Talkback ID: TB36053948E]
+Yes,Video tag subtitles from different domains do not work
+Yes,Netflix subtitles font
+Yes,VTT subtitles/captions are missing features
+Yes,[Linkedin] subtitle text shifts on hover - starting steps section
+Yes,[webvtt] subtitle disappear with the ui control.
+Yes,Can't dynamically change subtitle tracks on a <video> element
+Yes,[webvtt] HTML5 Video track/subtitles do not scale when using css transform scale on parent elements
+Yes,No subtitles / captions in Amazon Prime video
+Yes,[webvtt] Video element does not load subtitles track if initialized with preload attribute set to none
+Yes,VTT subtitles are shown double in latest Firefox
+Yes,"A <track kind=invalid> should behave like metadata, not subtitles"
+Yes,[webvtt] Add captions div to nsVideoFrame for webvtt subtitle display
+Yes,web-platform test audio_has_no_subtitles.html times out
+Yes,webm files with subtitles are rejected
+Yes,[webvtt] Ensure that voice tags display the speaker on the subtitle
+Yes,Implement WebVTT (subtitles) in JS
+Yes,Error is special char. in with ANSI in HTML5 caption/subtitles
+Yes,Firefox does not display subtitles/captions as expected
+Yes,"When transform scale is applied, video track subtitles scale with the viewport"
+Yes,Netflix subtitles have a large font-size on small HD screen
+Yes,[webvtt] The two rows subtitles are overlapped with video controls on mouse hover
+Yes,[webvtt] Two rows subtitles are not entirely visible when browser is in fullscreen
+Yes,Netflix subtitles are given a larger font-size in Linux
+Yes,Form validates in screen readers despite 'novalidate' attribute
+Yes,Version 33.1.1 does not support my screen reader. The text is jaggy. This was not a problem on the previous version. Is there a way to return to the previous version.
+Yes,Firefox is sluggish with screen readers
+Yes,FF ESR freezes clicking on the microphone with the JAWS screen reader on
+Yes,HTML <meter> not spoken by screen readers
+Yes,Assertion failure: mAppInfo (no application info) with screen reader enabled
+Yes,SVG content not heard in screen readers.
+Yes,NVDA screen reader doesn't read texts on hover when the element has a `transform: translate3d` property
+Yes,"[meta] Text formatting not exposed to screen readers, inaccessible"
+Yes,"Left/right arrows behave asymmetrically, confusing users and screen readers"
+Yes,"Starting with SM2.21, NVDA screen reader speaks too much information when reading the status bar in the mail client."
+Yes,provide feature to detect screen reader users
+Yes,Add the screen reader simulator accessibility add-on to the default Mulet toolbox.
+Yes,"wrapped label not read by screen reader when input type is ""number"""
+Yes,Text input and links are not selectable when using screen reader with Fenix or Fennec
+Yes,"Buttons exposed as children of <input type=""number""> break text reporting for screen readers"
+Yes,NVDA screen reader not getting focus and read image ALT text
+Yes,"New <input type=""number""> implementation does not report changes with JAWS screen reader"
+Yes,"Context menu accessibility broken, first level no longer accessible to screen readers"
+Yes,Windows screen readers are broken due to post-130078 changes in the native widget structure
+Yes,"When we start navigating with the screen reader, we should not jump back at the start at the ""load"" event"

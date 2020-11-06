@@ -1,0 +1,442 @@
+BRA,Summary
+No,"Toggling ""Disable Cache"" leads to disk-cached file loaded without response headers"
+No, Wangma company by the number of +86 (10) 8256-3185
+No,MediaRouterWebUIBrowserTest.OpenDialogWithMediaRouterAction flakily times out on Mac
+No,Externally accessible MenuItemView static variables should be initialized before RunMenuAt() call
+No,`-webkit-stroke-text` results in wrong text-decoration colour
+No,VoiceOver fails to read certain units of text when interacting with an object
+No,SessionStorage: Compact data maps on deletion.
+No,"DCHECK on ""cancel downloads"" dialog close"
+No,macviews: checked checkboxes appear faded with blue accent & low contrast mode
+No,Content scripts should be able to perform same-origin fetches
+No,Keyboard shortcuts map incorrectly in MacOS Dvorak-QWERTY-⌘ layout
+No,Null-dereference READ in google::protobuf::internal::RepeatedPtrFieldBase::InternalExtend
+No,It's possible to end up with an omnibox that looks focused but isn't; this is per-tab and switching to an infected tab and then to a new tab infects the new tab
+No,Web page is bookmarked after clicking on close(x) button
+No,Devtools protocol monitor filter doesn't work
+No,mix-blend-mode (at least used in an SVG) not respected when printing
+No,Null-dereference READ in SkColorSpaceXformCanvas::~SkColorSpaceXformCanvas
+No,CORS warns of blocking in XMLHTTPRequest but doesn't block the request
+No,Regression: [DevTools] Unwanted focus highlight is seen on error msg in 'Console' section after clicking on icon.
+No,Regression: Unnecessary movement of Page Number is seen while traversing focus over textbox in pdf
+No,Regression : 'Open file' list appears transparent in dev tools.
+No,Regression:[Devtools]Separator line between audit records is not seen.
+No,Regression:Options under filter list shifts down and is seen out of the container when expanding multiple filter types in flipkart.com.
+No,Regression: [NTP] Thumbnail Monogram is not center aligned after creating a shortcut.
+No,IMPROVEMENT REQUEST: show the whole object when there is enough space
+No,Regression: Broken image is seen instead of Google logo on NTP.
+No,Chrome does not distinguish `italic` and `oblique` in web fonts
+No,Security: Extensions can add host permissions for chrome:// pages
+No,Regression : Blue focus ring appears faint for 'Filter' text box in console section of devtools.
+No,Regression:Scroll-bar is seen in overflow menu and overflow menu bounce up and comes back in video.
+No,"Canvas is tainted after drawing SVG including <foreignObject>, loaded with data: URL"
+No,Scroll route to wrong frame
+No,Iframe not disappear after scroll
+No,Accept-Language  header includes languages NOT in Settings - Language 
+No,Null-dereference READ in mojo::ScopedInterfaceEndpointHandle::~ScopedInterfaceEndpointHandle
+No,In product warnings about the impending Flash Deprecation
+No,Update Out of Date Plugin UI
+No,Ill in blink::TextDecoder::decode
+No,Stack-overflow in blink::ElementInnerTextCollector::ProcessNode
+No,DoS/Crash repeatedly adding to open select widget
+No,After deleting all cookies you can still log in until browser is restarted.
+No,Remove support for PNaCl (from the open web)
+No,Move PNaCl behind and origin trial
+No,Stack-overflow in blink::LayoutBlock::UpdateLayout
+No,Webpack style HMR causes MacOS Chrome tab to crash or hang
+No,Flaky video on 2009 Mac Pro with latest Chrome
+No,scrollIntoView is not working inside shadow dom
+No,Datalist options not appearing as suggestions for an input field after its type has been set to password once
+No,If a ::first-letter CSS selector is applied full text selection by drag is impossible 
+No,CORS XHR request using withCredentials=true doesn't send Cookie header
+No,Chrome does not recognize 'as=worker' as valid attribute in preload link; workers thus cannot be preloaded
+No,PDFs from a specific domain not loading in chrome viewer
+No,Do not show a proper name of my school on Google Maps
+No,"Google search won't work, redirects to bing every time. "
+No,Security: Cross origin resource size infoleak
+No,incorrect display of a invalid certificate
+No,Windows: chrome does not remember the last folder
+No,SVG continuously repainting
+No,Bus in storeColor
+No,Omnibar hides 'view-source:' on failure ('view-source://' shows outside incognito) and accepts just '.'
+No,Hyperlink containing 'unknown' 2+ character long scheme with target _blank only opens blank untitled tab
+No,Chrome logging me out every time I quit
+No,view-source hotkey command+u does not work on mac
+No,Out-of-memory in dawn_wire_server_and_frontend_fuzzer
+No,CSS border-image-slice longhand not overridden by default value in border-image shorthand
+No,Images that are both hidden and filtered dramatically increase PDF rendering time
+No,use of uninitialized value of cache->owning_group may lead to sanbox escape
+No,Security: chromedriver LCE
+No,Extension overflow icons in main menu don't highlight when moused over from top
+No,Background cover bug
+No,Background with linear-gradient is not filling whole element height
+No,Interactive element inside interactive element works unexpectedly
+No,Bus in gldRenderFillPolygonPtr
+No,Chrome pdf viewer does not working properly..
+No,Salesforce Help Page
+No,Detection of when form may be submitted is not correct.
+No,Shorthand CSS properties not expandable if source is written in capital letters
+No,PWA: 3-dot menu highlight is square (should be round)
+No,"PWA ""Uninstall"" string inconsistent with dialog, ""Remove X?"""
+No,paymentRequestId not populated in payment request event
+No,synonym search in Settings
+No,Provide enhanced developer UI experience
+No,Security: Heap-use-after-free in TypedArray.join
+No,"""Open link behind mail"" no longer works"
+No,Corrupt file download if service worker is running
+No,Translated Back button hover text needs tweaked
+No,Reports from ReportingObserver aren't JSON Serializable
+No,"Restore user preference, especially ""Hide"" for extension after upgrading/sign out-> sign in"
+No,Security: beaconing users via Google Chrome's pdf viewer
+No,Broken youtube title / likes / dislikes when translated to different language
+No,Javascript popups abrutly closing for legit sites.
+No,Crash in chrome_child!blink::PictureInPictureControllerImpl::OnEnteredPictureInPicture
+No,"Chrome takes forever to load the browser, web pages, and new tabs"
+No,CHECK failure: std::numeric_limits<unsigned>::max() - data.length() >= result_length in text.cc
+No,"Painting very slow while scrolling, when page containing one fixed header and body opacity is set to less than 1"
+No,Top level domain not being added when pasting in a domain name
+No,"""com.apple.system.powersources.timeremaining"" has been registered 200 times - this may be a leak"
+No,Devtools > Application > CacheStorage > (check a request) Response > Preview; Maybe show wrong content 
+No,ESOCKETTIMEDOUT error on latest version on chrome and chromedriver
+No,Non-Regression: Unnecessarily SAVE button enabled when 'card expired' error message is seen in chrome://settings/payments
+No,Horizontal scrollbar stuck after mouse over on it
+No,Cannot manage saved passwords
+No,"Incorrect mapping for GreenAsia joystick (0x0e8f, 0x0003) on Linux"
+No,history.replaceState adds a new entry every time to global history
+No,CHECK failure: !frame_ || frame_->Tree().ChildCount() == 0 in document.cc
+No,svg tspan: diagonal-fractions and letter-spacing do not work together
+No,Security: DCHECK failure in V8 DeclarationScope Analyze phase
+No,'-webkit-text-fill-color has weird interaction with text-decoration-color
+No,"Bus in BEInt<unsigned int, 4>::operator unsigned int"
+No,"[css-values] calc-with-time-angle-and-frequency-values test is highly unreliable, transition-delay testing causes side effects"
+No,Can't hide bookmarks on default starting page/new tab page
+No,"Heap-buffer-overflow in BEInt<unsigned int, 4>::operator unsigned int"
+No,DCHECK for views examples on macOS
+No,Cannot move Window
+No,When bookmarks is longer than the page it hides the other bookmarks tabs
+No,video element's content don't fill available space
+No,Chrome extension history api deleteUrl doesnot take effect
+No,Security: Cross Domain Bug of Indexeddb Database
+No,Graphical corruption with blurs on macOS 10.13
+No,Null-dereference READ in cc::TaskGraph::~TaskGraph
+No,Fatal javascript Out of memory
+No,Unexpected overflow visibily rendered during page load
+No,Privacy error page for NET::ERR_CERT_DATE_INVALID incorrectly calculates when certificate expired
+No,Unusable scrolling with lots of SVGs
+No,Null-dereference WRITE in dawn_wire::server::Server::OnMapWriteAsyncCallback
+No,The open attribute for the dialog element does not work unless you use the showModal() method
+No,Heap-use-after-free in gfx::ToEnclosingRect
+No,Links to pages without title are unclickable in chrome://history
+No,abort in pdfium_test (copied from PDFium tracker)
+No,"Chrome refers to Windows shortcut for reaching the ""download bar"" on Mac OS"
+No,Print Preview: Localize the date in the header
+No,Display goes to sleep during sharing a tab
+No,Border-Radius forward slash not present in document.styleSheets[0].cssRules (or cssText)
+No,Plan B PeerConnection will send the MID header extension if the remote offer specifies it
+No,WebIDL compiler should use base::Optional for non-required dictionary members
+No,App focus jumps around when hiding Chrome to switch to a PWA
+No,MacPWAs: New open windows should have a new position
+No,Build clang with CLANG_PLUGIN_SUPPORT=OFF
+No,Mac PWAs: App windows are not High DPI
+No,Background Fetch's UpdateUI not always updating icon
+No,Background Fetch download progress bar resetting with every new request
+No,Rebaseline tests for Skia rectangle perf update
+No,Regression:Unnecessary collapse action is seen for cookies list on 'chrome://settings/siteData' page.
+No,I get this message in Chrome for gmail This site can’t be reached https://mail.google.com/mail/?tab=cm is unreachable.
+No,Implement chrome.idle.getAutolockDelay on platforms other than Chrome OS
+No,Null-dereference READ in blink::AXObjectCacheImpl::MarkAXObjectDirty
+No,svg foreignObject not forwarding click event since 71
+No,"Project Paradise - if cards save fail, the card icon should be changed"
+No,SignedExchange: certificate request should have Accept: application/cert-chain+cbor header
+No,False SyntaxError on Sibling JS-Labels
+No,Security: CORB Bypass Successfully sent a request
+No,Implement Advanced Protection download protection prototype
+No,There is a BIG BUG - no way ti disable the new round tab shapes
+No,Regression: custom formatters are not always applied in ObjectPropertiesSection.js
+No,"Flash of unstyled content (FOUC) on ""application/xhtml+xml"" page load"
+No,IsOriginSecure() does not seem to honor origin whitelist in browser process
+No,Chrome displaying printers that are not installed on macOS 10.14+
+No,PIPELINE_ERROR_DECODE on audio fragments when transit from Ads to main content (unencrypted to encrypted)
+No,Flakes in some texture_size WebGL conformance tests on macOS
+No,Single linefeed (\n) handled inconsistently in FormData()
+No,Content allow/block settings are now harder to search
+No,Update Feature Policy JS API: Add featurePolicy.features()
+No,"'-webkit-mask-size and -webkit-mask-composite don't interact correctly, mask image appears to be clipped"
+No,"Update Feature Policy JS API: Rename {document,iframe}.policy to .featurePolicy"
+No,Chromedriver test ChromeDriverSiteIsolation.testCanClickOOPIF fails on Mac platform on Waterfall 
+No,Omnibox Dropdown flickers when Rich Entity Suggestions are shown
+No,"""_clang.arc.use"" linker errors on clang tot mac bots"
+No,CHECK failure: !frame_ || frame_->Tree().ChildCount() == 0 in document.cc
+No,False rejects caused by pixel_tests on macOS
+No,Null-dereference READ in v8::internal::PagedSpace::Verify
+No,Null-dereference READ in /usr/lib/libc++.1.dylib:x86_64
+No,Heap-use-after-free in cc::Layer::SetOffsetToTransformParent
+No,'英数' (Eisu) key and 'かな' (Kana) key don't generate a Keyboard event
+No,Active Desktop Notifications are not replaced by subsequent notifications that reuse the same tag
+No,Audits ignore device and network settings
+No,Heap-buffer-overflow in sh::TIntermConstantUnion::FoldAggregateBuiltIn
+No,MediaStreamRecorder needs a way to specify a targeted framerate
+No,Regression: Print Preview page scrolls down after pressing Down arrow key over radio button
+No,Regression:Dual focus is seen on media controls of video on pressing tab key.
+No,Regression: [Settings] Text in tab strip is loaded twice after killing page
+No,Regression : Unnecessarily two focus highlights are seen at same time in omnibox and on cast overlay.
+No,[LayoutNG] Crash in blink::NGInlineBoxFragmentPainter::PaintBackgroundBorderShadow
+No,"[Missing Tests] [Unity] Remove Google icon on ""Sync and Google services"" settings row"
+No,Regression: Blue focus ring on 'Google Dashboard' is seen chopped from bottom.
+No,Change of msid in remote description should update receiver's streams and fire ontrack
+No,[Passwords] Allow Editing of Passwords in Chrome Settings
+No,Download cancellation prompt happens after tabstrip teardown
+No,Null-dereference READ in gpu::ImplementationBase::SetBucketContents
+No,MacPWAs: Voiceover ignores text selection
+No,Regression: Unable to unmute the video after clicking on Volume icon.
+No,Bus in gpu::raster::RasterImplementation::PaintOpSerializer::Serialize
+No,Regression:Grey Horizontal patch is seen on top of the frame in Video.
+No,"Setting the badge in a PWA, opening in Chrome and setting the badge crashes Chrome"
+No,Regression: Shaka-player video black out for a moment and seek bar doesn't appear on mouse hovering.
+No,CrossCallParamsEx::GetParameterStr causes Heap-buffer-overflow
+No,Crash in media::Vp9Parser::ParseSuperframe
+No,Add more i18n placeholder examples to the docs
+No,Update Chrome icon is super low-contrast in Incognito on macOS
+No,Crash (flaky) when blink::MediaCustomControlsFullscreenDetector::OnCheckViewportIntersectionTimerFired() is called
+No,Add metrics for client cert authentication
+No,Do not load a synced background which is not available
+No,Security: Two autocomplete flaws together allow sites to invisibly read credit card numbers after a single keypress
+No,Overflow:hidden doesn't works with Columns CSS3 Property 
+No,Incorrect anchoring and focusing from certificate window in app info
+No,Drag preview of element with border-radius sometimes includes element's background
+No,Security: Session Storage values are stored forever capturing all the disc space
+No,Bluetooth.MacOS.Errors.DidDiscoverPrimaryServices Should Be a SparseHistogram
+No,HistoryMenuBridgeTest unit test failures on Mac64 _Beta official.desktop.continuous 
+No,False rejects caused by webgl_conformance_tests.
+No,Service worker registration + Clear-Site-Data + SW dev tools open hangs all requests
+No,Mac Retina Release (AMD) is offline
+No,Implement bindings for SB committed main frame interstitials
+No,bring back autoplay ability for background tabs
+No,Position absolute & border-radius
+No,"[css-scroll-snap] Programmatic scrolling to snap position isn't interrupted/cancelled by anchor link scrolling, unlike when snap-snap-type is none"
+No,Anchor link in horizontal scroll container won't trigger scrolling if element is at least partially in view
+No,SimulatorParallelTestRunner failed if xcodebuild didn't start
+No,Null-dereference READ in blink::LockManager::LockRequestImpl::LockRequestImpl
+No,Swarming: run task inside the context of a temporary user
+No,BrowserNotifiedToBeforeGpuSwap2 regressed between 2x and 3x on 50th percentile on Canary across all platforms.
+No,Credential Management  using navigator.credentials.store() not implemented in headless chrome.
+No,Google Chrome macOS sync: connection failed (-102)
+No,Multiple Mac WebGL testers failing with FATAL:thread_restrictions.cc(116)] Check failed: !g_base_sync_primitives_disallowed.Get().Get
+No,Not all pages are saved in browser's history
+No,Make NavigationHandleImpl a simple wrapper around NavigationRequest
+No,Browser crashes if tab is closed during directory scan for folder upload
+No,Security: Double-destruction race in StoragePartitionService
+No,PDF is not shown when service worker provides the response with ServiceWorkerServicification
+No,Shortcut window name overlaps with traffic signal buttons in RTL.
+No,columnheader incorrectly identified as rowheader
+No,Regression: Unable to change writing direction to 'Right to Left' in URL text field of NTP.
+No,Regression: Extra space is seen on 'More Actions' menu of saved password entry in 'chrome://settings/passwords'.
+No,Regression: Background text is seen on separator line of Password suggestion drop-down.
+No,Regression : Unnecessarily omnibox shifts downwards on opening 'Cast' overlay.
+No,ctrl+cmd+down cause beep alert on input
+No,Regression: Volume slider overlaps with play button when bringing focus on it using TAB key.
+No,Regression: Grey focus highlight appears to be chopped on Home icon on mouse hovering.
+No,Regression: Separator line is not seen between passed audit records in devtools.
+No,Return error immediately when no matching credentials found on WebAuthn
+No,Regression: Unwanted Glimpse of text is seen after refreshing the chrome://settings/payments page
+No,Regression: Movment of 'Font size / Minimum Font size' slider is observed on 'Customize fonts' sub-page.
+No,Migrate HostedAppButtonContainer to use FlexLayout
+No,"Grit: preprocess=""true"" fails to remove some platform specific code in <include>s"
+No,Fullscreen button not working on some video players
+No,SignedExchange: Reject SXG if fallback URL has invalid UTF-8 sequence
+No,macOS PWA windows: Round corners
+No,Mac trybots are not archiving retry summaries
+No,Tab Capture doesn't recover after crashed renderer is reloaded
+No,scroll-snap doesn't respect |enable_scroll_animator| preference
+No,ChromeVox reads display: none and visibility: hidden content
+No,Compile failure in official.desktop.continuous Mac BETA builder
+No,zerowidth-space &#8203; misinterpreted in special case
+No,Variations.SeedFetchResponseOrErrorCode.HTTP and Variations.SeedFetchResponseOrErrorCode histograms are swapped in M72+
+No,Regression: Toolbar height flickers/enlarges during Canary is starting
+No,Implement Feature-Policy-Report-Only header
+No,Switch-to-tab function disables right arrow deselect
+No,Either MediaRecorder or CanvasCaptureMediaStreamTrack requires rAF inbetween frames
+No,"Regression: When the window is very small, the Omnibox shouldn't be draggable"
+No,No Audio from vimeo videos
+No,PaintWorklet: glitch on high dpi
+No,Regression: Cast Icon reappears on the Toolbar
+No,Favicons on the password page should not disappear
+No,"Browser crashes when using Local NTP, a doodle is present, and passing a --google-base-url"
+No,[Selfshare] Create context menu item on desktop for self share
+No,Pyramid fill() rendering bug
+No,Investigate libevent latency in MessagePumpIO
+No,SVG ForeignObjects not taking transforms into account for mouse events
+No,Event.Latency.ScrollUpdate.Wheel.TimeToScrollUpdateSwapBegin4 99th percentile regressed by 45% on M73
+No,Merge to M72: Missing send time info can cause large backoff in bandwidth estimate
+No,Bug on keyboard shortcuts to select start or end of line
+No,Browser gets crashed on exit fullscreen of shortcut window.
+No,Regression:Separator line  is not seen between upper-strip and window on created shortcut window.
+No,Regression: Unable to exit the video from full screen mode after clicking on full screen icon
+No,Regression : Unnecessary person name gets highlighted in  'Add Person' overlay.
+No,Regression: Unable to shift focus using down arrow key on 'Cast' overlay.
+No,Regression: Scroll-bar behavior issue is observed on chrome://settings page.
+No,Security: UAF in RenderProcessHostImpl binding for P2PSocketDispatcherHost
+No,ul in nav cut off when expanded on hover
+No,Cannot read request.formData
+No,Merge to M72: VP9 resets temporal prediction pattern
+No,Regression: Search box spinner keeps spinning forever after searching for a query.
+No,background disappears in certain case
+No,dev tools preview and response sequence mismatch
+No,Chrome_Mac: Crash Report - mojo::`anonymous namespace'::SendInvitation
+No,Regression: Estimated time for the video is not seen after playing the video.
+No,Timeout in media_pipeline_integration_fuzzer
+No,Timeout in html_preload_scanner_fuzzer
+No,parent element would scroll when moving out of child element which has used event.preventDefault() in onwheel listener
+No,Saving target.com as MHTML does not restore the original look
+No,V8 HeapObject pointing to JIT memory
+No,Generic traces fail to open in DevTools
+No,Replace DevTools installability check with plumbing to the actual C++ installability check
+No,DevTools: installability check is not complete
+No,Port GPU Process to V2 Sandbox
+No,chrome.input.ime - Property 'input' does not exist
+No,Input handling in single threaded mode should use InputHandlerProxy
+No,Input handling in single threaded mode should use InputHandlerProxy
+No,mac-rel out of disk space
+No,Restrict triggering rules for AppsNavigationThrottle.
+No,inactive-document-with-empty-security-origin tests failing
+No,Console displays inherited getter as own property
+No,net_unittests failing on chromium.mac/Mac10.12 Tests
+No,'-webkit-mask-composite does not ignore 'source-in' when there is only one mask image.
+No,Chrome Account Sync paused on browser restart when proxy is set through an extension
+No,"new Request().body returns undefined, against fetch spec"
+No,Omnibox Math Results Can't Be Copied To Clipboard Anymore
+No,Security: Heap-use-after-free in TypedArray.toLocaleString
+No,"VoiceOver goes into ""busy"" state after deleting a message in Gmail"
+No,Null-dereference READ in sfntly::BitmapGlyph::Builder::SubDataSizeToSerialize
+No,"[Autofill Sync] VoiceOver does not announce after selecting ""show cards..."""
+No,Session restore should take into account background use case signals
+No,Tabs too tall and indestinguishable
+No,client.postMessage delivers too early
+No,"Update Clear browsing data dialog to use ""payment method(s)"" instead of ""credit card(s)"""
+No,"In at least a snapport, can animation curves for scrolling from scroll-behavior and scroll-snap be consistent/consolidated?"
+No,Using CanvasRenderingContext2D.putImageData()/getImageData() results in slightly changed color values
+No,MD Extensions Error Lines plural i18n placeholder $1 should be wrapped in <ph> element
+No,Content Security Policy reports violation on WebAssembly calls although source 'unsafe-eval' is given
+No,Incorrect JS interpretation in v. 69-71 when using function on window instance
+No,Regression:'Loading...' message is seen on chrome://history/syncedTabs for a long time after page refresh
+No,"""create a new profile"" no longer link data"
+No,Sourcemap request doesn't send sameSite=lax cookies despite same origin
+No,Regression: Unnecessary 'Saved password' bubble appears after clicking on email-id on www.gmail.com
+No,MediaDocument creates <video> for audio files
+No,Regression:Recording favicon in Tab Strip is seen black in colour.
+No,"When open CWS link in new windows and restore down it, CWS is visibel in background"
+No,Regression: Focus navigates to chrome chip in omnibox instead of below iron-icon on pressing TAB key.
+No,Flaky interactive_ui_tests failing on chromium.mac/Mac10.11 Tests (OmniboxViewViewsTest.SelectAllOnClick)
+No,Bus in gldMergeScanlines2x2
+No,SVG textPath does not do text-shaping - multiple languages
+No,Regression: Dual focus is seen after navigating on 'chrome://settings/content/siteDetails'.
+No,Regression : Separator line is not seen above 'Manage search engines' option in chrome://settings page.
+No,Mac PWAs: Hang when attempting to exit Fullscreen
+No,MacPWAs: Reparent tab when installing PWA
+No,Page does not print properly
+No,Bus in cc::PaintOpWriter::Write
+No,PDF documents not showing in Incognito mode
+No,Security: Origin header-based CSRF protection bypass
+No,Crash in gldRenderFillPolygonPtr
+No,Timeout in audio_decoder_fuzzer
+No,Abrt in sfntly::IndexSubTableFormat4::Builder::GlyphLength
+No,"""Manage audio focus across tabs"" issue not working"
+No,Stack-overflow in blink::LayoutObject::FindNextLayer
+No,Non-bubbling events should not cause the activation behavior of parents to run
+No,Security:  Type Confusion in LayoutBlockFlow::CreateLineBoxes
+No,cancelAnimationFrame doesn't behave according to the spec
+No,[Dark mode] Update treatment of sync paused chip in Dark mode
+No,Your connection was interrupted - Chrome Error
+No,Your connection was interrupted - Chrome Error
+No,Your connection was interrupted - Chrome Error
+No,Your connection was interrupted - Chrome Error
+No,Timeout in gfx_png_image_fuzzer
+No,Security: Background fetch leaks cross-origin response size
+No,Horizontal scrollbar does not disappear for <pre>
+No,Clusterfuzz: Can't send XHR with 3GB POST request body
+No,Drag and drop from Apple Photos to Chrome does not work
+No,NetworkDelegate blocking https://photos.google.com from reading cookies needed for proper operation
+No,Incomplete PDF rendering using Save as PDF - with a map object
+No,Tainted canvases security issue breaking many extensions (latest DEV builds)
+No,"Video resources not requested when ""disable cache"" is active"
+No,Heap-buffer-overflow in sh::TIntermConstantUnion::FoldAggregateBuiltIn
+No,Picture in Picture PIP is disabled
+No,"Cisco Meeting App using URL.createObjectURL, removed in Chrome 71"
+No,Script onload function does not fire if added from an iframe that later gets removed
+No,Use-after-poison in mojo::SimpleWatcher::OnHandleReady
+No,Out-of-memory in sfntly_fuzzer
+No,"chrome://extensions: ""Allow on all websites"" is confusing"
+No,Scheduler refactor breaks Lighthouse in DevTools
+No,Flakiness in integration tests on macOS causes INVALID_TEST_RESULTS
+No,[MacViews] The Downloads Bar has an Inkdrop Effect on the File-More-Icon and Close Icon
+No,CIPD Xcode deployment can poison bots
+No,The close button of the Omnibox Doorhanger Menu flickers when you click on it
+No,EffectiveTouchActionPropagatesAcrossNestedFrames is flaky
+No,"If a preventDefault was called on a 'mousedown' event in an iframe, its corresponding 'mouseup' event isn't fired when it happens outside of the iframe."
+No,CHECK failure: !frame_ || frame_->Tree().ChildCount() == 0 in document.cc
+No,Timeout in sequence_manager_fuzzer
+No,Worker mode - window resize generates more gpu memory and GC won't clean it
+No,Null-dereference READ in sfntly::EbdtTable::Builder::GenerateLocaList
+No,OOB operation in SwiftShader JIT code.
+No,OOB write in sw::PixelProgram::WHILE
+No,OOB write in sw::VertexProgram::WHILE
+No,OOB write in sw::PixelProgram::Program
+No,OOB write in sw::VertexProgram::Program
+No,popup scroll bar interferes with clicking content
+No,Regression: [DevTools] Blue focus ring of 'Geolocation' dropdown gets chopped on zoom-in in 'Sensors' section
+No,Regression: Focus ring navigates on disabled 'Restore default background' option on NTP.
+No,Translate popup shows outside the DPWA window
+No,Regression : Grey focus highlight is not seen on 'Cast' icon in omnibox on opening cast overlay.
+No,Http auth saving should work with new parsing.
+No,Regression: Search icon is seen misplaced with respect to text field on chrome://settings/content/all page.
+No,Reflection blocking is broken.
+No,Cookies Entries are not opening with single click.
+No,Regression: PDF does not navigate to 'Cover page' after selecting its option from the list.
+No,XHR: xhr.responseURL should return the response URL
+No,Unable to access gmail with Chrome
+No,Sporadic images fail to load with ERR_CONTENT_DECODING_FAILED
+No,options in a wide datalist do not stretch the full width of the associated input box
+No,Overflow images disappear if the web page is printed to PDF
+No,WebUI: Add support for Javascript modules
+No,WebApp: Fix WebAppTabHelper edge cases
+No,Ill in blink::TextDecoder::decode
+Yes,Accessibility issues with CourseSmart.com
+Yes,Investigate when WebAccessibility's with the same renderer_id's change roles.
+Yes,Crash when going to yahoo.com with accessibility enabled.
+Yes,Leak in BrowserAccessibilityManager::Create
+Yes,"AccessibilityAria{Menu,Level} is failing"
+Yes,Mac Message Center: Accessibility
+Yes,[a11y] the buttons for closing browser tabs should provide friendlier accessibility label for VoiceOver
+Yes,"MacViews(a11y): Views textfields don't provide accessibilityValue, acessibilitySelectedText, accessibilityNumberOfCharacters, role description, and maybe other important things"
+Yes,Mac: Simplified fullscreen bubble should be announced when VoiceOver is enabled [Accessibility Eng bug]
+Yes,Failed variable initialization leads to disability to assign value to it later
+Yes,Date time month pickers + VoiceOver: not usable by screen reader users; keyboard only cannot open menu
+Yes,Text in <strong> or <em> elements inside of a <label> element is not read by screen readers
+Yes,Use of style text-transform: uppercase causes some screen readers to read text as acronyms (spelled out)
+Yes,A11Y: Chrome Version/Screen reader : User is unable to retrieve Chrome version using screen reader
+Yes,Security chip drag and drop: no equivalent for keyboard/screen reader users
+Yes,"Screen readers not reading toast after toggling ""Allow Chrome sign-in"" in Settings "
+Yes,"The close button on the chrome crash bubble view is not set as a focusable object therefore, trapping the screen reader user inside the dialog"
+Yes,[Missing Test]: AX focus events not consistently firing in iframes [was: Screen reader is not able to interact with contents of iFrame.]
+Yes,Screen reader focus should be on PDF document
+Yes,Screen readers should read out changes in dependent settings
+Yes,A11Y: Chrome Settings/Screen Reader: Screen reader does not announce the state of the show home button in Chrome settings. 
+Yes,Changes to aria hidden not respected by android screen reader
+Yes,number input element gave screen reader an uncommon name - stepper
+Yes,"Chrome ""add person"" icons not indicating selected status to screen reader users"
+Yes,A11y: Extensions: When setting a keyboard shortcut there is no notification to screen readers
+Yes,"Time A11y: Pop-up needs to announce time, and Esc needs to correctly hide from screen reader"
+Yes,"Color A11y: pop-up and its inner UIs need to announce their states/values, and trap screen reader focus"
+Yes,Color picker pop-up doesn't open with keyboard when screen reader is on
+Yes, 'Learn more'  button(question mark) on requestDevice dialog is not meaningful/descriptive enough for screen reader users.
+Yes,"Screen readers + keyboard only unable to access clear/stepper buttons inside input types date, time, number"
+Yes,Cookie controls toggle not read by screen reader
+Yes,Permission indicators do not announce themselves for screen readers
+Yes,Screen reader can access items with tabindex=-1 that are inside of aria-hidden ancestors.
+Yes,Chrome hangs/crashes when attempting to sign into a Google account with screen reader enabled
+Yes,Screen reader reads out labels twice
+Yes,AX focus events not consistently firing in iframes [was: Screen reader is not able to interact with contents of iFrame.]
+Yes,Screen readers don't narrate properly pill elements in the input/combobox
+Yes,Chrome browser: Screen reader doesn't detect correctly table with enclosed treegrid
+Yes,Screen reader too verbose when reading time remaining in a media file
+Yes,[Autofill] Screen readers VoiceOver and ChromeVox repeat suggestion information twice
